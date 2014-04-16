@@ -1,0 +1,230 @@
+<!DOCTYPE html>
+
+<!--[if IE 8]>    <html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"> <!--<![endif]-->
+
+<!-- Start Header Section -->
+<?php include 'head.php'; ?>
+<!-- End Header Section -->
+
+<body>
+	<!-- Start Navigation Section -->
+	<?php include 'nav.php'; ?>
+	<!-- End Navigation Section -->
+
+	<!-- Start Header Section -->
+	<div class="header header_alt">
+
+		<div class="header-text">
+			<h2>Gallery</h2>
+			<h6 id="sub_header">View All Projects</h6>
+			<hr>
+		</div>
+		
+	</div>
+	<!-- End Header Section -->
+
+
+	<!-- Start Content Section -->
+
+	<div class="content content_alt">
+
+		<div class="bg_gradient">
+
+			<div class="row">
+	
+				<div class="large-6 columns">
+					<ul class="thumbnails cs-style-3">
+						<li>
+							<figure>
+								<a href="tedostone.php"><img src="img/gallery-featured-tedostone.jpg" alt="img04"></a>
+								<figcaption>
+									<h4>Tedo Stone</h4>
+									<span>Psychedelic Rocker</span>
+									<a href="tedostone.php" class="btn-small inverse hide-for-small">View Project</a>
+								</figcaption>
+							</figure>
+						</li>
+					</ul>
+				</div>
+		
+				<div class="large-6 columns">
+					<ul class="thumbnails cs-style-3">
+						<li>
+							<figure>
+								<a href="#"><img src="http://placehold.it/940x600/666666/ffffff" alt="img04"></a>
+								<figcaption>
+									<h4>Settings</h4>
+									<span>A Description goes here</span>
+									<a href="#" class="btn-small inverse hide-for-small">View Project</a>
+								</figcaption>
+							</figure>
+						</li>
+					</ul>
+				</div>
+	
+			</div>
+
+			<div class="row">
+	
+				<div class="large-6 columns">
+					<ul class="thumbnails cs-style-3">
+						<li>
+							<figure>
+								<a href="quark.php"><img src="img/gallery-featured-quark.jpg" alt="img04"></a>
+								<figcaption>
+									<h4>Quark Coin</h4>
+									<span>Cryptocurrency</span>
+									<a href="quark.php" class="btn-small inverse hide-for-small">View Project</a>
+								</figcaption>
+							</figure>
+						</li>
+					</ul>
+				</div>
+		
+				<div class="large-6 columns">
+					<ul class="thumbnails cs-style-3">
+						<li>
+							<figure>
+								<a href="cupidsprey.php"><img src="img/gallery-featured-cupidsprey.jpg" alt="img04"></a>
+								<figcaption>
+									<h4>Cupid's Prey</h4>
+									<span>Lust List 2012</span>
+									<a href="cupidsprey.php" class="btn-small inverse hide-for-small">View Project</a>
+								</figcaption>
+							</figure>
+						</li>
+					</ul>
+				</div>
+	
+			</div>
+
+			<div class="row">
+	
+				<div class="large-6 columns">
+					<ul class="thumbnails cs-style-3">
+						<li>
+							<figure>
+								<a href="#"><img src="http://placehold.it/940x600/666666/ffffff" alt="img04"></a>
+								<figcaption>
+									<h4>Settings</h4>
+									<span>A Description goes here</span>
+									<a href="#" class="btn-small inverse hide-for-small">View Project</a>
+								</figcaption>
+							</figure>
+						</li>
+					</ul>
+				</div>
+		
+				<div class="large-6 columns">
+					<ul class="thumbnails cs-style-3">
+						<li>
+							<figure>
+								<a href="#"><img src="http://placehold.it/940x600/666666/ffffff" alt="img04"></a>
+								<figcaption>
+									<h4>Settings</h4>
+									<span>A Description goes here</span>
+									<a href="#" class="btn-small inverse hide-for-small">View Project</a>
+								</figcaption>
+							</figure>
+						</li>
+					</ul>
+				</div>
+	
+			</div>
+
+			<div class="row">
+	
+				<div class="large-6 columns">
+					<ul class="thumbnails cs-style-3">
+						<li>
+							<figure>
+								<a href="#"><img src="http://placehold.it/940x600/666666/ffffff" alt="img04"></a>
+								<figcaption>
+									<h4>Settings</h4>
+									<span>A Description goes here</span>
+									<a href="#" class="btn-small inverse hide-for-small">View Project</a>
+								</figcaption>
+							</figure>
+						</li>
+					</ul>
+				</div>
+		
+				<div class="large-6 columns">
+					<ul class="thumbnails cs-style-3">
+						<li>
+							<figure>
+								<a href="#"><img src="http://placehold.it/940x600/666666/ffffff" alt="img04"></a>
+								<figcaption>
+									<h4>Settings</h4>
+									<span>A Description goes here</span>
+									<a href="#" class="btn-small inverse hide-for-small">View Project</a>
+								</figcaption>
+							</figure>
+						</li>
+					</ul>
+				</div>
+	
+			</div>
+
+			<div class="row">
+	
+				<div class="large-6 columns">
+					<ul class="thumbnails cs-style-3">
+						<li>
+							<figure>
+								<a href="#"><img src="http://placehold.it/940x600/666666/ffffff" alt="img04"></a>
+								<figcaption>
+									<h4>Settings</h4>
+									<span>A Description goes here</span>
+									<a href="#" class="btn-small inverse hide-for-small">View Project</a>
+								</figcaption>
+							</figure>
+						</li>
+					</ul>
+				</div>
+		
+				<div class="large-6 columns">
+					<ul class="thumbnails cs-style-3">
+						<li>
+							<figure>
+								<a href="#"><img src="http://placehold.it/940x600/666666/ffffff" alt="img04"></a>
+								<figcaption>
+									<h4>Settings</h4>
+									<span>A Description goes here</span>
+									<a href="#" class="btn-small inverse hide-for-small">View Project</a>
+								</figcaption>
+							</figure>
+						</li>
+					</ul>
+				</div>
+	
+			</div>
+
+		</div>
+
+		<!-- Start Footer Section -->
+		<?php include 'footer.php'; ?>
+		<!-- End Footer Section -->
+	
+	</div>
+
+	<!-- End Content Section -->
+
+  <script>
+  document.write('<script src=js/vendor/' +
+  ('__proto__' in {} ? 'zepto' : 'jquery') +
+  '.js><\/script>')
+  </script>
+
+  <script src="js/foundation.min.js"></script>
+
+  <script>
+    $(document).foundation();
+  </script>
+
+  <script src="js/effects-alt.js"></script>
+
+</body>
+
+</html>
