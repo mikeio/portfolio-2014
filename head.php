@@ -6,6 +6,9 @@
 
   <title>The Online Portfolio of Mike Peters</title>
 
+  <script src="pace/pace.js"></script>
+  <link href="pace/themes/pace-theme-minimal.css" rel="stylesheet" />
+
   <link rel="stylesheet" href="css/normalize.css">
   <link rel="stylesheet" href="css/style.css">
   <link rel="stylesheet" href="css/animate.css">
