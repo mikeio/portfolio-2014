@@ -6062,7 +6062,7 @@ a.th {
   .header {
     position: fixed;
     top: 102px;
-    background: whitesmoke url("../img/bg_header.jpg") no-repeat center 122px;
+    background: whitesmoke url("../img/bg_header.jpg") no-repeat center bottom;
     padding: 120px 0.9375em 240px; }
 
   .header_alt {
