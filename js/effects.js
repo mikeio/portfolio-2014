@@ -26,7 +26,7 @@ scrollPos = jQuery(this).scrollTop();
 
 // Welcome Text
 jQuery('.header-text').css({
-  'margin-top' : -(scrollPos/10)+"px",
+  'margin-top' : -(scrollPos/7)+"px",
 });
 
 // Welcome Background

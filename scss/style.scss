@@ -540,10 +540,26 @@ $green: #30b911;
 			text-align: center;
 		}
 
+		ul {
+			font-size: 0.875em;
+			margin-left: 20px;
+			margin-bottom: 35px;
+			margin-top: 0.7em;
+			max-width: 470px;
+			text-align: center;
+			display: inline-block;
+
+		li {
+			margin-bottom: 0.7em;
+			line-height: 1.4;
+		}
+	}
+
 		#date {
 			font-size: 1em;
 			color: $mediumgrey;
 			margin-bottom: 40px;
+			text-align: center;
 		}
 	
 		#jobtitle {
@@ -753,6 +769,12 @@ $green: #30b911;
 
 		p {
 			margin-bottom: 40px;
+			text-align: left;
+			max-width: 100%;
+		}
+
+		ul {
+			max-width: 100%;
 			text-align: left;
 		}
 

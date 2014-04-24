@@ -5817,10 +5817,22 @@ a.th {
       max-width: 470px;
       display: inline-block;
       text-align: center; }
+    .resume ul {
+      font-size: 0.875em;
+      margin-left: 20px;
+      margin-bottom: 35px;
+      margin-top: 0.7em;
+      max-width: 470px;
+      text-align: center;
+      display: inline-block; }
+      .resume ul li {
+        margin-bottom: 0.7em;
+        line-height: 1.4; }
     .resume #date {
       font-size: 1em;
       color: #999999;
-      margin-bottom: 40px; }
+      margin-bottom: 40px;
+      text-align: center; }
     .resume #jobtitle {
       color: #cccccc; }
     .resume #employer {
@@ -5978,6 +5990,10 @@ a.th {
     text-align: left; }
     .resume p {
       margin-bottom: 40px;
+      text-align: left;
+      max-width: 100%; }
+    .resume ul {
+      max-width: 100%;
       text-align: left; }
     .resume hr {
       margin: 40px auto 80px; }
