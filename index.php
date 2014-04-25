@@ -17,9 +17,9 @@
 	<div class="header">
 
 		<div class="header-text">
-			<h6 id="intro">The Online Portfolio,&nbsp;of</h6>
-			<h1>Mike Peters</h1>
-			<h6 id="outro">A designer from Atlanta,&nbsp;Ga</h6>
+			<h6 id="intro" class="animated fadeInDown">The Online Portfolio,&nbsp;of</h6>
+			<h1 class="animated fadeInDown">Mike Peters</h1>
+			<h6 id="outro" class="animated fadeInDown">A designer from Atlanta,&nbsp;Ga</h6>
 			<hr>
 		</div>
 		

@@ -5467,7 +5467,9 @@ a.th {
     width: 100%; }
     .header h1 {
       margin: 0;
-      padding: 0; }
+      padding: 0;
+      -webkit-animation-delay: .5s;
+      -moz-animation-delay: .5s; }
     .header hr {
       background-color: #999999;
       height: 2px;
@@ -5482,7 +5484,9 @@ a.th {
     .header #outro {
       color: #cccccc;
       letter-spacing: 2px;
-      margin-top: 17px; }
+      margin-top: 17px;
+      -webkit-animation-delay: 1s;
+      -moz-animation-delay: 1s; }
     .header #sub_header {
       color: #999999;
       letter-spacing: 2px;
@@ -5831,7 +5835,8 @@ a.th {
     footer .mobile_hide {
       display: none; }
     footer ul li {
-      padding-bottom: 30px; }
+      padding-bottom: 30px;
+      list-style-type: none; }
 
   .arrow_up {
     display: block;
@@ -5862,17 +5867,6 @@ a.th {
       max-width: 470px;
       display: inline-block;
       text-align: center; }
-    .resume ul {
-      font-size: 0.875em;
-      margin-bottom: 35px;
-      margin-top: 0.7em;
-      max-width: 470px;
-      text-align: center;
-      display: inline-block;
-      list-style-position: inside; }
-      .resume ul li {
-        margin-bottom: 0.7em;
-        line-height: 1.4; }
     .resume #date {
       font-size: 1em;
       color: #999999;
@@ -5890,6 +5884,18 @@ a.th {
       border: 0; }
     .resume #hr-last {
       margin-bottom: 80px; }
+
+  .skills ul {
+    font-size: 0.875em;
+    margin-bottom: 35px;
+    margin-top: 0.7em;
+    max-width: 470px;
+    text-align: center;
+    display: inline-block;
+    list-style-position: inside; }
+    .skills ul li {
+      margin-bottom: 0.7em;
+      line-height: 1.4; }
 
   label {
     font-size: 1.25em;
@@ -6037,9 +6043,6 @@ a.th {
       margin-bottom: 40px;
       text-align: left;
       max-width: 100%; }
-    .resume ul {
-      max-width: 100%;
-      text-align: left; }
     .resume hr {
       margin: 40px auto 80px; }
 
@@ -6149,6 +6152,14 @@ a.th {
     padding: 0px 35px; }
   footer .mobile_hide {
     display: inline-block; }
+
+  .skills ul {
+    list-style-position: outside;
+    text-align: left;
+    margin-left: 20px;
+    max-width: 100%; }
+    .skills ul li {
+      max-width: 100%; }
 
   .sidebar {
     text-align: left; } }

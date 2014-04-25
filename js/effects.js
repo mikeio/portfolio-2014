@@ -31,7 +31,7 @@ jQuery('.header-text').css({
 
 // Call To Action
 jQuery('.bg_action').css({
-  'background-position-y' : 400+(scrollPos/10)+"px",
+  'background-position-y' : 400+(scrollPos/7)+"px",
 });
 
 }

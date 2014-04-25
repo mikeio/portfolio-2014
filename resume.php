@@ -107,10 +107,12 @@
 
 				<div class="large-9 columns">
 					<h4 id="employer">Design</h4>
-						<ul>
-							<li>Advanced usage of Adobe products; Photoshop, Illustrator and InDesign.</li>
-							<li>Experience developing and producing imagery for vehicle wraps, trade show booth displays, large outdoor graphics, digital advertisement and printed materials.</li>
-						</ul>
+						<div class="skills">
+							<ul>
+								<li>Advanced usage of Adobe products; Photoshop, Illustrator and InDesign.</li>
+								<li>Experience developing and producing imagery for vehicle wraps, trade show booth displays, large outdoor graphics, digital advertisement and printed materials.</li>
+							</ul>
+						</div>
 				</div>
 
 			</div>
@@ -119,12 +121,14 @@
 
 				<div class="large-9 large-offset-3 columns">
 					<h4 id="employer">Development</h4>
-						<ul>
-							<li>Fluent in HTML 5 / CSS 3 with everyday usage of SASS.</li>
-							<li>Sublime Text and CodeKit are my tools of choice. All JS and SASS files are compiled into compressed and minified master files for inclusion on the front-end design.</li>
-							<li>Extensive knowledge of media queries and the Foundation framework.</li>
-							<li>Working knowledge of Javascript and PHP.</li>
-						</ul>
+						<div class="skills">
+							<ul>
+								<li>Fluent in HTML 5 / CSS 3 with everyday usage of SASS.</li>
+								<li>Sublime Text and CodeKit are my tools of choice. All JS and SASS files are compiled into compressed and minified master files for inclusion on the front-end design.</li>
+								<li>Extensive knowledge of media queries and the Foundation framework.</li>
+								<li>Working knowledge of Javascript and PHP.</li>
+							</ul>
+						</div>
 				</div>
 
 			</div>
