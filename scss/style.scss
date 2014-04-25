@@ -120,7 +120,11 @@ $green: #30b911;
 
 	.header_alt {
 		padding: 85px 0.9375em 100px;
-		background: $offwhite url('../img/bg_header.jpg') no-repeat center -23px;
+		background: $offwhite url('../img/bg_header-sml.jpg') no-repeat center bottom;
+	}
+
+	.header-text {
+		position: static;
 	}
 
 	.sticky {
@@ -896,7 +900,11 @@ $green: #30b911;
 
 	.header_alt {
 		padding: 38px 0.9375em 100px;
-		background: $offwhite url('../img/bg_header.jpg') no-repeat center -70px;
+		background: $offwhite url('../img/bg_header-sml.jpg') no-repeat center bottom;
+	}
+
+	.header-text {
+		position: relative;
 	}
 
 	.icon_middle {
@@ -904,9 +912,7 @@ $green: #30b911;
 	}
 
 	.contact {
-
-		text-align: left;
-		
+		text-align: left;	
 	}
 
 	.alert-box {

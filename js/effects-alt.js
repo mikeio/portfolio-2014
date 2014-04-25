@@ -26,12 +26,7 @@ scrollPos = jQuery(this).scrollTop();
 
 // Hero Text
 jQuery('.header-text').css({
-  'margin-top' : -(scrollPos/7)+"px",
-});
-
-// Hero Background
-jQuery('.header_alt').css({
-  'background-position-y' : -70-(scrollPos/3)+"px",
+  'top' : -(scrollPos/10)+"px",
 });
 
 }

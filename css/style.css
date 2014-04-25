@@ -5490,7 +5490,10 @@ a.th {
 
   .header_alt {
     padding: 85px 0.9375em 100px;
-    background: whitesmoke url("../img/bg_header.jpg") no-repeat center -23px; }
+    background: whitesmoke url("../img/bg_header-sml.jpg") no-repeat center bottom; }
+
+  .header-text {
+    position: static; }
 
   .sticky {
     top: 0; }
@@ -6083,7 +6086,10 @@ a.th {
 
   .header_alt {
     padding: 38px 0.9375em 100px;
-    background: whitesmoke url("../img/bg_header.jpg") no-repeat center -70px; }
+    background: whitesmoke url("../img/bg_header-sml.jpg") no-repeat center bottom; }
+
+  .header-text {
+    position: relative; }
 
   .icon_middle {
     margin: 0px 0px; }
