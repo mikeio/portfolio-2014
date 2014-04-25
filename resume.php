@@ -40,8 +40,8 @@
 
 				<div class="large-6 columns">
 					<h4 id="employer">Brightfire, LLC</h4>
-						<h5 id="jobtitle">Senior Project Manager</h5>
-						<p>Consectetur ipsum dolor sit. Vivamus vitae libero odio, eu interdum elit sit amet massa. Donec dignissim purus vel leo accumsan amet, consecte. Proin sit amet massa mi, in volutpat ante purus vel leo </p>
+						<h5 id="jobtitle">Graphic Designer</h5>
+						<p>Worked directly with and managed assets for Live Nation; specifically Live Nation Atlanta, Florida and the national market. Daily responsibilities included the creation of digital advertisements and print items such as posters, handbills, billboards and large format printed items.</p>
 				</div>
 
 				<div class="large-3 columns">
@@ -54,8 +54,8 @@
 
 				<div class="large-6 large-offset-3 columns">
 					<h4 id="employer">RSVPATL</h4>
-						<h5 id="jobtitle">Senior Project Manager</h5>
-						<p>Consectetur ipsum dolor sit. Vivamus vitae libero odio, eu interdum elit sit amet massa. Donec dignissim purus vel leo accumsan amet, consecte. Proin sit amet massa mi, in volutpat ante purus vel leo </p>
+						<h5 id="jobtitle">Graphic Designer</h5>
+						<p>Produced quality work in a fast-paced environment, meeting deadlines and client expectations for creativity and accuracy. I also helped clients envision a new or revitalized web presence using the latest techniques and technologies including social media, content management systems, event management, and advertising. </p>
 				</div>
 
 				<div class="large-3 columns">
@@ -67,13 +67,13 @@
 			<div class="row">
 
 				<div class="large-6 large-offset-3 columns">
-					<h4 id="employer">Hazard County</h4>
-						<h5 id="jobtitle">Senior Project Manager</h5>
-						<p>Consectetur ipsum dolor sit. Vivamus vitae libero odio, eu interdum elit sit amet massa. Donec dignissim purus vel leo accumsan amet, consecte. Proin sit amet massa mi, in volutpat ante purus vel leo </p>
+					<h4 id="employer">Neighborhood News</h4>
+						<h5 id="jobtitle">Junior Designer</h5>
+						<p>Worked closely with the sales staff to create, modify and update advertisements in time to meet monthly advertising deadlines. I also work directly with the editorial staff to build the monthly newspaper.</p>
 				</div>
 
 				<div class="large-3 columns">
-					<h6 id="date">2008 - 2012</h6>
+					<h6 id="date">2007 - 2010</h6>
 				</div>
 
 			</div>
@@ -81,13 +81,13 @@
 			<div class="row">
 
 				<div class="large-6 large-offset-3 columns">
-					<h4 id="employer">Neighborhood News</h4>
-						<h5 id="jobtitle">Senior Project Manager</h5>
-						<p>Consectetur ipsum dolor sit. Vivamus vitae libero odio, eu interdum elit sit amet massa. Donec dignissim purus vel leo accumsan amet, consecte. Proin sit amet massa mi, in volutpat ante purus vel leo </p>
+					<h4 id="employer">Walton Press</h4>
+						<h5 id="jobtitle">Bindery Assistant</h5>
+						<p>Performed various tasks that are involved in binding books, newspapers, magazines and other printed materials. My responsibilities involved the operation of a variety of power equipment, such as folding, cutting, collating, drilling, punching and binding machines.</p>
 				</div>
 
 				<div class="large-3 columns">
-					<h6 id="date">2007 - 2008</h6>
+					<h6 id="date">2004 - 2007</h6>
 				</div>
 
 			</div>
@@ -110,6 +110,7 @@
 						<div class="skills">
 							<ul>
 								<li>Advanced usage of Adobe products; Photoshop, Illustrator and InDesign.</li>
+								<li>Extensive knowledge of preparing files for CMYK output.</li>
 								<li>Experience developing and producing imagery for vehicle wraps, trade show booth displays, large outdoor graphics, digital advertisement and printed materials.</li>
 							</ul>
 						</div>
