@@ -14,6 +14,14 @@
                 <li><a href="contact.php">Contact</a></li>
 	    	</ul>
 
+	    	<div class="social-links">
+	    		<ul>
+	        	  	<li><a href="https://github.com/papsx/"><span class="social_github"></span></a></li>
+	        	  	<li><a href="https://www.facebook.com/mike.peters.94"><span class="social_facebook"></span></a></li>
+	        	  	<li><a href="https://twitter.com/activistco"><span class="social_twitter"></span></a></li>
+	    		</ul>
+	    	</div>
+
 	    	<span id="copyright">
         		2014 © Mike Peters. All rights reserved.
       		</span>
