@@ -24,12 +24,12 @@ function scrollBanner() {
 //Get the scoll position of the page
 scrollPos = jQuery(this).scrollTop();
 
-// Welcome Text
+// Hero Text
 jQuery('.header-text').css({
   'margin-top' : -(scrollPos/7)+"px",
 });
 
-// Welcome Background
+// Hero Background
 jQuery('.header').css({
   'background-position-y' : 122-(scrollPos/3)+"px",
 });

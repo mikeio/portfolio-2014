@@ -122,10 +122,8 @@
 						<ul>
 							<li>Fluent in HTML 5 / CSS 3 with everyday usage of SASS.</li>
 							<li>Sublime Text and CodeKit are my tools of choice. All JS and SASS files are compiled into compressed and minified master files for inclusion on the front-end design.</li>
-							<li>Extensive knowledge of media queries and the Foundation framework. </li>
-							<li>Intermediate knowledge of Javascript</li>
-							<li>jQuery is used daily for items such as adding/removing classes in responsive designs at specific resolutions, controlling menus and triggering animations, form validation etc.</li>
-							<li>Working knowledge of PHP.</li>
+							<li>Extensive knowledge of media queries and the Foundation framework.</li>
+							<li>Working knowledge of Javascript and PHP.</li>
 						</ul>
 				</div>
 

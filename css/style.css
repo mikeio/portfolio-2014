@@ -5819,12 +5819,12 @@ a.th {
       text-align: center; }
     .resume ul {
       font-size: 0.875em;
-      margin-left: 20px;
       margin-bottom: 35px;
       margin-top: 0.7em;
       max-width: 470px;
       text-align: center;
-      display: inline-block; }
+      display: inline-block;
+      list-style-position: inside; }
       .resume ul li {
         margin-bottom: 0.7em;
         line-height: 1.4; }
