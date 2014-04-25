@@ -126,6 +126,7 @@
 							<ul>
 								<li>Fluent in HTML 5 / CSS 3 with everyday usage of SASS.</li>
 								<li>Extensive knowledge of media queries and the Foundation framework.</li>
+								<li>Knowledge of version control systems such as Github and BitBucket.
 								<li>Sublime Text and CodeKit are my tools of choice. All JS and SASS files are compiled into compressed and minified versions for inclusion on the front-end design.</li>
 								<li>Working knowledge of Javascript and PHP.</li>
 							</ul>
