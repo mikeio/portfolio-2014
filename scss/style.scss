@@ -468,10 +468,10 @@ $green: #30b911;
 
 	.social-links {
 		ul {
-			margin: 0;
+			margin: 0 auto 35px;
 
 			li {
-				padding: 0px 15px;
+				padding: 0px 12px;
 				display: inline-block;
 			}
 		}
@@ -479,7 +479,7 @@ $green: #30b911;
 
 	.social_github {
 		display: block;
-		margin: 0 auto 30px;
+		margin: 0 auto;
 		width: 30px;
 		height: 30px;
 		background: url('../img/social_github.png') bottom;
@@ -493,7 +493,7 @@ $green: #30b911;
 
 	.social_facebook {
 		display: block;
-		margin: 0 auto 30px;
+		margin: 0 auto;
 		width: 30px;
 		height: 30px;
 		background: url('../img/social_facebook.png') bottom;
@@ -507,7 +507,7 @@ $green: #30b911;
 
 	.social_twitter {
 		display: block;
-		margin: 0 auto 30px;
+		margin: 0 auto;
 		width: 30px;
 		height: 30px;
 		background: url('../img/social_twitter.png') bottom;
