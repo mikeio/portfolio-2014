@@ -41,7 +41,7 @@
 				<div class="large-6 columns">
 					<h4 id="employer">Brightfire, LLC</h4>
 						<h5 id="jobtitle">Graphic Designer</h5>
-						<p>Worked directly with and managed assets for Live Nation; specifically Live Nation Atlanta, Florida and the national market. Daily responsibilities included the creation of digital advertisements and print items such as posters, handbills, billboards and large format printed items.</p>
+						<p>Worked directly with and managed assets for Live Nation; specifically Live Nation Atlanta, Florida and the National market. Daily responsibilities included the creation of digital advertisements and print items such as posters, handbills, billboards and large format printed items.</p>
 				</div>
 
 				<div class="large-3 columns">
@@ -125,8 +125,8 @@
 						<div class="skills">
 							<ul>
 								<li>Fluent in HTML 5 / CSS 3 with everyday usage of SASS.</li>
-								<li>Sublime Text and CodeKit are my tools of choice. All JS and SASS files are compiled into compressed and minified master files for inclusion on the front-end design.</li>
 								<li>Extensive knowledge of media queries and the Foundation framework.</li>
+								<li>Sublime Text and CodeKit are my tools of choice. All JS and SASS files are compiled into compressed and minified versions for inclusion on the front-end design.</li>
 								<li>Working knowledge of Javascript and PHP.</li>
 							</ul>
 						</div>
