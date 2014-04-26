@@ -142,6 +142,71 @@
 			</div>
 
 			<div class="row">
+
+				<div class="large-3 columns">
+					<h4 id="section">Education</h4>
+					<hr class="hide-for-medium-up" id="category-hr">
+				</div>
+
+				<div class="large-6 columns">
+					<h4 id="employer">George Walton Academy</h4>
+						<h5 id="jobtitle">University-preparatory school</h5>
+						<p>Graduated with honors and received high school diploma.</p>
+				</div>
+
+				<div class="large-3 columns">
+					<h6 id="date">1994 - 2005</h6>
+				</div>
+
+			</div>
+
+			<div class="row">
+				<div class="large-12 columns">
+					<hr>
+				</div>
+			</div>
+
+			<div class="row">
+
+				<div class="large-3 columns">
+					<h4 id="section">Awards</h4>
+					<hr class="hide-for-medium-up" id="category-hr">
+				</div>
+
+				<div class="large-6 columns">
+					<h4 id="employer">United States Achievement Academy</h4>
+						<h5 id="jobtitle">All American Scholar Award</h5>
+						
+						<p>Nominated and received the All American Scholar Award in Journalism.</p>
+
+						<h6>Standards for selection include:</h6>
+
+						<div class="skills">
+							<ul>
+								<li>Academic potential</li>
+								<li>Personal motivation</li>
+								<li>Cooperative classroom attitude</li>
+								<li>Dependability</li>
+								<li>Enthusiasm for education</li>
+								<li>Leadership qualities</li>
+								<li>Serious acceptance of responsibility</li>
+							</ul>
+							</div>
+				</div>
+
+				<div class="large-3 columns">
+					<h6 id="date">2004</h6>
+				</div>
+
+			</div>
+
+			<div class="row">
+				<div class="large-12 columns">
+					<hr>
+				</div>
+			</div>
+
+			<div class="row">
 				<div class="large-12 columns">
 					<a href="#" class="btn-medium btn-last">Download PDF</a>
 				</div>
