@@ -13,10 +13,10 @@
 		<section class="top-bar-section">
 			<ul>
 				<li><a href="/">Home</a></li>
-				<li><a href="gallery.php">Gallery</a></li>
+				<li><a href="/gallery">Gallery</a></li>
 				<li class="show-for-medium-up"><a href="/"><img src="img/logo.png" id="nav_logo"></a></li>
-				<li><a href="resume.php">Resume</a></li>
-				<li><a href="contact.php">Contact</a></li>
+				<li><a href="/resume">Resume</a></li>
+				<li><a href="/contact">Contact</a></li>
 			</ul>
 		</section>
 
