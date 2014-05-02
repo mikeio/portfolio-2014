@@ -37,11 +37,11 @@
 					<ul class="thumbnails cs-style-3">
 						<li>
 							<figure>
-								<a href="tedostone.php"><img src="img/gallery-featured-tedostone.jpg" alt="img04"></a>
+								<a href="tedostone"><img src="img/gallery-featured-tedostone.jpg" alt="img04"></a>
 								<figcaption>
 									<h4>Tedo Stone</h4>
 									<span>Psychedelic Rocker</span>
-									<a href="tedostone.php" class="btn-small inverse hide-for-small">View Project</a>
+									<a href="tedostone" class="btn-small inverse hide-for-small">View Project</a>
 								</figcaption>
 							</figure>
 						</li>
@@ -71,11 +71,11 @@
 					<ul class="thumbnails cs-style-3">
 						<li>
 							<figure>
-								<a href="quark.php"><img src="img/gallery-featured-quark.jpg" alt="img04"></a>
+								<a href="quark"><img src="img/gallery-featured-quark.jpg" alt="img04"></a>
 								<figcaption>
 									<h4>Quark Coin</h4>
 									<span>Cryptocurrency</span>
-									<a href="quark.php" class="btn-small inverse hide-for-small">View Project</a>
+									<a href="quark" class="btn-small inverse hide-for-small">View Project</a>
 								</figcaption>
 							</figure>
 						</li>
@@ -86,11 +86,11 @@
 					<ul class="thumbnails cs-style-3">
 						<li>
 							<figure>
-								<a href="cupidsprey.php"><img src="img/gallery-featured-cupidsprey.jpg" alt="img04"></a>
+								<a href="cupidsprey"><img src="img/gallery-featured-cupidsprey.jpg" alt="img04"></a>
 								<figcaption>
 									<h4>Cupid's Prey</h4>
 									<span>Lust List 2012</span>
-									<a href="cupidsprey.php" class="btn-small inverse hide-for-small">View Project</a>
+									<a href="cupidsprey" class="btn-small inverse hide-for-small">View Project</a>
 								</figcaption>
 							</figure>
 						</li>

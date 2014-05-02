@@ -79,11 +79,11 @@
 					<ul class="thumbnails cs-style-3">
 						<li>
 							<figure>
-								<a href="quark.php"><img src="img/gallery-featured-quark.jpg" alt="img04"></a>
+								<a href="quark"><img src="img/gallery-featured-quark.jpg" alt="img04"></a>
 								<figcaption>
 									<h4>Quark Coin</h4>
 									<span>Cryptocurrency</span>
-									<a href="quark.php" class="btn-small inverse hide-for-small">View Project</a>
+									<a href="quark" class="btn-small inverse hide-for-small">View Project</a>
 								</figcaption>
 							</figure>
 						</li>
@@ -94,11 +94,11 @@
 					<ul class="thumbnails cs-style-3">
 						<li>
 							<figure>
-								<a href="cupidsprey.php"><img src="img/gallery-featured-cupidsprey.jpg" alt="img04"></a>
+								<a href="cupidsprey"><img src="img/gallery-featured-cupidsprey.jpg" alt="img04"></a>
 								<figcaption>
 									<h4>Cupid's Prey</h4>
 									<span>Lust List 2012</span>
-									<a href="cupidsprey.php" class="btn-small inverse hide-for-small">View Project</a>
+									<a href="cupidsprey" class="btn-small inverse hide-for-small">View Project</a>
 								</figcaption>
 							</figure>
 						</li>
@@ -114,7 +114,7 @@
 			<div class="row">
   					<div class="large-12 large-centered columns">
   						<h2>Want to see more?</h2>
-  						<a href="gallery.php" class="btn-medium inverse">View All Projects</a>
+  						<a href="gallery" class="btn-medium inverse">View All Projects</a>
   					</div>
 			</div>
 
