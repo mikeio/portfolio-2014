@@ -6029,6 +6029,9 @@ a.th {
     font-size: 5em;
     line-height: 80px; }
 
+  #expertise_detail {
+    width: 90%; }
+
   .content {
     position: relative;
     top: 645px;
