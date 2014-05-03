@@ -42,7 +42,7 @@
 						<h6>Services:</h6>
 						<h4>Logo</h4>
 						<h6>Date:</h6>
-						<h4>12/28/2013</h4>
+						<h4>2013</h4>
 		
 						<a href="http://qrk.blockr.io/" class="btn-medium btn-sidebar">More Info</a>
 
