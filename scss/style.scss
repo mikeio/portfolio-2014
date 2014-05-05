@@ -446,6 +446,8 @@ $green: #30b911;
 		background: url('../img/icon_print.png') bottom;
 		background-size: cover;
 		text-indent: -99999px;
+		-webkit-animation-delay: 0.5s;
+		animation-delay: 0.5s;
 	}
 	
 	.icon_print:hover {
@@ -460,6 +462,8 @@ $green: #30b911;
 		background: url('../img/icon_web.png') bottom;
 		background-size: cover;
 		text-indent: -99999px;
+		-webkit-animation-delay: 1s;
+		animation-delay: 1s;
 	}
 	
 	.icon_web:hover {
@@ -883,10 +887,12 @@ $green: #30b911;
 
 	.top-bar.shrink {
 		height: 82px;
-		background-color: $white;
+		background-color: $offwhite;
 		opacity: .98;
 
+		/*
 		border-bottom: 1px solid lighten( $lightgrey, 5% );
+		*/
 		
 		/*
 		-webkit-box-shadow: 0 1px 10px rgba(0,0,0,.1);
