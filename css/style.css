@@ -5739,7 +5739,9 @@ a.th {
     height: 100px;
     background: url("../img/icon_branding.png") bottom;
     background-size: cover;
-    text-indent: -99999px; }
+    text-indent: -99999px;
+    -webkit-animation-delay: 0.25s;
+    animation-delay: 0.25s; }
 
   .icon_branding:hover {
     background-position: 0 0; }
@@ -5752,8 +5754,8 @@ a.th {
     background: url("../img/icon_print.png") bottom;
     background-size: cover;
     text-indent: -99999px;
-    -webkit-animation-delay: 0.5s;
-    animation-delay: 0.5s; }
+    -webkit-animation-delay: 0.75s;
+    animation-delay: 0.75s; }
 
   .icon_print:hover {
     background-position: 0 0; }
@@ -5766,8 +5768,8 @@ a.th {
     background: url("../img/icon_web.png") bottom;
     background-size: cover;
     text-indent: -99999px;
-    -webkit-animation-delay: 1s;
-    animation-delay: 1s; }
+    -webkit-animation-delay: 1.25s;
+    animation-delay: 1.25s; }
 
   .icon_web:hover {
     background-position: 0 0; }
