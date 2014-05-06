@@ -88,8 +88,8 @@ $green: #30b911;
 		h1 {
 			margin: 0;
 			padding: 0;
-			-webkit-animation-delay: .25s;
-			-moz-animation-delay: .25s;
+			-webkit-animation-delay: .5s;
+			-moz-animation-delay: .5s;
 		}
 
 		hr{
@@ -111,8 +111,8 @@ $green: #30b911;
 			color: $lightgrey;
 			letter-spacing: 2px;
 			margin-top: 17px;
-			-webkit-animation-delay: 0.75s;
-			-moz-animation-delay: 0.75s;
+			-webkit-animation-delay: 1s;
+			-moz-animation-delay: 1s;
 		}
 	
 		#sub_header {
@@ -432,8 +432,6 @@ $green: #30b911;
 		background: url('../img/icon_branding.png') bottom;
 		background-size: cover;
 		text-indent: -99999px;
-		-webkit-animation-delay: 0.25s;
-		animation-delay: 0.25s;
 	}
 	
 	.icon_branding:hover {
@@ -448,8 +446,6 @@ $green: #30b911;
 		background: url('../img/icon_print.png') bottom;
 		background-size: cover;
 		text-indent: -99999px;
-		-webkit-animation-delay: 0.75s;
-		animation-delay: 0.75s;
 	}
 	
 	.icon_print:hover {
@@ -464,8 +460,6 @@ $green: #30b911;
 		background: url('../img/icon_web.png') bottom;
 		background-size: cover;
 		text-indent: -99999px;
-		-webkit-animation-delay: 1.25s;
-		animation-delay: 1.25s;
 	}
 	
 	.icon_web:hover {

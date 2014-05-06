@@ -43,19 +43,19 @@
 			<div class="row">
 	
 				<div class="large-4 columns">
-					<span class="icon_branding animated flipInX"></span>
+					<span class="icon_branding"></span>
 					<h4>Branding</h4>
 					<p id="expertise_detail">Make your customers feel confident about the way they look at your products and services.</p>
 				</div>
 	
   				<div class="large-4 columns icon_middle">
-  					<span class="icon_print animated flipInX"></span>
+  					<span class="icon_print"></span>
 					<h4>Print Design</h4>
 					<p id="expertise_detail">From stationery to packaging, design can sometimes make the best impression in print form.</p>
   				</div>
 	
   				<div class="large-4 columns">
-  					<span class="icon_web animated flipInX"></span>
+  					<span class="icon_web"></span>
 					<h4>Web Design</h4>
 					<p id="expertise_detail">I design and develop responsive and easy to use websites that are hand coded with HTML5 and CSS3. </p>
   				</div>
