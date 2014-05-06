@@ -1,13 +1,13 @@
 <?php
  
     $to = "mapdesigns@gmail.com"; 
-    $from = $_REQUEST['email']; 
+    $from = "info@mikepeters.io";
     $name = $_REQUEST['name']; 
     $headers = "From: $from"; 
     $subject = "You have a message sent from your site"; 
  
     $fields = array(); 
-    $fields{"name"} = "Mame"; 
+    $fields{"name"} = "Name"; 
     $fields{"email"} = "Email"; 
     $fields{"phone"} = "Phone"; 
     $fields{"message"} = "Message";
