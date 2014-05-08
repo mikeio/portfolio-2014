@@ -120,11 +120,11 @@
 					<ul class="thumbnails cs-style-3">
 						<li>
 							<figure>
-								<a href="#"><img src="http://placehold.it/940x600/666666/ffffff" alt="img04"></a>
+								<a href="tabernacle"><img src="img/gallery-featured-tabernacle.jpg" alt="img04"></a>
 								<figcaption>
-									<h4>Settings</h4>
-									<span>A Description goes here</span>
-									<a href="#" class="btn-small inverse hide-for-small">View Project</a>
+									<h4>Tabernacle</h4>
+									<span>Atlanta, Ga</span>
+									<a href="tabernacle" class="btn-small inverse hide-for-small">View Project</a>
 								</figcaption>
 							</figure>
 						</li>
