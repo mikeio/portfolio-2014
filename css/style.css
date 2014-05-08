@@ -5457,7 +5457,9 @@ a.th {
     height: 2px;
     width: 100px;
     margin: 0 auto 60px;
-    border: 0; }
+    border: 0;
+    -webkit-animation-delay: 1s;
+    animation-delay: 1s; }
 
   .header {
     background: whitesmoke url("../img/bg_header-sml.jpg") no-repeat center bottom;
@@ -5469,7 +5471,7 @@ a.th {
       margin: 0;
       padding: 0;
       -webkit-animation-delay: .5s;
-      -moz-animation-delay: .5s; }
+      animation-delay: .5s; }
     .header hr {
       background-color: #999999;
       height: 2px;
@@ -5486,7 +5488,7 @@ a.th {
       letter-spacing: 2px;
       margin-top: 17px;
       -webkit-animation-delay: 1s;
-      -moz-animation-delay: 1s; }
+      animation-delay: 1s; }
     .header #sub_header {
       color: #999999;
       letter-spacing: 2px;
