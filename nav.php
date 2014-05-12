@@ -7,7 +7,7 @@
 			<li class="name">
 				<a href="/"><img src="img/logo.png" id="nav_logo-mobile"></a>
 			</li>
-			<li class="toggle-topbar menu-icon"><a href="#"><span>Menu</span></a></li>
+			<li class="toggle-topbar menu-icon"><a href="#"><span></span></a></li>
 		</ul>
    
 		<section class="top-bar-section">
