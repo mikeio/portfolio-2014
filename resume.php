@@ -174,8 +174,8 @@
 				</div>
 
 				<div class="large-6 columns">
-					<h4 id="employer">United States Achievement Academy</h4>
-						<h5 id="jobtitle">All American Scholar Award</h5>
+					<h4 id="employer">All American Scholar Award</h4>
+						<h5 id="jobtitle">United States Achievement Academy</h5>
 						
 						<p>Nominated and received the All American Scholar Award in Journalism.</p>
 
