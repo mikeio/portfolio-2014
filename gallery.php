@@ -139,11 +139,11 @@
 					<ul class="thumbnails cs-style-3">
 						<li>
 							<figure>
-								<a href="#"><img src="http://placehold.it/940x600/666666/ffffff" alt="img04"></a>
+								<a href="hazard"><img src="img/gallery-featured-hazard.jpg" alt="img04"></a>
 								<figcaption>
-									<h4>Settings</h4>
-									<span>A Description goes here</span>
-									<a href="#" class="btn-small inverse hide-for-small">View Project</a>
+									<h4>Hazard County</h4>
+									<span>McDonough, Ga</span>
+									<a href="hazard" class="btn-small inverse hide-for-small">View Project</a>
 								</figcaption>
 							</figure>
 						</li>
