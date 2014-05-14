@@ -53,8 +53,7 @@
 				<div class="large-9 pull-3 columns">
 					<a href="img/gallery-tabernacle01.jpg" class="fancybox" rel="gallery"><img src="img/gallery-tabernacle01.jpg" class="portfolio-img"></a>
 					<a href="img/gallery-tabernacle02.jpg" class="fancybox" rel="gallery"><img src="img/gallery-tabernacle02.jpg" class="portfolio-img"></a>
-					<a href="img/gallery-tabernacle03.jpg" class="fancybox" rel="gallery"><img src="img/gallery-tabernacle03.jpg" class="portfolio-img"></a>
-					<a href="img/gallery-tabernacle04.jpg" class="fancybox" rel="gallery"><img src="img/gallery-tabernacle04.jpg" class="portfolio-img-last"></a>
+					<a href="img/gallery-tabernacle03.jpg" class="fancybox" rel="gallery"><img src="img/gallery-tabernacle03.jpg" class="portfolio-img-last"></a>
 				</div>
 	
 			</div>
