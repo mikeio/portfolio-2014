@@ -16,8 +16,8 @@
 	<div class="header header_alt">
 
 		<div class="header-text">
-			<h2>Tabernacle</h2>
-			<h6 id="sub_header">Atlanta, Ga</h6>
+			<h2>Hazard County</h2>
+			<h6 id="sub_header">McDonough, Ga</h6>
 			<hr>
 		</div>
 		
@@ -38,22 +38,23 @@
 					<div class="sidebar">
 	
 						<h6>Client:</h6>
-						<h4>Tabernacle</h4>
+						<h4>Hazard County</h4>
 						<h6>Services:</h6>
 						<h4>Design</h4>
 						<h6>Date:</h6>
-						<h4>2013</h4>
+						<h4>2011</h4>
 		
-						<a href="http://www.tabernacleatl.com" class="btn-medium btn-sidebar">More Info</a>
+						<a href="http://www.hazardatl.com" class="btn-medium btn-sidebar">More Info</a>
 
 					</div>
 	
 				</div>
 	
 				<div class="large-9 pull-3 columns">
-					<a href="img/gallery-tabernacle01.jpg" class="fancybox" rel="gallery"><img src="img/gallery-tabernacle01.jpg" class="portfolio-img"></a>
-					<a href="img/gallery-tabernacle02.jpg" class="fancybox" rel="gallery"><img src="img/gallery-tabernacle02.jpg" class="portfolio-img"></a>
-					<a href="img/gallery-tabernacle03.jpg" class="fancybox" rel="gallery"><img src="img/gallery-tabernacle03.jpg" class="portfolio-img-last"></a>
+					<a href="img/gallery-hazard01.jpg" class="fancybox" rel="gallery"><img src="img/gallery-hazard01.jpg" class="portfolio-img"></a>
+					<a href="img/gallery-hazard02.jpg" class="fancybox" rel="gallery"><img src="img/gallery-hazard02.jpg" class="portfolio-img"></a>
+					<a href="img/gallery-hazard03.jpg" class="fancybox" rel="gallery"><img src="img/gallery-hazard03.jpg" class="portfolio-img"></a>
+					<a href="img/gallery-hazard04.jpg" class="fancybox" rel="gallery"><img src="img/gallery-hazard04.jpg" class="portfolio-img-last"></a>
 				</div>
 	
 			</div>
