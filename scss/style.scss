@@ -80,6 +80,13 @@ $green: #30b911;
 		animation-delay: 1s;
 	}
 
+	.columns {
+		-webkit-transition: all 0.5s ease;
+  		-moz-transition: all 0.5s ease;
+  		-o-transition: all 0.5s ease;
+  		transition: all 0.5s ease;
+	}
+
 	.header {
 		background: $offwhite url('../img/bg_header-sml.jpg') no-repeat center bottom;
 		padding: 85px 0.9375em 100px;

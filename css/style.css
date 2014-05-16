@@ -5461,6 +5461,12 @@ a.th {
     -webkit-animation-delay: 1s;
     animation-delay: 1s; }
 
+  .columns {
+    -webkit-transition: all 0.5s ease;
+    -moz-transition: all 0.5s ease;
+    -o-transition: all 0.5s ease;
+    transition: all 0.5s ease; }
+
   .header {
     background: whitesmoke url("../img/bg_header-sml.jpg") no-repeat center bottom;
     padding: 85px 0.9375em 100px;
