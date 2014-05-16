@@ -6079,7 +6079,7 @@ a.th {
 
   .top-bar.shrink {
     height: 82px;
-    background-color: whitesmoke;
+    background-color: white;
     opacity: .98;
     /*
     border-bottom: 1px solid lighten( $lightgrey, 5% );
