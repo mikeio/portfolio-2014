@@ -64,7 +64,13 @@ $green: #30b911;
 		text-align: center;
 	}
 
-	a {	color: $darkgrey;	}
+	a {	
+		color: $darkgrey;
+		-webkit-transition: color 0.2s ease;
+  		-moz-transition: color 0.2s ease;
+  		-o-transition: color 0.2s ease;
+  		transition: color 0.2s ease;
+	}
 
 	a:hover { color: $darkgrey;	}
 
@@ -78,13 +84,6 @@ $green: #30b911;
 		border: 0;
 		-webkit-animation-delay: 1s;
 		animation-delay: 1s;
-	}
-
-	.columns {
-		-webkit-transition: all 0.5s ease;
-  		-moz-transition: all 0.5s ease;
-  		-o-transition: all 0.5s ease;
-  		transition: all 0.5s ease;
 	}
 
 	.header {

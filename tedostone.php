@@ -40,9 +40,9 @@
 						<h6>Client:</h6>
 						<h4>Tedo Stone</h4>
 						<h6>Services:</h6>
-						<h4>Design</h4>
+						<h4>Child Theme</h4>
 						<h6>Date:</h6>
-						<h4>10/19/2013</h4>
+						<h4>2013</h4>
 		
 						<a href="http://www.tedostone.com" class="btn-medium btn-sidebar">More Info</a>
 
