@@ -23,12 +23,10 @@
 	    		</ul>
 	    	</div>
 
-	    	<span id="copyright">
-        		2014 © Mike Peters. All rights reserved.
-      		</span>
-
 	    </div>
 
 	</div>
+
+	<div class="copyright">© 2014  Mike Peters. All rights reserved.</span>
 
 </footer>

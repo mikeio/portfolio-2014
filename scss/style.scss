@@ -66,10 +66,6 @@ $green: #30b911;
 
 	a {	
 		color: $darkgrey;
-		-webkit-transition: color 0.2s ease;
-  		-moz-transition: color 0.2s ease;
-  		-o-transition: color 0.2s ease;
-  		transition: color 0.2s ease;
 	}
 
 	a:hover { color: $darkgrey;	}
@@ -480,7 +476,7 @@ $green: #30b911;
 
 	.social-links {
 		ul {
-			margin: 0 auto 35px;
+			margin: 0 auto 50px;
 
 			li {
 				padding: 0px 12px;
@@ -492,8 +488,8 @@ $green: #30b911;
 	.social_github {
 		display: block;
 		margin: 0 auto;
-		width: 30px;
-		height: 30px;
+		width: 32px;
+		height: 32px;
 		background: url('../img/social_github.png') bottom;
 		background-size: cover;
 		text-indent: -99999px;
@@ -506,8 +502,8 @@ $green: #30b911;
 	.social_facebook {
 		display: block;
 		margin: 0 auto;
-		width: 30px;
-		height: 30px;
+		width: 32px;
+		height: 32px;
 		background: url('../img/social_facebook.png') bottom;
 		background-size: cover;
 		text-indent: -99999px;
@@ -520,8 +516,8 @@ $green: #30b911;
 	.social_twitter {
 		display: block;
 		margin: 0 auto;
-		width: 30px;
-		height: 30px;
+		width: 32px;
+		height: 32px;
 		background: url('../img/social_twitter.png') bottom;
 		background-size: cover;
 		text-indent: -99999px;
@@ -534,7 +530,7 @@ $green: #30b911;
 
 	footer {
 		text-align: center;
-		padding: 100px 0px;
+		padding: 100px 0px 0px 0px;
 		background: $white;
 		font-color: $mediumgrey;
 		font-size: 0.875em;
@@ -555,9 +551,11 @@ $green: #30b911;
 			color: $darkgrey;
 		}
 
-		#copyright {
+		.copyright {
 			display: block;
 			line-height: 1.4em;
+			background-color: $offwhite;
+			padding: 30px;
 		}
 
 		.mobile_hide {
