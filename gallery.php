@@ -17,7 +17,7 @@
 
 		<div class="header-text">
 			<h2>Gallery</h2>
-			<h6 id="sub_header">View All Projects</h6>
+			<h6 id="sub_header">All Projects</h6>
 			<hr>
 		</div>
 		
