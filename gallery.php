@@ -37,40 +37,6 @@
 					<ul class="thumbnails cs-style-3">
 						<li>
 							<figure>
-								<a href="tedostone"><img src="img/gallery-featured-tedostone.jpg" alt="img04"></a>
-								<figcaption>
-									<h4>Tedo Stone</h4>
-									<span>Psychedelic Rocker</span>
-									<a href="tedostone" class="btn-small inverse hide-for-small">View Project</a>
-								</figcaption>
-							</figure>
-						</li>
-					</ul>
-				</div>
-		
-				<div class="large-6 columns">
-					<ul class="thumbnails cs-style-3">
-						<li>
-							<figure>
-								<a href="myriad"><img src="img/gallery-featured-myriad.jpg" alt="img04"></a>
-								<figcaption>
-									<h4>Myriad</h4>
-									<span>A Coin For Everyone</span>
-									<a href="myriad" class="btn-small inverse hide-for-small">View Project</a>
-								</figcaption>
-							</figure>
-						</li>
-					</ul>
-				</div>
-	
-			</div>
-
-			<div class="row">
-	
-				<div class="large-6 columns">
-					<ul class="thumbnails cs-style-3">
-						<li>
-							<figure>
 								<a href="quark"><img src="img/gallery-featured-quark.jpg" alt="img04"></a>
 								<figcaption>
 									<h4>Quark Coin</h4>
@@ -100,16 +66,50 @@
 			</div>
 
 			<div class="row">
-	
+
 				<div class="large-6 columns">
 					<ul class="thumbnails cs-style-3">
 						<li>
 							<figure>
-								<a href="hipchat"><img src="img/gallery-featured-hipchat.jpg" alt="img04"></a>
+								<a href="breederscup"><img src="img/gallery-featured-breederscup.jpg" alt="img04"></a>
 								<figcaption>
-									<h4>Hip Chat</h4>
-									<span>Messaging Service</span>
-									<a href="hipchat" class="btn-small inverse hide-for-small">View Project</a>
+									<h4>Breeders Cup</h4>
+									<span>Quint Events</span>
+									<a href="breederscup" class="btn-small inverse hide-for-small">View Project</a>
+								</figcaption>
+							</figure>
+						</li>
+					</ul>
+				</div>
+		
+				<div class="large-6 columns">
+					<ul class="thumbnails cs-style-3">
+						<li>
+							<figure>
+								<a href="myriad"><img src="img/gallery-featured-myriad.jpg" alt="img04"></a>
+								<figcaption>
+									<h4>Myriad</h4>
+									<span>A Coin For Everyone</span>
+									<a href="myriad" class="btn-small inverse hide-for-small">View Project</a>
+								</figcaption>
+							</figure>
+						</li>
+					</ul>
+				</div>
+	
+			</div>
+
+			<div class="row">
+
+				<div class="large-6 columns">
+					<ul class="thumbnails cs-style-3">
+						<li>
+							<figure>
+								<a href="tedostone"><img src="img/gallery-featured-tedostone.jpg" alt="img04"></a>
+								<figcaption>
+									<h4>Tedo Stone</h4>
+									<span>Psychedelic Rocker</span>
+									<a href="tedostone" class="btn-small inverse hide-for-small">View Project</a>
 								</figcaption>
 							</figure>
 						</li>
@@ -125,6 +125,40 @@
 									<h4>Tabernacle</h4>
 									<span>Atlanta, Ga</span>
 									<a href="tabernacle" class="btn-small inverse hide-for-small">View Project</a>
+								</figcaption>
+							</figure>
+						</li>
+					</ul>
+				</div>
+	
+			</div>
+
+			<div class="row">
+
+				<div class="large-6 columns">
+					<ul class="thumbnails cs-style-3">
+						<li>
+							<figure>
+								<a href="capitalcity"><img src="img/gallery-featured-capitalcity.jpg" alt="img04"></a>
+								<figcaption>
+									<h4>Capital City</h4>
+									<span>Country Club</span>
+									<a href="capitalcity" class="btn-small inverse hide-for-small">View Project</a>
+								</figcaption>
+							</figure>
+						</li>
+					</ul>
+				</div>
+		
+				<div class="large-6 columns">
+					<ul class="thumbnails cs-style-3">
+						<li>
+							<figure>
+								<a href="hipchat"><img src="img/gallery-featured-hipchat.jpg" alt="img04"></a>
+								<figcaption>
+									<h4>Hip Chat</h4>
+									<span>Messaging Service</span>
+									<a href="hipchat" class="btn-small inverse hide-for-small">View Project</a>
 								</figcaption>
 							</figure>
 						</li>
@@ -154,45 +188,11 @@
 					<ul class="thumbnails cs-style-3">
 						<li>
 							<figure>
-								<a href="capitalcity"><img src="img/gallery-featured-capitalcity.jpg" alt="img04"></a>
-								<figcaption>
-									<h4>Capital City</h4>
-									<span>Country Club</span>
-									<a href="capitalcity" class="btn-small inverse hide-for-small">View Project</a>
-								</figcaption>
-							</figure>
-						</li>
-					</ul>
-				</div>
-	
-			</div>
-
-			<div class="row">
-	
-				<div class="large-6 columns">
-					<ul class="thumbnails cs-style-3">
-						<li>
-							<figure>
 								<a href="ladiesnight"><img src="img/gallery-featured-ladiesnight.jpg" alt="img04"></a>
 								<figcaption>
 									<h4>Ladies Night</h4>
 									<span>Cosmo Lava</span>
 									<a href="ladiesnight" class="btn-small inverse hide-for-small">View Project</a>
-								</figcaption>
-							</figure>
-						</li>
-					</ul>
-				</div>
-		
-				<div class="large-6 columns">
-					<ul class="thumbnails cs-style-3">
-						<li>
-							<figure>
-								<a href="breederscup"><img src="img/gallery-featured-breederscup.jpg" alt="img04"></a>
-								<figcaption>
-									<h4>Breeders Cup</h4>
-									<span>Quint Events</span>
-									<a href="breederscup" class="btn-small inverse hide-for-small">View Project</a>
 								</figcaption>
 							</figure>
 						</li>
