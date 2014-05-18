@@ -54,7 +54,7 @@
 
 		defaults: {
 			padding : 0,
-			margin  : 100,
+			margin  : 75,
 
 			width     : 800,
 			height    : 600,
