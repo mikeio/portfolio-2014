@@ -41,7 +41,7 @@
 				<div class="large-6 columns">
 					<h4 id="employer">Brightfire, LLC</h4>
 						<h5 id="jobtitle">Graphic Designer</h5>
-						<p>Worked directly with Live Nation and managed creative assets for multiple markets; specifically Live Nation Atlanta, Florida and the National market. Daily responsibilities included the creation of digital advertisements and print items such as posters, handbills, billboards and large format printed items.</p>
+						<p>Worked directly with clients and managed creative assets for multiple markets; specifically Live Nation Atlanta, Florida and the National market. Daily responsibilities included the creation of digital advertisements and print items such as posters, handbills, billboards and large format printed items.</p>
 				</div>
 
 				<div class="large-3 columns">
@@ -208,7 +208,7 @@
 
 			<div class="row">
 				<div class="large-12 columns">
-					<a href="pdf/MikePeters-Job_Resume.pdf" class="btn-medium btn-last">Download PDF</a>
+					<a href="pdf/MikePeters_Resume.pdf" class="btn-medium btn-last">Download PDF</a>
 				</div>
 			</div>
 
