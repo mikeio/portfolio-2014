@@ -42,7 +42,7 @@
 						<h6>Services:</h6>
 						<h4>Design</h4>
 						<h6>Date:</h6>
-						<h4>02/01/2012</h4>
+						<h4>2012</h4>
 		
 						<a href="http://www.rsvpatl.com" class="btn-medium btn-sidebar">More Info</a>
 
