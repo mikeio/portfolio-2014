@@ -41,11 +41,11 @@
 				<div class="large-6 columns">
 					<h4 id="employer">Brightfire, LLC</h4>
 						<h5 id="jobtitle">Graphic Designer</h5>
-						<p>Worked directly with clients and managed creative assets for multiple markets; specifically Live Nation Atlanta, Florida and the National market. Daily responsibilities included the creation of digital advertisements and print items such as posters, handbills, billboards and large format printed items.</p>
+						<p>Worked directly with clients and managed creative assets for multiple markets; specifically Live Nation Atlanta, Florida and the national Live Nation market. Daily responsibilities included the creation of digital advertisements and print items such as posters, handbills, billboards and large format printed items.</p>
 				</div>
 
 				<div class="large-3 columns">
-					<h6 id="date">2012 - Present</h6>
+					<h6 id="date">2012 -</h6>
 				</div>
 
 			</div>
