@@ -816,6 +816,11 @@ $green: #30b911;
 		cursor: -moz-zoom-in;
 	}
 
+	.quote_author {
+		color: $mediumgrey;
+		margin: -10px auto 60px;
+	}
+
 }
 
 @media only screen and (min-width: 768px) {

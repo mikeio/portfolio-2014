@@ -32,6 +32,15 @@
 		<div class="bg_gradient">
 
 			<div class="row">
+
+				<div class="large-12 columns">
+				<h3>"Best of the Week" Winner</h3>
+				<h6 class="quote_author">— You can probably design a better t-shirt than our founder contest</h6>
+				</div>
+
+			</div>
+
+			<div class="row">
 	
 				<div class="large-3 push-9 columns">
 
