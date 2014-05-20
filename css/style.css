@@ -5735,40 +5735,85 @@ a.th {
     right: 20px; }
 
   .icon_branding {
-    display: block;
-    margin: 0 auto 30px;
+    display: inline-block;
+    position: relative;
+    text-indent: -9999px;
     width: 100px;
     height: 100px;
     background: url("../img/icon_branding.png") bottom;
     background-size: cover;
-    text-indent: -99999px; }
+    margin: 0 auto 30px; }
 
-  .icon_branding:hover {
-    background-position: 0 0; }
+  .icon_branding span {
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    background: url("../img/icon_branding.png") bottom;
+    background-position: center top;
+    background-size: cover;
+    opacity: 0;
+    -webkit-transition: opacity 0.3s;
+    -moz-transition: opacity 0.3s;
+    -o-transition: opacity 0.3s; }
+
+  .icon_branding:hover span {
+    opacity: 1; }
 
   .icon_print {
-    display: block;
-    margin: 0 auto 30px;
+    display: inline-block;
+    position: relative;
+    text-indent: -9999px;
     width: 100px;
     height: 100px;
     background: url("../img/icon_print.png") bottom;
     background-size: cover;
-    text-indent: -99999px; }
+    margin: 0 auto 30px; }
 
-  .icon_print:hover {
-    background-position: 0 0; }
+  .icon_print span {
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    background: url("../img/icon_print.png") bottom;
+    background-position: center top;
+    background-size: cover;
+    opacity: 0;
+    -webkit-transition: opacity 0.3s;
+    -moz-transition: opacity 0.3s;
+    -o-transition: opacity 0.3s; }
+
+  .icon_print:hover span {
+    opacity: 1; }
 
   .icon_web {
-    display: block;
-    margin: 0 auto 30px;
+    display: inline-block;
+    position: relative;
+    text-indent: -9999px;
     width: 100px;
     height: 100px;
     background: url("../img/icon_web.png") bottom;
     background-size: cover;
-    text-indent: -99999px; }
+    margin: 0 auto 30px; }
 
-  .icon_web:hover {
-    background-position: 0 0; }
+  .icon_web span {
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    background: url("../img/icon_web.png") bottom;
+    background-position: center top;
+    background-size: cover;
+    opacity: 0;
+    -webkit-transition: opacity 0.3s;
+    -moz-transition: opacity 0.3s;
+    -o-transition: opacity 0.3s; }
+
+  .icon_web:hover span {
+    opacity: 1; }
 
   .icon_middle {
     margin: 30px 0px; }
@@ -6029,9 +6074,12 @@ a.th {
     cursor: -webkit-zoom-in;
     cursor: -moz-zoom-in; }
 
+  .quote {
+    line-height: 1; }
+
   .quote_author {
     color: #999999;
-    margin: -10px auto 60px; } }
+    margin: auto auto 60px; } }
 @media only screen and (min-width: 768px) {
   h1 {
     font-size: 5em;

@@ -37,8 +37,6 @@
 
 					<div class="sidebar">
 	
-						<h6>Client:</h6>
-						<h4>Tedo Stone</h4>
 						<h6>Services:</h6>
 						<h4>Child Theme</h4>
 						<h6>Date:</h6>

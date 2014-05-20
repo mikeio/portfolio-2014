@@ -36,9 +36,7 @@
 				<div class="large-3 push-9 columns">
 
 					<div class="sidebar">
-	
-						<h6>Client:</h6>
-						<h4>RSVPATL</h4>
+
 						<h6>Services:</h6>
 						<h4>Design</h4>
 						<h6>Date:</h6>

@@ -40,7 +40,7 @@
 								<a href="quark"><img src="img/gallery-featured-quark.jpg" alt="img04"></a>
 								<figcaption>
 									<h4>Quark Coin</h4>
-									<span>Cryptocurrency</span>
+									<span>Money Reinvented</span>
 									<a href="quark" class="btn-small inverse hide-for-small">View Project</a>
 								</figcaption>
 							</figure>
@@ -141,8 +141,8 @@
 							<figure>
 								<a href="capitalcity"><img src="img/gallery-featured-capitalcity.jpg" alt="img04"></a>
 								<figcaption>
-									<h4>Capital City</h4>
-									<span>Country Club</span>
+									<h4>Capital City Club</h4>
+									<span>Brookhaven</span>
 									<a href="capitalcity" class="btn-small inverse hide-for-small">View Project</a>
 								</figcaption>
 							</figure>

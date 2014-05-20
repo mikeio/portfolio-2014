@@ -16,8 +16,8 @@
 	<div class="header header_alt">
 
 		<div class="header-text">
-			<h2>Capital City</h2>
-			<h6 id="sub_header">Country Club</h6>
+			<h2>Capital City Club</h2>
+			<h6 id="sub_header">Brookhaven</h6>
 			<hr>
 		</div>
 		
@@ -36,9 +36,7 @@
 				<div class="large-3 push-9 columns">
 
 					<div class="sidebar">
-	
-						<h6>Client:</h6>
-						<h4>Capital City</h4>
+
 						<h6>Services:</h6>
 						<h4>Design</h4>
 						<h6>Date:</h6>

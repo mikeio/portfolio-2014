@@ -17,7 +17,7 @@
 
 		<div class="header-text">
 			<h2>Quark Coin</h2>
-			<h6 id="sub_header">Cryptocurrency</h6>
+			<h6 id="sub_header">Money reinvented</h6>
 			<hr>
 		</div>
 		
@@ -36,15 +36,13 @@
 				<div class="large-3 push-9 columns">
 
 					<div class="sidebar">
-	
-						<h6>Client:</h6>
-						<h4>Quark Coin</h4>
+
 						<h6>Services:</h6>
 						<h4>Logo</h4>
 						<h6>Date:</h6>
 						<h4>2013</h4>
 		
-						<a href="http://qrk.blockr.io/" class="btn-medium btn-sidebar">More Info</a>
+						<a href="http://www.qrk.cc/" class="btn-medium btn-sidebar">More Info</a>
 
 					</div>
 	

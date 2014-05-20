@@ -34,8 +34,8 @@
 			<div class="row">
 
 				<div class="large-12 columns">
-				<h3>"Best of the Week" Winner</h3>
-				<h6 class="quote_author">— You can probably design a better t-shirt than our founder contest</h6>
+				<h3 class="quote">Best of the Week Winner</h3>
+				<h6 class="quote_author">"You can probably design a better t-shirt than our founder" contest</h6>
 				</div>
 
 			</div>
@@ -45,9 +45,7 @@
 				<div class="large-3 push-9 columns">
 
 					<div class="sidebar">
-	
-						<h6>Client:</h6>
-						<h4>Hip Chat</h4>
+
 						<h6>Services:</h6>
 						<h4>Design</h4>
 						<h6>Date:</h6>
