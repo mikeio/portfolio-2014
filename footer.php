@@ -1,6 +1,6 @@
 <footer>
 
-	<a id="top" class="arrow_up"></a>
+	<a id="top" class="arrow_up"><span></span></a>
 
 	<div class="row">
 
@@ -16,9 +16,9 @@
 
 	    	<div class="social-links">
 	    		<ul>
-	        	  	<li><a href="https://www.facebook.com/mike.peters.94"><span class="social_facebook"></span></a></li>
-	        	  	<li><a href="https://twitter.com/activistco"><span class="social_twitter"></span></a></li>
-	        	  	<li><a href="https://github.com/papsx/"><span class="social_github"></span></a></li>
+	        	  	<li><a href="https://www.facebook.com/mike.peters.94"><div class="social_facebook"><span></span></div></a></li>
+	        	  	<li><a href="https://twitter.com/activistco"><div class="social_twitter"><span></span></div></a></li>
+	        	  	<li><a href="https://github.com/papsx/"><div class="social_github"><span></span></div></a></li>
 
 	    		</ul>
 	    	</div>

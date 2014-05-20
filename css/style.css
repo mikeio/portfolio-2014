@@ -5444,7 +5444,10 @@ a.th {
     text-align: center; }
 
   a {
-    color: #222222; }
+    color: #222222;
+    -webkit-transition: 0s;
+    -moz-transition: 0s;
+    -o-transition: 0s; }
 
   a:hover {
     color: #222222; }
@@ -5825,40 +5828,85 @@ a.th {
       display: inline-block; }
 
   .social_github {
-    display: block;
-    margin: 0 auto;
+    display: inline-block;
+    position: relative;
+    text-indent: -9999px;
     width: 32px;
     height: 32px;
     background: url("../img/social_github.png") bottom;
     background-size: cover;
-    text-indent: -99999px; }
+    margin: 0 auto; }
 
-  .social_github:hover {
-    background-position: 0 0; }
+  .social_github span {
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    background: url("../img/social_github.png") bottom;
+    background-position: center top;
+    background-size: cover;
+    opacity: 0;
+    -webkit-transition: opacity 0.3s;
+    -moz-transition: opacity 0.3s;
+    -o-transition: opacity 0.3s; }
+
+  .social_github:hover span {
+    opacity: 1; }
 
   .social_facebook {
-    display: block;
-    margin: 0 auto;
+    display: inline-block;
+    position: relative;
+    text-indent: -9999px;
     width: 32px;
     height: 32px;
     background: url("../img/social_facebook.png") bottom;
     background-size: cover;
-    text-indent: -99999px; }
+    margin: 0 auto; }
 
-  .social_facebook:hover {
-    background-position: 0 0; }
+  .social_facebook span {
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    background: url("../img/social_facebook.png") bottom;
+    background-position: center top;
+    background-size: cover;
+    opacity: 0;
+    -webkit-transition: opacity 0.3s;
+    -moz-transition: opacity 0.3s;
+    -o-transition: opacity 0.3s; }
+
+  .social_facebook:hover span {
+    opacity: 1; }
 
   .social_twitter {
-    display: block;
-    margin: 0 auto;
+    display: inline-block;
+    position: relative;
+    text-indent: -9999px;
     width: 32px;
     height: 32px;
     background: url("../img/social_twitter.png") bottom;
     background-size: cover;
-    text-indent: -99999px; }
+    margin: 0 auto; }
 
-  .social_twitter:hover {
-    background-position: 0 0; }
+  .social_twitter span {
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    background: url("../img/social_twitter.png") bottom;
+    background-position: center top;
+    background-size: cover;
+    opacity: 0;
+    -webkit-transition: opacity 0.3s;
+    -moz-transition: opacity 0.3s;
+    -o-transition: opacity 0.3s; }
+
+  .social_twitter:hover span {
+    opacity: 1; }
 
   footer {
     text-align: center;
@@ -5888,19 +5936,31 @@ a.th {
       list-style-type: none; }
 
   .arrow_up {
-    display: block;
+    position: absolute;
+    text-indent: -9999px;
     width: 74px;
     height: 36px;
     background: url("../img/arrow_up.png") bottom;
     background-size: cover;
-    text-indent: -99999px;
-    position: absolute;
-    left: 50%;
     margin-left: -37px;
     margin-top: -135px; }
 
-  .arrow_up:hover {
-    background-position: 0 -1px; }
+  .arrow_up span {
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    background: url("../img/arrow_up.png") bottom;
+    background-position: center -1px;
+    background-size: cover;
+    opacity: 0;
+    -webkit-transition: opacity 0.3s;
+    -moz-transition: opacity 0.3s;
+    -o-transition: opacity 0.3s; }
+
+  .arrow_up:hover span {
+    opacity: 1; }
 
   .resume {
     text-align: center; }
@@ -6081,6 +6141,11 @@ a.th {
     color: #999999;
     margin: auto auto 60px; } }
 @media only screen and (min-width: 768px) {
+  a {
+    -webkit-transition: 0.3s;
+    -moz-transition: 0.3s;
+    -o-transition: 0.3s; }
+
   h1 {
     font-size: 5em;
     line-height: 80px; }
