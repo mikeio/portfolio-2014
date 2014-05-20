@@ -9,7 +9,7 @@
 	    	<ul>
 	          	<li><a href="/">Home</a></li>
                 <li><a href="/gallery">Gallery</a></li>
-                <li class="mobile_hide"><a href="/"><img src="img/logo.png" id="nav_logo"></a></li>
+                <li class="mobile_hide"><a href="/"><img src="img/logo.png" id="nav_logo" alt="Home"></a></li>
 	    		<li><a href="/resume">Resume</a></li>
                 <li><a href="/contact">Contact</a></li>
 	    	</ul>
