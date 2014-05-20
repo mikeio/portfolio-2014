@@ -49,10 +49,10 @@
 				</div>
 	
 				<div class="large-9 pull-3 columns">
-					<a href="img/gallery-hazard01.jpg" class="fancybox" rel="gallery"><img src="img/gallery-hazard01.jpg" class="portfolio-img"></a>
-					<a href="img/gallery-hazard02.jpg" class="fancybox" rel="gallery"><img src="img/gallery-hazard02.jpg" class="portfolio-img"></a>
-					<a href="img/gallery-hazard03.jpg" class="fancybox" rel="gallery"><img src="img/gallery-hazard03.jpg" class="portfolio-img"></a>
-					<a href="img/gallery-hazard04.jpg" class="fancybox" rel="gallery"><img src="img/gallery-hazard04.jpg" class="portfolio-img-last"></a>
+					<a href="img/gallery-hazard01.jpg" class="fancybox" rel="gallery"><img src="img/gallery-hazard01.jpg" class="portfolio-img" alt="Hazard County"></a>
+					<a href="img/gallery-hazard02.jpg" class="fancybox" rel="gallery"><img src="img/gallery-hazard02.jpg" class="portfolio-img" alt="Hazard County"></a>
+					<a href="img/gallery-hazard03.jpg" class="fancybox" rel="gallery"><img src="img/gallery-hazard03.jpg" class="portfolio-img" alt="Hazard County"></a>
+					<a href="img/gallery-hazard04.jpg" class="fancybox" rel="gallery"><img src="img/gallery-hazard04.jpg" class="portfolio-img-last" alt="Hazard County"></a>
 				</div>
 	
 			</div>

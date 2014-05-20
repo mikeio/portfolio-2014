@@ -37,7 +37,7 @@
 					<ul class="thumbnails cs-style-3">
 						<li>
 							<figure>
-								<a href="quark"><img src="img/gallery-featured-quark.jpg" alt="img04"></a>
+								<a href="quark"><img src="img/gallery-featured-quark.jpg" alt="Quark Coin"></a>
 								<figcaption>
 									<h4>Quark Coin</h4>
 									<span>Money Reinvented</span>
@@ -52,7 +52,7 @@
 					<ul class="thumbnails cs-style-3">
 						<li>
 							<figure>
-								<a href="cupidsprey"><img src="img/gallery-featured-cupidsprey.jpg" alt="img04"></a>
+								<a href="cupidsprey"><img src="img/gallery-featured-cupidsprey.jpg" alt="Cupids Prey"></a>
 								<figcaption>
 									<h4>Cupid's Prey</h4>
 									<span>Lust List 2012</span>
@@ -71,7 +71,7 @@
 					<ul class="thumbnails cs-style-3">
 						<li>
 							<figure>
-								<a href="breederscup"><img src="img/gallery-featured-breederscup.jpg" alt="img04"></a>
+								<a href="breederscup"><img src="img/gallery-featured-breederscup.jpg" alt="Breeders Cup"></a>
 								<figcaption>
 									<h4>Breeders Cup</h4>
 									<span>Quint Events</span>
@@ -86,7 +86,7 @@
 					<ul class="thumbnails cs-style-3">
 						<li>
 							<figure>
-								<a href="myriad"><img src="img/gallery-featured-myriad.jpg" alt="img04"></a>
+								<a href="myriad"><img src="img/gallery-featured-myriad.jpg" alt="Myriad"></a>
 								<figcaption>
 									<h4>Myriad</h4>
 									<span>A Coin For Everyone</span>
@@ -105,7 +105,7 @@
 					<ul class="thumbnails cs-style-3">
 						<li>
 							<figure>
-								<a href="tedostone"><img src="img/gallery-featured-tedostone.jpg" alt="img04"></a>
+								<a href="tedostone"><img src="img/gallery-featured-tedostone.jpg" alt="Tedo Stone"></a>
 								<figcaption>
 									<h4>Tedo Stone</h4>
 									<span>Psychedelic Rocker</span>
@@ -120,7 +120,7 @@
 					<ul class="thumbnails cs-style-3">
 						<li>
 							<figure>
-								<a href="tabernacle"><img src="img/gallery-featured-tabernacle.jpg" alt="img04"></a>
+								<a href="tabernacle"><img src="img/gallery-featured-tabernacle.jpg" alt="Tabernacle"></a>
 								<figcaption>
 									<h4>Tabernacle</h4>
 									<span>Atlanta, Ga</span>
@@ -139,7 +139,7 @@
 					<ul class="thumbnails cs-style-3">
 						<li>
 							<figure>
-								<a href="capitalcity"><img src="img/gallery-featured-capitalcity.jpg" alt="img04"></a>
+								<a href="capitalcity"><img src="img/gallery-featured-capitalcity.jpg" alt="Capital City Club"></a>
 								<figcaption>
 									<h4>Capital City Club</h4>
 									<span>Brookhaven</span>
@@ -154,7 +154,7 @@
 					<ul class="thumbnails cs-style-3">
 						<li>
 							<figure>
-								<a href="hipchat"><img src="img/gallery-featured-hipchat.jpg" alt="img04"></a>
+								<a href="hipchat"><img src="img/gallery-featured-hipchat.jpg" alt="Hip Chat"></a>
 								<figcaption>
 									<h4>Hip Chat</h4>
 									<span>Messaging Service</span>
@@ -173,7 +173,7 @@
 					<ul class="thumbnails cs-style-3">
 						<li>
 							<figure>
-								<a href="hazard"><img src="img/gallery-featured-hazard.jpg" alt="img04"></a>
+								<a href="hazard"><img src="img/gallery-featured-hazard.jpg" alt="Hazard County"></a>
 								<figcaption>
 									<h4>Hazard County</h4>
 									<span>McDonough, Ga</span>
@@ -188,7 +188,7 @@
 					<ul class="thumbnails cs-style-3">
 						<li>
 							<figure>
-								<a href="ladiesnight"><img src="img/gallery-featured-ladiesnight.jpg" alt="img04"></a>
+								<a href="ladiesnight"><img src="img/gallery-featured-ladiesnight.jpg" alt="Ladies Night"></a>
 								<figcaption>
 									<h4>Ladies Night</h4>
 									<span>Cosmo Lava</span>

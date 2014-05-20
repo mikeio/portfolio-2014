@@ -27,6 +27,6 @@
 
 	</div>
 
-	<div class="copyright">© 2014  Mike Peters. All rights reserved.</span>
+	<div class="copyright">© 2014  Mike Peters. All rights reserved.</div>
 
 </footer>
