@@ -31,7 +31,7 @@ jQuery('.header-text').css({
 
 // Call To Action
 jQuery('.bg_action').css({
-  'background-position-y' : 220+(scrollPos/4)+"px",
+  'background-position' : "50% " + (220+scrollPos/4)+"px",
 });
 
 }
