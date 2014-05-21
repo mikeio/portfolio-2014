@@ -930,9 +930,29 @@ $green: #30b911;
 		margin: auto auto 25px;
 	}
 
+	.csswinner {
+		display: none;
+	}
+
 }
 
 @media only screen and (min-width: 768px) {
+
+	.csswinner {
+		position: fixed;
+		top: 102px;
+		left: 0px;
+		z-index: 1;
+		display: block;
+	}
+	
+	.csswinner a {
+		width: 81px;
+		height: 59px;
+		text-indent: -9000px;
+		display: block;
+		background: url('../img/csswinner.png') no-repeat;
+	}
 
 	a {
 		-webkit-transition: 0.3s;
