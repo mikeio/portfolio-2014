@@ -51,7 +51,7 @@
   				<div class="large-4 columns icon_middle">
   					<div class="icon_print"><span></span></div>
 					<h4>Print Design</h4>
-					<p class="expertise_detail">Design in print form can help your company make a powerful first impression.</p>
+					<p class="expertise_detail">Design in print form can help your company make a powerful and lasting first impression.</p>
   				</div>
 	
   				<div class="large-4 columns">
