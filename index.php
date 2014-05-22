@@ -82,7 +82,7 @@
 								<a href="quark"><img src="img/gallery-featured-quark.jpg" alt="img04"></a>
 								<figcaption>
 									<h4>Quark Coin</h4>
-									<span>Cryptocurrency</span>
+									<span>Money Reinvented</span>
 									<a href="quark" class="btn-small inverse hide-for-small">View Project</a>
 								</figcaption>
 							</figure>
