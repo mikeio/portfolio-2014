@@ -5,6 +5,8 @@
   <meta name="viewport" content="width=device-width" />
 
   <title>Mike Peters | Graphic Designer</title>
+  <meta name="description" content="The online portfolio of Mike Peters; a designer from Atlanta, Ga.">
+  <meta name="author" content="Mike Peters">
 
   <script>
     (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
