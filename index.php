@@ -45,19 +45,19 @@
 				<div class="large-4 columns">
 					<div class="icon_branding"><span></span></div>
 					<h4>Branding</h4>
-					<p id="expertise_detail">Make your customers feel confident with a strong brand that stands out in the marketplace.</p>
+					<p class="expertise_detail">Make your customers feel confident with a strong brand that stands out in the marketplace.</p>
 				</div>
 	
   				<div class="large-4 columns icon_middle">
   					<div class="icon_print"><span></span></div>
 					<h4>Print Design</h4>
-					<p id="expertise_detail">Design in print form can help your company make a powerful first impression.</p>
+					<p class="expertise_detail">Design in print form can help your company make a powerful first impression.</p>
   				</div>
 	
   				<div class="large-4 columns">
   					<div class="icon_web"><span></span></div>
 					<h4>Web Design</h4>
-					<p id="expertise_detail">I design and develop responsive and easy to use websites that are coded with HTML5 and CSS3.</p>
+					<p class="expertise_detail">I design and develop responsive and easy to use websites that are coded with HTML5 and CSS3.</p>
   				</div>
 	
 			</div>

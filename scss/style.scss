@@ -930,6 +930,10 @@ $green: #30b911;
 		margin: auto auto 25px;
 	}
 
+	.expertise_detail {
+		max-width: 320px;
+	}
+
 	.csswinner {
 		display: none;
 	}
@@ -965,7 +969,7 @@ $green: #30b911;
 		line-height: 80px;
 	}
 
-	#expertise_detail {
+	.expertise_detail {
 		width: 75%;
 	}
 
