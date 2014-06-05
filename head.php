@@ -68,7 +68,3 @@
   </script>
 
 </head>
-
-<div class="csswinner">
-    <a href="http://www.csswinner.com/details/the-online-portfolio-of-mike-peters/7352/" target="_blank">The Online Portfolio of Mike Peters</a>
-</div>
