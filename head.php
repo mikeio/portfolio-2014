@@ -67,10 +67,4 @@
     });
   </script>
 
-  <script>
-    $( ".burger-icon" ).click(function() {
-      $( this ).toggleClass( "crossRotate" );
-    });
-  </script>
-
 </head>
