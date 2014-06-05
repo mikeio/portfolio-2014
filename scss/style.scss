@@ -236,6 +236,36 @@ $green: #30b911;
 		padding: 10px 0px;
 	}
 
+	.top-bar .toggle-topbar.menu-icon a span {
+		box-shadow: none;
+		webkit-box-shadow: none;
+	}
+
+	.top-bar .toggle-topbar.menu-icon a {
+		text-indent: 0;
+	}
+
+	.top-bar .toggle-topbar.menu-icon {
+		padding-left: 0;
+	}
+
+	.burger-icon {
+    	-webkit-transition-duration: 1s;
+    	-moz-transition-duration: 1s;
+    	-o-transition-duration: 1s;
+    	transition-duration: 1s;
+    	-webkit-transition-property: -webkit-transform;
+    	-moz-transition-property: -moz-transform;
+    	-o-transition-property: -o-transform;
+    	transition-property: transform;
+  	}
+
+	.crossRotate {
+    	-ms-transform: rotate(-90deg); /* IE 9 */
+		-webkit-transform: rotate(-90deg); /* Chrome, Safari, Opera */
+		transform: rotate(-90deg);
+	}
+
 	.content {
 		text-align: center;
 	}
