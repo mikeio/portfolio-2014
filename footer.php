@@ -30,6 +30,3 @@
 	<div class="copyright">© 2014  Mike Peters. All rights reserved.</div>
 
 </footer>
-
-<script src="//fightforthefuture.github.io/reset-the-net-banner/banner/rtn.js"
-async></script>
