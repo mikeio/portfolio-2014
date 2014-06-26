@@ -961,6 +961,21 @@ $green: #30b911;
 		}
 	}
 
+	.quote-container {
+		text-align: left;
+	}
+
+	.quote-container:before {
+		background: url('../img/quote.png') no-repeat center center;
+		background-size: 100% 100%;
+		width: 80px;
+		content: " ";
+		position: absolute;
+		left: -16px;
+		top: -6px;
+		height: 55px;
+	}
+
 }
 
 @media only screen and (min-width: 768px) {
