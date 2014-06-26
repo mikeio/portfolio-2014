@@ -29,16 +29,24 @@
 
 	<div class="content content_alt">
 
-		<div class="bg_gradient special-404">
+		<div class="bg_gradient no-bottom-padding">
 
 			<div class="row fullWidth">
   			  
-   				<div class="large-12 columns">
+  				<div class="large-3 columns error-left">
+  					<img src="img/hand-left.png">
+   				</div>
+
+   				<div class="large-6 columns">
   					<img src="img/404.png" id="four04"><br>
   					<span id="broken">Uh oh! Looks like something broke.</span>
   					<a href="javascript:history.back()" class="btn-medium">Take Me Back</a><br>
   					<span id="report">or <a href="/contact">Report It</a>.</span>
   					
+   				</div>
+
+   				<div class="large-3 columns error-right">
+   					<img src="img/hand-right.png">
    				</div>
 
 			</div>
