@@ -918,20 +918,55 @@ $green: #30b911;
 		margin: auto auto 60px;
 	}
 
-	.notfound {
-		margin: auto auto 20px;
-	}
-
-	.details_404 {
-		color: $mediumgrey;
-	}
-
-	.details_404-exp {
-		margin: auto auto 25px;
-	}
-
 	.expertise_detail {
 		max-width: 320px;
+	}
+
+	.fullWidth {
+		width: 100%;
+		margin-left: 0;
+		margin-right: 0;
+		max-width: initial;
+	}
+
+	#four04 {
+		width: 500px;
+	}
+
+	#broken {
+		font-family: 'Open Sans', sans-serif;
+		color: $mediumgrey;
+		font-size: 2em;
+		display: block;
+		padding: 40px 20px 30px;
+	}
+
+	#report {
+		display: block;
+		padding-bottom: 150px;
+	}
+
+	.error-left {
+		text-align: left;
+		left: -30px;
+		height: 100%;
+
+		img {
+
+		}
+	}
+
+	.error-right {
+		text-align: right;
+		right: -30px;
+
+		img {
+
+		}
+	}
+
+	.special-404 {
+		padding-bottom: 0px;
 	}
 
 }
