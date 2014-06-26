@@ -943,30 +943,17 @@ $green: #30b911;
 
 	#report {
 		display: block;
-		padding-bottom: 150px;
-	}
-
-	.error-left {
-		text-align: left;
-		left: -30px;
-		height: 100%;
-
-		img {
-
-		}
-	}
-
-	.error-right {
-		text-align: right;
-		right: -30px;
-
-		img {
-
-		}
+		margin-bottom: 150px;
 	}
 
 	.special-404 {
-		padding-bottom: 0px;
+
+		background: url('../img/hand-left.png'),
+        			url('../img/hand-right.png'),
+        			-webkit-linear-gradient(top, $white, $offwhite);
+  					background-repeat: no-repeat, no-repeat, repeat;
+  					background-position: bottom left, bottom right, center;
+					padding-bottom: 0px;
 	}
 
 }
