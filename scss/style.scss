@@ -930,31 +930,35 @@ $green: #30b911;
 	}
 
 	#four04 {
-		width: 500px;
+		width: 470px;
 	}
 
 	#broken {
 		font-family: 'Open Sans', sans-serif;
 		color: $mediumgrey;
-		font-size: 2em;
+		font-size: 1.875em;
 		display: block;
 		padding: 40px 20px 30px;
 	}
 
 	#report {
 		display: block;
-		margin-bottom: 150px;
+		margin-bottom: 30px;
 		font-size: 0.875em;
 	}
 
-	.special-404 {
+	.error-left {
+		padding-left: auto;
+		img {
+			display: none;
+		}
+	}
 
-		background: url('../img/hand-left.png'),
-        			url('../img/hand-right.png'),
-        			-webkit-linear-gradient(top, $white, $offwhite);
-  					background-repeat: no-repeat, no-repeat, repeat;
-  					background-position: center left, center right, center;
-					padding-bottom: 0px;
+	.error-right {
+		padding-right: auto;
+		img {
+			display: none;
+		}
 	}
 
 }
@@ -1166,6 +1170,22 @@ $green: #30b911;
 
 	.sidebar {
 		text-align: left;
+	}
+
+	.error-left {
+		padding-left: 0;
+		img {
+			float: left;
+			display: block;
+		}
+	}
+
+	.error-right {
+		padding-right: 0;
+		img {
+			float: right;
+			display: block;
+		}
 	}
 }
 
