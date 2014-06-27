@@ -947,18 +947,9 @@ $green: #30b911;
 		font-size: 0.875em;
 	}
 
-	.error-left {
-		padding-left: auto;
-		img {
-			display: none;
-		}
-	}
-
-	.error-right {
-		padding-right: auto;
-		img {
-			display: none;
-		}
+	.broken-pencil {
+		background: url('../img/broken-pencil.png') no-repeat center bottom,
+		-webkit-gradient(linear, 0% 0%, 0% 100%, from($white), to($offwhite));
 	}
 
 }
