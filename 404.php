@@ -34,7 +34,7 @@
 			<div class="row fullWidth">
 
    				<div class="large-12 columns">
-  					<img src="img/404.png" id="four04"><br>
+  					<img src="img/404.png" id="four04" class="animated hinge"><img src="img/404-shadow.png" id="four04-shadow" class="animated fadeIn"><br>
   					<span id="broken">Uh oh! Looks like something broke.</span>
   					<a href="javascript:history.back()" class="btn-medium">Take Me Back</a><br>
   					<span id="report">or <a href="/contact">Report It</a>.</span>

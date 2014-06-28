@@ -931,6 +931,16 @@ $green: #30b911;
 
 	#four04 {
 		width: 470px;
+		z-index: 2;
+		-webkit-animation-delay: 3s; /* Safari and Chrome */
+    	animation-delay: 3s;
+	}
+
+	#four04-shadow {
+		width: 470px;
+		margin-left: -470px;
+		-webkit-animation-delay: 2.5s; /* Safari and Chrome */
+    	animation-delay: 2.5s;
 	}
 
 	#broken {
@@ -948,7 +958,7 @@ $green: #30b911;
 	}
 
 	.broken-pencil {
-		background: url('../img/broken-pencil.png') no-repeat center bottom,
+		background: url('') no-repeat center bottom,
 		-webkit-gradient(linear, 0% 0%, 0% 100%, from($white), to($offwhite));
 	}
 
