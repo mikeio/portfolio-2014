@@ -56,7 +56,7 @@
 	
   				<div class="large-4 columns">
   					<div class="icon_web"><span></span></div>
-					<h4>Development</h4>
+					<h4>Web Development</h4>
 					<p class="expertise_detail">I design and develop responsive and easy to use websites that are coded with HTML5 and CSS3.</p>
   				</div>
 	
