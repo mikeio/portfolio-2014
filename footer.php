@@ -4,7 +4,9 @@
 
 	<div class="row">
 
-	    <div class="large-12 columns">
+	    <div class="large-9 columns">
+
+	    	<img src="img/logo.png" id="logo">
 
 	    	<ul>
 	          	<li><a href="/">Home</a></li>
@@ -13,6 +15,12 @@
 	    		<li><a href="/resume">Resume</a></li>
                 <li><a href="/contact">Contact</a></li>
 	    	</ul>
+
+	    	<div class="copyright">© 2014  Mike Peters. All rights reserved.</div>
+
+	    </div>
+
+	    <div class="large-3 columns">
 
 	    	<div class="social-links">
 	    		<ul>
@@ -27,6 +35,5 @@
 
 	</div>
 
-	<div class="copyright">© 2014  Mike Peters. All rights reserved.</div>
 
 </footer>
