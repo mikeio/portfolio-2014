@@ -518,7 +518,7 @@ $green: #30b911;
 
 	.social-links {
 		ul {
-			margin: 0 auto 0px;
+			margin: 0 auto 45px;
 
 			li {
 				padding: 0px 12px;
@@ -610,8 +610,8 @@ $green: #30b911;
 
 
 	footer {
-		text-align: left;
-		padding: 100px 0px;
+		text-align: center;
+		padding: 100px 0px 0px 0px;
 		background: $white;
 		font-color: $mediumgrey;
 		font-size: 0.875em;
@@ -619,6 +619,8 @@ $green: #30b911;
 		a {
 			font-family: 'Montserrat', sans-serif;
 			text-transform: uppercase;
+			color: $mediumgrey;
+			font-size: 14px;
 			color: $mediumgrey;
 		}
 
@@ -631,8 +633,10 @@ $green: #30b911;
 		}
 
 		.copyright {
+			display: block;
 			line-height: 1.4em;
-			font-color: $lightgrey;
+			background-color: $offwhite;
+			padding: 20px;
 		}
 
 		.mobile_hide {
@@ -1136,25 +1140,17 @@ $green: #30b911;
 	}
 
 	footer {
-
 		ul {
-			margin-bottom: 1em;
+			margin-left: 25px;
+		}
 
-			li {
-				display: inline-block;
-				padding: 0px 35px 0px 0px;
-			}
+		li {
+			display: inline-block;
+			padding: 0px 35px;
 		}
 
 		.mobile_hide {
 			display: inline-block;
-		}
-
-		#logo {
-			max-width: 42px;
-			height: 49px;
-			float: left;
-			margin-right: 20px;
 		}
 
 	}
