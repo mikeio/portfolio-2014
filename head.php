@@ -67,14 +67,4 @@
     });
   </script>
 
-  <script src="js/typed.js"></script>
-  <script>
-      $(function(){
-          $("#outro").typed({
-          strings: ["A designer from Atlanta, Ga.", "A designer / developer from Atlanta, Ga."],
-          typeSpeed: 0
-          });
-      });
-  </script>
-
 </head>
