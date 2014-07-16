@@ -19,7 +19,7 @@
 		<div class="header-text">
 			<h6 id="intro" class="animated fadeInUp">The Online Portfolio&nbsp;of</h6>
 			<h1 class="animated fadeInUp">Mike Peters</h1>
-			<h6 id="outro" class="animated bounceIn">A designer from Atlanta,&nbsp;Ga</h6>
+			<span id="outro"></span>
 			<hr class="animated fadeInUp">
 		</div>
 		
