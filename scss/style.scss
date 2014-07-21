@@ -654,26 +654,27 @@ $green: #30b911;
 	}
 
 	.arrow_up {
-		position: absolute;
-		text-indent: -9999px;
+		display: block;
+		margin: 0 auto;
 		width: 74px;
 		height: 36px;
-		background: url('../img/arrow_up.png') bottom;
+		background: url('../img/arrow_up.png') center 36px;
 		background-size: cover;
-		margin-left: -37px;
-		margin-top: -135px;
+		border: 0px solid red;
+		margin-top: -36px;
 	}
 
 	.arrow_up span {
-		position: absolute;
-		top: 0; left: 0; bottom: 0; right: 0;
-		background: url('../img/arrow_up.png') bottom;
-		background-position: center -1px;
+		display: block;
+		width: 74px;
+		height: 36px;
+		background: url('../img/arrow_up.png') center -1px;
 		background-size: cover;
 		opacity: 0;
 		-webkit-transition: opacity 0.3s;
 		-moz-transition:    opacity 0.3s;
 		-o-transition:      opacity 0.3s;
+		border: 0px solid blue;
 	}
 	
 	.arrow_up:hover span {

@@ -1,6 +1,6 @@
-<footer>
+<a id="top" class="arrow_up"><span></span></a>
 
-	<a id="top" class="arrow_up"><span></span></a>
+<footer>
 
 	<div class="row">
 
