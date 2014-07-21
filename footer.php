@@ -17,7 +17,7 @@
 	    	<div class="social-links">
 	    		<ul>
 	        	  	<li><a href="https://www.facebook.com/mike.peters.94"><div class="social_facebook"><span></span></div></a></li>
-	        	  	<li><a href="https://twitter.com/activistco"><div class="social_twitter"><span></span></div></a></li>
+	        	  	<li><a href="https://twitter.com/papsx_"><div class="social_twitter"><span></span></div></a></li>
 	        	  	<li><a href="https://github.com/papsx/"><div class="social_github"><span></span></div></a></li>
 
 	    		</ul>
