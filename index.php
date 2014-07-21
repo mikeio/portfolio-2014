@@ -17,9 +17,9 @@
 	<div class="header">
 
 		<div class="header-text">
-			<h6 id="intro" class="animated fadeInUp">The Online Portfolio&nbsp;of</h6>
+			<h6 id="intro" class="animated fadeInUp">The online portfolio&nbsp;of</h6>
 			<h1 class="animated fadeInUp">Mike Peters</h1>
-			<h6 id="outro" class="animated bounceIn">A designer from Atlanta,&nbsp;Ga</h6>
+			<h6 id="outro" class="animated bounceIn">A visual designer from Atlanta,&nbsp;Ga</h6>
 			<hr class="animated fadeInUp">
 		</div>
 		
@@ -56,7 +56,7 @@
 	
   				<div class="large-4 columns">
   					<div class="icon_web"><span></span></div>
-					<h4>Web Development</h4>
+					<h4>Development</h4>
 					<p class="expertise_detail">I design and develop responsive and easy to use websites that are coded with HTML5 and CSS3.</p>
   				</div>
 	
