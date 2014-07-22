@@ -37,6 +37,8 @@
 
 					<div class="sidebar">
 	
+						<h6>Info:</h6>
+						<p>The Tabernacle hosts live entertainment and private events in downtown Atlanta. They offer a robust stage presence with audio equipment and visual lighting to match the passion of their visiting performance artists. Although the building has operated as a music venue under a variety of different owners, it's currently operated by Live Nation.</p>
 						<h6>Services:</h6>
 						<h4>Design</h4>
 						<h6>Date:</h6>

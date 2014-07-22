@@ -37,12 +37,15 @@
 
 					<div class="sidebar">
 
+						<h6>About:</h6>
+						<p>Creative Loafing's 10th Annual Lust List Party presented by Cosmo Lava and RSVPATL.</p>
+						<p>Every female gets a lock and every male gets a key. The first 25 people to find their match before midnight receives a complimentary bottle of champagne.</p>
 						<h6>Services:</h6>
 						<h4>Design</h4>
 						<h6>Date:</h6>
 						<h4>2012</h4>
 		
-						<a href="http://www.rsvpatl.com" class="btn-medium btn-sidebar">More Info</a>
+						<a href="http://clatl.com/atlanta/CLs10thannualLustList/Page" class="btn-medium btn-sidebar">More Info</a>
 
 					</div>
 	

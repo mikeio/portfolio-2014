@@ -37,8 +37,10 @@
 
 					<div class="sidebar">
 
+						<h6>About:</h6>
+						<p>Myriad is a cryptocurrency that uses five separate algorithms concurrently to create a Blockchain that focuses on technology and innovative usage. With 30 second block times, Myriad is 20x faster than Bitcoin and one of the fastest cryptocurrencies in existence.</p>
 						<h6>Services:</h6>
-						<h4>Logo</h4>
+						<h4>Branding</h4>
 						<h6>Date:</h6>
 						<h4>2014</h4>
 		

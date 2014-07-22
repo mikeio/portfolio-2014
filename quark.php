@@ -37,8 +37,10 @@
 
 					<div class="sidebar">
 
+						<h6>About:</h6>
+						<p>Quark Coin is a digital currency that's protected by nine rounds of hashing from six different hash functions. Quark Coin's transactions are 10x faster than those of other mainstream currencies and it's one of the most secure currencies ever designed. </p>
 						<h6>Services:</h6>
-						<h4>Logo</h4>
+						<h4>Branding</h4>
 						<h6>Date:</h6>
 						<h4>2013</h4>
 		

@@ -37,10 +37,12 @@
 
 					<div class="sidebar">
 
+						<h6>About:</h6>
+						<p>Housed in a 12,000 ft. warehouse in McDonough (just half an hour South of downtown Atlanta), Hazard County Skatepark has obstacles for skaters of every style and level of experience.</>
 						<h6>Services:</h6>
-						<h4>Logo / Design</h4>
+						<h4>Design</h4>
 						<h6>Date:</h6>
-						<h4>2010 - 2011</h4>
+						<h4>2010</h4>
 		
 						<a href="#" class="btn-medium btn-sidebar">More Info</a>
 
@@ -50,9 +52,11 @@
 	
 				<div class="large-9 pull-3 columns">
 					<a href="img/gallery-hazard01.jpg" class="fancybox" rel="gallery"><img src="img/gallery-hazard01.jpg" class="portfolio-img" alt="Hazard County"></a>
-					<a href="img/gallery-hazard02.jpg" class="fancybox" rel="gallery"><img src="img/gallery-hazard02.jpg" class="portfolio-img" alt="Hazard County"></a>
+					<a href="img/gallery-hazard02.jpg" class="fancybox" rel="gallery"><img src="img/gallery-hazard02.jpg" class="portfolio-img-last" alt="Hazard County"></a>
+					<!--
 					<a href="img/gallery-hazard03.jpg" class="fancybox" rel="gallery"><img src="img/gallery-hazard03.jpg" class="portfolio-img" alt="Hazard County"></a>
 					<a href="img/gallery-hazard04.jpg" class="fancybox" rel="gallery"><img src="img/gallery-hazard04.jpg" class="portfolio-img-last" alt="Hazard County"></a>
+					-->
 				</div>
 	
 			</div>

@@ -37,8 +37,10 @@
 
 					<div class="sidebar">
 	
+						<h6>Info:</h6>
+						<p>Tedo Stone’s music never ceases to fuse throw-back sounds (primarily of the 1960’s) with a keen sense of contemporary resonance. In fact, his seemingly effortless eclecticism perhaps stands out most, as he places psychedelic rock, soul, blues, country, and even sometimes electronic music all under one roof.</p>
 						<h6>Services:</h6>
-						<h4>Child Theme</h4>
+						<h4>Design</h4>
 						<h6>Date:</h6>
 						<h4>2013</h4>
 		

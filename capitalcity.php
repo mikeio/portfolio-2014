@@ -37,6 +37,9 @@
 
 					<div class="sidebar">
 
+						<h6>Info:</h6>
+						<p>The Capital City Club is a private social club located in Atlanta, Georgia and is one of the oldest private clubs in the South.</p>
+						<p>Notable individuals, including several presidents of the United States and royalty from other nations, have been guests at the Capital City Club.</p>
 						<h6>Services:</h6>
 						<h4>Design</h4>
 						<h6>Date:</h6>
