@@ -38,13 +38,14 @@
 					<div class="sidebar">
 	
 						<h6>Info:</h6>
-						<p>The Tabernacle hosts live entertainment and private events in downtown Atlanta. They offer a robust stage presence with audio equipment and visual lighting to match the passion of their visiting performance artists. Although the building has operated as a music venue under a variety of different owners, it's currently operated by Live Nation.</p>
+						<p>The Tabernacle hosts live entertainment and private events while offering a robust stage presence with audio equipment and visual lighting to match the passion of their visiting performance artists.</p>
+						<p>Although the building has operated as a music venue under a variety of different owners, it's currently operated by Live Nation.</p>
 						<h6>Services:</h6>
 						<h4>Design</h4>
 						<h6>Date:</h6>
 						<h4>2013</h4>
 		
-						<a href="http://www.tabernacleatl.com" class="btn-medium btn-sidebar">More Info</a>
+						<a href="http://www.tabernacleatl.com" class="btn-medium btn-sidebar">Tabernacle</a>
 
 					</div>
 	

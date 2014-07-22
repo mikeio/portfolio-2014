@@ -17,7 +17,7 @@
 
 		<div class="header-text">
 			<h2>Breeders Cup</h2>
-			<h6 id="sub_header">Quint Events</h6>
+			<h6 id="sub_header">By Quint Events</h6>
 			<hr>
 		</div>
 		
@@ -45,7 +45,7 @@
 						<h6>Date:</h6>
 						<h4>2013</h4>
 		
-						<a href="http://www.quintevents.com/" class="btn-medium btn-sidebar">More Info</a>
+						<a href="http://www.quintevents.com/" class="btn-medium btn-sidebar">Quint Events</a>
 
 					</div>
 	

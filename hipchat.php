@@ -47,13 +47,14 @@
 					<div class="sidebar">
 
 						<h6>About:</h6>
-						<p>HipChat launched in 2010 to give companies and teams a chat service that was built just for them. They supercharge real-time collaboration with persistent chat rooms, file sharing, and screen sharing.</p>
+						<p>HipChat launched in 2010 to give companies and teams a chat service that was built just for them.</p>
+						<p>They supercharge real-time collaboration with persistent chat rooms, file sharing, and screen sharing.</p>
 						<h6>Services:</h6>
 						<h4>Design</h4>
 						<h6>Date:</h6>
 						<h4>2013</h4>
 		
-						<a href="https://blog.hipchat.com/2013/07/23/hipchat-t-shirt-contest-winners/" class="btn-medium btn-sidebar">More Info</a>
+						<a href="https://blog.hipchat.com/2013/07/23/hipchat-t-shirt-contest-winners/" class="btn-medium btn-sidebar">Hip Chat</a>
 
 					</div>
 	

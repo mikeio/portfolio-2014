@@ -44,7 +44,7 @@
 						<h6>Date:</h6>
 						<h4>2010</h4>
 		
-						<a href="#" class="btn-medium btn-sidebar">More Info</a>
+						<a href="http://hazardcountyskatepark.com" class="btn-medium btn-sidebar">Hazard County</a>
 
 					</div>
 	

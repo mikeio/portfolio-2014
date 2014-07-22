@@ -45,7 +45,7 @@
 						<h6>Date:</h6>
 						<h4>2012</h4>
 		
-						<a href="http://www.capitalcityclub.org/" class="btn-medium btn-sidebar">More Info</a>
+						<a href="http://www.capitalcityclub.org/" class="btn-medium btn-sidebar">Capital City Club</a>
 
 					</div>
 	

@@ -44,7 +44,7 @@
 						<h6>Date:</h6>
 						<h4>2011</h4>
 		
-						<a href="http://www.rsvpatl.com/" class="btn-medium btn-sidebar">More Info</a>
+						<a href="http://www.cosmolava.com/" class="btn-medium btn-sidebar">Cosmo Lava</a>
 
 					</div>
 	
