@@ -42,7 +42,7 @@
 						<h6>Date:</h6>
 						<h4>2014</h4>
 		
-						<a href="http://www.reddit.com/r/myriadcoin" class="btn-medium btn-sidebar">More Info</a>
+						<a href="http://myriadplatform.org/" class="btn-medium btn-sidebar">More Info</a>
 
 					</div>
 	
