@@ -886,23 +886,24 @@ $green: #30b911;
 
 	.sidebar {
 		
-		h4 {
+		h5 {
 			margin-bottom: 1em;
+			color: darken( $lightgrey, 10% );
 		}
 
 		h6 {
-			color: $mediumgrey;
+			color: $darkgrey;
 			margin-bottom: 0;
 		}
 
 		p {
-			font-family: 'Montserrat', sans-serif;
+			font-family: 'Open Sans', sans-serif;
 			font-weight: 400;
 			line-height: 1.4;
 			text-align: center;
-			color: $darkgrey;
-			font-size: 1em;
-			margin: 3px auto 25px;
+			color: $mediumgrey;
+			font-size: 0.875em;
+			margin: 0px auto 25px;
 		}
 	}
 
