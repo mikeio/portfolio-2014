@@ -139,11 +139,11 @@
 					<ul class="thumbnails cs-style-3">
 						<li>
 							<figure>
-								<a href="capitalcity"><img src="img/gallery-featured-capitalcity.jpg" alt="Capital City Club"></a>
+								<a href="smithwesson"><img src="img/gallery-featured-smithwesson.jpg" alt="Smith & Wesson Footwear"></a>
 								<figcaption>
-									<h4>Capital City Club</h4>
-									<span>Brookhaven</span>
-									<a href="capitalcity" class="btn-small inverse hide-for-small">View Project</a>
+									<h4>Smith & Wesson</h4>
+									<span>End Game Starts Here</span>
+									<a href="smithwesson" class="btn-small inverse hide-for-small">View Project</a>
 								</figcaption>
 							</figure>
 						</li>
@@ -173,11 +173,11 @@
 					<ul class="thumbnails cs-style-3">
 						<li>
 							<figure>
-								<a href="hazard"><img src="img/gallery-featured-hazard.jpg" alt="Hazard County"></a>
+								<a href="moneyjam"><img src="img/gallery-featured-moneyjam.jpg" alt="Hazard County"></a>
 								<figcaption>
 									<h4>Hazard County</h4>
-									<span>McDonough, Ga</span>
-									<a href="hazard" class="btn-small inverse hide-for-small">View Project</a>
+									<span>Money Jam 2010</span>
+									<a href="moneyjam" class="btn-small inverse hide-for-small">View Project</a>
 								</figcaption>
 							</figure>
 						</li>
