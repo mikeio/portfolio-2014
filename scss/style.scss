@@ -896,13 +896,21 @@ $green: #30b911;
 		}
 
 		p {
-			font-family: 'Montserrat', sans-serif;
+			font-family: 'Open Sans', sans-serif;
 			font-weight: 400;
-			line-height: 1.4;
+			line-height: 1.5;
 			text-align: center;
-			color: $darkgrey;
-			font-size: 1em;
+			color: darken( $mediumgrey, 20% );
+			font-size: 0.875em;
 			margin: 3px auto 25px;
+		}
+
+		hr {
+			margin: 15px auto 40px;
+		}
+
+		#inverse {
+			color: $darkgrey;
 		}
 	}
 
@@ -1185,6 +1193,10 @@ $green: #30b911;
 
 		p {
 			text-align: left;
+		}
+
+		hr {
+			margin: 15px 0px 40px;
 		}
 	}
 
