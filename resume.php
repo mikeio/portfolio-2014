@@ -55,7 +55,7 @@
 				<div class="large-6 large-offset-3 columns">
 					<h4 id="employer">RSVPATL</h4>
 						<h5 id="jobtitle">Graphic Designer</h5>
-						<p>Produced quality work in a fast-paced environment, meeting deadlines and client expectations for creativity and accuracy. I also helped clients envision a new or revitalized web presence using the latest techniques and technologies including social media, content management systems, event management, and advertising.</p>
+						<p>Produced quality work in a fast-paced environment, meeting deadlines and client expectations for creativity and accuracy. I also helped clients revitalize their web presence using social media, content management systems, event management, and advertising.</p>
 				</div>
 
 				<div class="large-3 columns">
@@ -126,7 +126,7 @@
 							<ul>
 								<li>Fluent in HTML 5 / CSS 3 with everyday usage of SASS.</li>
 								<li>Extensive knowledge of media queries and the Foundation framework.</li>
-								<li>Knowledge of version control systems such as Github and BitBucket.
+								<li>Knowledge of version control systems such as Github.
 								<li>Sublime Text and CodeKit are my tools of choice. All JS and SASS files are compiled into compressed and minified versions for inclusion on the front-end design.</li>
 								<li>Working knowledge of Javascript and PHP.</li>
 							</ul>
