@@ -10,6 +10,7 @@ $green: #30b911;
 @import "foundation";
 
 @media only screen {
+	
 	html {
 		-webkit-font-smoothing: antialiased !important;
 		-moz-osx-font-smoothing: grayscale !important;
@@ -898,9 +899,9 @@ $green: #30b911;
 		p {
 			font-family: 'Open Sans', sans-serif;
 			font-weight: 400;
-			line-height: 1.5;
+			line-height: 1.6;
 			text-align: center;
-			color: darken( $mediumgrey, 20% );
+			color: $mediumgrey;
 			font-size: 0.875em;
 			margin: 3px auto 25px;
 		}
