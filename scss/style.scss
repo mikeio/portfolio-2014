@@ -23,6 +23,11 @@ $green: #30b911;
 		background-color: $offwhite;
 	}
 
+	*::selection {
+		background: #FFD700;
+		color: $darkgrey;
+	}
+
 	h1,h2,h3,h4,h5,h6 {
 		font-family: 'Montserrat', sans-serif;
 		font-weight: 400;
