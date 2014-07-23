@@ -37,9 +37,10 @@
 
 					<div class="sidebar">
 	
-						<h6>Info:</h6>
+						<h6 id="inverse">About:</h6>
 						<p>The Tabernacle hosts live entertainment and private events while offering a robust stage presence with audio equipment and visual lighting to match the passion of their visiting performance artists.</p>
 						<p>Although the building has operated as a music venue under a variety of different owners, it's currently operated by Live Nation.</p>
+						<hr>
 						<h6>Services:</h6>
 						<h4>Design</h4>
 						<h6>Date:</h6>

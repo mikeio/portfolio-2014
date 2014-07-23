@@ -37,9 +37,10 @@
 
 					<div class="sidebar">
 
-						<h6>About:</h6>
+						<h6 id="inverse">About:</h6>
 						<p>Creative Loafing's 10th Annual Lust List Party presented by Cosmo Lava and RSVPATL.</p>
 						<p>Every female gets a lock and every male gets a key. The first 25 people to find their match before midnight receives a complimentary bottle of champagne.</p>
+						<hr>
 						<h6>Services:</h6>
 						<h4>Design</h4>
 						<h6>Date:</h6>

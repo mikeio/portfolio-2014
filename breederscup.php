@@ -37,9 +37,10 @@
 
 					<div class="sidebar">
 
-						<h6>About:</h6>
+						<h6 id="inverse">About:</h6>
 						<p>The Breeders’ Cup brings the world of horse racing together as the best of each class come together for two days of racing.</p>
 						<p>Breeders Cup has been recognized as the ultimate test of a Thoroughbred’s talent and ability in this powerful year-end championship.</p>
+						<hr>
 						<h6>Services:</h6>
 						<h4>Design</h4>
 						<h6>Date:</h6>

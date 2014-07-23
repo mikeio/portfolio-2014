@@ -17,7 +17,7 @@
 
 		<div class="header-text">
 			<h2>Hazard County</h2>
-			<h6 id="sub_header">McDonough, Ga</h6>
+			<h6 id="sub_header">Money Jam 2010</h6>
 			<hr>
 		</div>
 		
@@ -37,8 +37,9 @@
 
 					<div class="sidebar">
 
-						<h6>About:</h6>
+						<h6 id="inverse">About:</h6>
 						<p>Housed in a 12,000 ft. warehouse in McDonough (just half an hour South of downtown Atlanta), Hazard County Skatepark has obstacles for skaters of every style and level of experience.</>
+						<hr>
 						<h6>Services:</h6>
 						<h4>Design</h4>
 						<h6>Date:</h6>
@@ -51,12 +52,8 @@
 				</div>
 	
 				<div class="large-9 pull-3 columns">
-					<a href="img/gallery-hazard01.jpg" class="fancybox" rel="gallery"><img src="img/gallery-hazard01.jpg" class="portfolio-img" alt="Hazard County"></a>
-					<a href="img/gallery-hazard02.jpg" class="fancybox" rel="gallery"><img src="img/gallery-hazard02.jpg" class="portfolio-img-last" alt="Hazard County"></a>
-					<!--
-					<a href="img/gallery-hazard03.jpg" class="fancybox" rel="gallery"><img src="img/gallery-hazard03.jpg" class="portfolio-img" alt="Hazard County"></a>
-					<a href="img/gallery-hazard04.jpg" class="fancybox" rel="gallery"><img src="img/gallery-hazard04.jpg" class="portfolio-img-last" alt="Hazard County"></a>
-					-->
+					<a href="img/gallery-moneyjam01.jpg" class="fancybox" rel="gallery"><img src="img/gallery-moneyjam01.jpg" class="portfolio-img" alt="Money Jam"></a>
+					<a href="img/gallery-moneyjam02.jpg" class="fancybox" rel="gallery"><img src="img/gallery-moneyjam02.jpg" class="portfolio-img-last" alt="Money Jam"></a>
 				</div>
 	
 			</div>

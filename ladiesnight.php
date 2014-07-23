@@ -37,8 +37,9 @@
 
 					<div class="sidebar">
 						
-						<h6>Info:</h6>
+						<h6 id="inverse">About:</h6>
 						<p>Cosmo Lava is one of Atlanta’s most sophisticated lounges. No where else in the city will you find plush décor, cutting edge music and a state of the art sound system all set in the heart of Midtown.</p>
+						<hr>
 						<h6>Services:</h6>
 						<h4>Design</h4>
 						<h6>Date:</h6>

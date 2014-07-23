@@ -37,14 +37,15 @@
 
 					<div class="sidebar">
 	
-						<h6>Info:</h6>
+						<h6 id="inverse">About:</h6>
 						<p>Tedo Stone’s music never ceases to fuse throw-back sounds (primarily of the 1960’s) with a keen sense of contemporary resonance. In fact, his seemingly effortless eclecticism perhaps stands out most, as he places psychedelic rock, soul, blues, country, and even sometimes electronic music all under one roof.</p>
+						<hr>
 						<h6>Services:</h6>
 						<h4>Design</h4>
 						<h6>Date:</h6>
 						<h4>2013</h4>
 		
-						<a href="http://www.tedostone.com" class="btn-medium btn-sidebar">Tedo Stone</a>
+						<a href="http://www.tedostone.com" class="btn-medium btn-sidebar">Launch Site</a>
 
 					</div>
 	
