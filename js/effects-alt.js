@@ -7,6 +7,15 @@ $(document).scroll(function () {
 	}
 });
 
+/* Navigation effects */
+$(document).scroll(function () {
+	if ($(this).scrollTop() >= 347) {
+		$('.sidebar').addClass('sticky-scroll');
+	} else {
+		$('.sidebar').removeClass('sticky-scroll');
+	}
+});
+
 /* Smooth scroll */
 $('#top').click(function(){
     $("html, body").animate({ scrollTop: 0 }, 600);

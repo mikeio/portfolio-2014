@@ -1204,6 +1204,11 @@ $green: #30b911;
 		}
 	}
 
+	.sidebar.sticky-scroll {
+		max-width: 220px;
+		position: fixed;
+	}
+
 	.error-left {
 		padding-left: 0;
 		img {

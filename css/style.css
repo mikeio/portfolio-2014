@@ -6342,6 +6342,10 @@ a.th {
     .sidebar hr {
       margin: 15px 0px 40px; }
 
+  .sidebar.sticky-scroll {
+    max-width: 220px;
+    position: fixed; }
+
   .error-left {
     padding-left: 0; }
     .error-left img {
