@@ -55,7 +55,7 @@
 	
 								<div class="large-12 columns">
 
-						    		<label for="phone" id="phone">Phone  <span id="required">*</span></label>
+						    		<label for="phone" id="phone">Phone</label>
 									<input type="text" name="phone" id="phone" size="30" value="">
 
 								</div>
@@ -146,7 +146,7 @@
   	                email: true
   	            },
   	            phone: {
-  	                required: true,
+  	                required: false,
   	            },
   	            message: {
   	                required: true
@@ -161,9 +161,6 @@
   	                required: "This field is required.",
   	            },
   	            email: {
-  	                required: "This field is required."
-  	            },
-  	            phone: {
   	                required: "This field is required."
   	            },
   	            message: {
