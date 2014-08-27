@@ -42,19 +42,19 @@
 	
 			<div class="row">
 	
-				<div data-scroll-reveal='move 0px' class="large-4 columns">
+				<div class="large-4 columns">
 					<div class="icon_branding"><a href="gallery"><span></span></a></div>
 					<h4>Branding</h4>
 					<p class="expertise_detail">Make your customers feel confident with a strong brand that stands out in the marketplace.</p>
 				</div>
 	
-  				<div data-scroll-reveal='wait 0.3s, move 0px' class="large-4 columns icon_middle">
+  				<div class="large-4 columns icon_middle">
   					<div class="icon_print"><a href="gallery"><span></span></a></div>
 					<h4>Print Design</h4>
 					<p class="expertise_detail">Design in print form can help your company make a powerful and lasting first impression.</p>
   				</div>
 	
-  				<div data-scroll-reveal='wait 0.6s, move 0px' class="large-4 columns">
+  				<div class="large-4 columns">
   					<div class="icon_web"><a href="gallery"><span></span></a></div>
 					<h4>Development</h4>
 					<p class="expertise_detail">I design and develop responsive and easy to use websites that are coded with HTML5 and CSS3.</p>
@@ -75,7 +75,7 @@
 	
 			<div class="row">
 	
-				<div data-scroll-reveal='enter left' class="large-6 columns">
+				<div class="large-6 columns">
 					<ul class="thumbnails cs-style-3">
 						<li>
 							<figure>
@@ -90,7 +90,7 @@
 					</ul>
 				</div>
 		
-				<div class="large-6 columns" data-scroll-reveal='wait 0.3s, then enter right'>
+				<div class="large-6 columns">
 					<ul class="thumbnails cs-style-3">
 						<li>
 							<figure>
