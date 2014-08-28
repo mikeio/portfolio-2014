@@ -75,7 +75,7 @@
 	
 			<div class="row">
 	
-				<div class="large-6 columns">
+				<div data-scroll-reveal='enter left' class="large-6 columns">
 					<ul class="thumbnails cs-style-3">
 						<li>
 							<figure>
@@ -90,7 +90,7 @@
 					</ul>
 				</div>
 		
-				<div class="large-6 columns">
+				<div data-scroll-reveal='enter right' class="large-6 columns">
 					<ul class="thumbnails cs-style-3">
 						<li>
 							<figure>
