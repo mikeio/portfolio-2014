@@ -52,9 +52,9 @@
 				</div>
 	
 				<div class="large-9 pull-3 columns">
-					<a href="img/gallery-quark01.jpg" class="fancybox" rel="gallery"><img data-scroll-reveal='enter bottom' src="img/gallery-quark01.jpg" class="portfolio-img" alt="Quark Coin"></a>
-					<a href="img/gallery-quark02.jpg" class="fancybox" rel="gallery"><img data-scroll-reveal='enter bottom' src="img/gallery-quark02.jpg" class="portfolio-img" alt="Quark Coin"></a>
-					<a href="img/gallery-quark03.jpg" class="fancybox" rel="gallery"><img data-scroll-reveal='enter bottom' src="img/gallery-quark03.jpg" class="portfolio-img-last" alt="Quark Coin"></a>
+					<a href="img/gallery-quark01.jpg" class="fancybox" rel="gallery"><img src="img/gallery-quark01.jpg" class="portfolio-img" alt="Quark Coin"></a>
+					<a href="img/gallery-quark02.jpg" class="fancybox" rel="gallery"><img src="img/gallery-quark02.jpg" class="portfolio-img" alt="Quark Coin"></a>
+					<a href="img/gallery-quark03.jpg" class="fancybox" rel="gallery"><img src="img/gallery-quark03.jpg" class="portfolio-img-last" alt="Quark Coin"></a>
 				</div>
 	
 			</div>

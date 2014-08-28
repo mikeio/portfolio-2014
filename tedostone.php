@@ -52,8 +52,8 @@
 				</div>
 	
 				<div class="large-9 pull-3 columns">
-					<a href="img/gallery-tedostone01.jpg" class="fancybox" rel="gallery"><img src="img/gallery-tedostone01.jpg" data-scroll-reveal='enter bottom' class="portfolio-img" alt="Tedo Stone"></a>
-					<a href="img/gallery-tedostone02.jpg" class="fancybox" rel="gallery"><img src="img/gallery-tedostone02.jpg" data-scroll-reveal='enter bottom' class="portfolio-img-last" alt="Tedo Stone"></a>
+					<a href="img/gallery-tedostone01.jpg" class="fancybox" rel="gallery"><img src="img/gallery-tedostone01.jpg" class="portfolio-img" alt="Tedo Stone"></a>
+					<a href="img/gallery-tedostone02.jpg" class="fancybox" rel="gallery"><img src="img/gallery-tedostone02.jpg" class="portfolio-img-last" alt="Tedo Stone"></a>
 				</div>
 	
 			</div>
