@@ -82,6 +82,8 @@ window.scrollReveal = (function (window) {
 
     init: function () {
 
+      if( Modernizr.touch ) return;
+
       this.scrolled = false;
 
       var self = this;
