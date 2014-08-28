@@ -30,12 +30,3 @@
 	<div class="copyright">© 2014  Mike Peters. All rights reserved.</div>
 
 </footer>
-
-<script src='js/scrollReveal.js'></script>
-  <script>
-
-      window.scrollReveal = new scrollReveal();
-      //or
-      window.scrollReveal2 = new scrollReveal( {reset: true,elem: document.getElementById('srcontainer')} );
-
-  </script>
