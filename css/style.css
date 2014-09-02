@@ -6187,7 +6187,17 @@ a.th {
     font-size: 0.875em; }
 
   .broken-pencil {
-    background: url("") no-repeat center bottom, -webkit-gradient(linear, 0% 0%, 0% 100%, from(white), to(whitesmoke)); } }
+    background: url("") no-repeat center bottom, -webkit-gradient(linear, 0% 0%, 0% 100%, from(white), to(whitesmoke)); }
+
+  .hire-me {
+    z-index: 999;
+    position: fixed;
+    bottom: 0;
+    border-radius: 0;
+    width: 100%;
+    max-width: 100%;
+    text-align: center;
+    margin-bottom: 0; } }
 @media only screen and (min-width: 768px) {
   a {
     -webkit-transition: 0.3s;
