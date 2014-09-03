@@ -68,8 +68,3 @@
   </script>
 
 </head>
-
-<div data-alert="" class="alert-box alert hire-me">
-  Looking for a designer? I'm currently available for full-time work. Don't hesitate, get in touch!
-  <a href="#" class="close">&times;</a>
-</div>

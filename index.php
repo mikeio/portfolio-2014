@@ -9,6 +9,12 @@
 
 <body>
 
+	<div data-alert="" class="alert-box alert hire-me">
+ 		<span class="hide-for-medium-up">Looking for a designer? I'm available for full-time work. Don't hesitate, <a href="/contact">get in touch!</a></span>
+ 		<span class="show-for-medium-up">Looking for a designer?<br>Don't hesitate, <a href="/contact">get in touch!</span>
+ 		<a href="#" class="close">&times;</a>
+	</div>
+
 	<!-- Start Navigation Section -->
 	<?php include 'nav.php'; ?>
 	<!-- End Navigation Section -->
