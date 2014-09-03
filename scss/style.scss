@@ -1252,6 +1252,11 @@ $green: #30b911;
 			color: $white;
 		}
 	}
+
+	.alert-box .close {
+		right: auto;
+		position: relative;
+	}
 }
 
 

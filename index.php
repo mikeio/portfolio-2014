@@ -10,8 +10,8 @@
 <body>
 
 	<div data-alert="" class="alert-box alert hire-me">
- 		<span class="hide-for-medium-up">Looking for a designer? I'm available for full-time work. Don't hesitate, <a href="/contact">get in touch!</a></span>
- 		<span class="show-for-medium-up">Looking for a designer?<br>Don't hesitate, <a href="/contact">get in touch!</span>
+ 		<span class="hide-for-medium-up"><a href="/contact">Looking for a designer? I'm available for full-time work. Don't hesitate, get in touch!</a></span>
+ 		<span class="show-for-medium-up"><a href="/contact">Looking for a designer?<br>Don't hesitate, get in touch!</span>
  		<a href="#" class="close">&times;</a>
 	</div>
 
