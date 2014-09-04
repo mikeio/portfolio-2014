@@ -85,7 +85,7 @@
 	
 			<div class="row">
 	
-				<div class="large-6 columns">
+				<div class="large-6 columns wow fadeInLeft">
 					<ul class="thumbnails cs-style-3">
 						<li>
 							<figure>
@@ -100,7 +100,7 @@
 					</ul>
 				</div>
 		
-				<div class="large-6 columns">
+				<div class="large-6 columns wow fadeInRight">
 					<ul class="thumbnails cs-style-3">
 						<li>
 							<figure>
