@@ -85,7 +85,7 @@
 	
 			<div class="row">
 	
-				<div class="large-6 columns wow fadeInLeft">
+				<div class="large-6 columns wow fadeInLeft" data-wow-offset="100">
 					<ul class="thumbnails cs-style-3">
 						<li>
 							<figure>
@@ -100,7 +100,7 @@
 					</ul>
 				</div>
 		
-				<div class="large-6 columns wow fadeInRight">
+				<div class="large-6 columns wow fadeInRight" data-wow-offset="100">
 					<ul class="thumbnails cs-style-3">
 						<li>
 							<figure>
