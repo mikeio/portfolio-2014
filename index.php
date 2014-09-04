@@ -14,8 +14,9 @@
  		<a href="#" class="close">&times;</a>
 	</div>
 
-	<div class="hire-me-desktop show-for-medium-up">
-		<span>Are you looking<br>for a new designer?<br><a href="/contact">Get in touch today!</a></span>
+	<div data-alert class="alert-box alert hire-me-desktop show-for-medium-up">
+ 		<span>Are you looking<br>for a new designer?<br><a href="/contact">Get in touch today!</a></span>
+ 		<a href="#" class="close">&times;</a>
 	</div>
 
 	<!-- Start Navigation Section -->

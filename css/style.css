@@ -6367,30 +6367,22 @@ a.th {
 
   .hire-me-desktop {
     position: fixed;
-    top: -20px;
+    top: 40px;
     right: -81px;
-    width: 0;
-    height: 0;
-    text-align: center;
-    border-left: 125px solid transparent;
-    border-right: 125px solid transparent;
-    border-bottom: 125px solid crimson;
+    max-width: 300px;
     -ms-transform: rotate(45deg);
     -moz-transform: rotate(45deg);
     -o-transform: rotate(45deg);
     -webkit-transform: rotate(45deg);
     transform: rotate(45deg);
     z-index: 999;
-    font-size: 0.875em;
-    line-height: 1.4;
-    font-weight: 700;
-    color: white; }
-    .hire-me-desktop span {
-      position: absolute;
-      bottom: -120px;
-      left: -125px;
-      right: -125px;
-      width: auto;
-      height: auto; }
+    border-radius: 0;
+    width: 100%;
+    text-align: center;
+    margin-bottom: 0; }
     .hire-me-desktop a {
-      color: white; } }
+      color: white; }
+    .hire-me-desktop .close {
+      position: relative;
+      top: 0px;
+      margin-right: -24px; } }
