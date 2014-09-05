@@ -53,7 +53,7 @@
 				</div>
 	
 				<div class="large-9 pull-3 columns">
-					<a href="img/gallery-myriad01.jpg" class="fancybox wow fadeInUp" data-wow-offset="100" rel="gallery"><img src="img/gallery-myriad01.jpg" class="portfolio-img" alt="Myriad"></a>
+					<a href="img/gallery-myriad01.jpg" class="fancybox" rel="gallery"><img src="img/gallery-myriad01.jpg" class="portfolio-img" alt="Myriad"></a>
 					<a href="img/gallery-myriad02.jpg" class="fancybox wow fadeInUp" data-wow-offset="100" rel="gallery"><img src="img/gallery-myriad02.jpg" class="portfolio-img-last" alt="Myriad"></a>
 				</div>
 	

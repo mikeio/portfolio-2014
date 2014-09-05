@@ -53,7 +53,7 @@
 				</div>
 	
 				<div class="large-9 pull-3 columns">
-					<a href="img/gallery-smithwesson01.jpg" class="fancybox wow fadeInUp" data-wow-offset="100" rel="gallery"><img src="img/gallery-smithwesson01.jpg" class="portfolio-img" alt="Smith & Wesson"></a>
+					<a href="img/gallery-smithwesson01.jpg" class="fancybox" rel="gallery"><img src="img/gallery-smithwesson01.jpg" class="portfolio-img" alt="Smith & Wesson"></a>
 					<a href="img/gallery-smithwesson02.jpg" class="fancybox wow fadeInUp" data-wow-offset="100" rel="gallery"><img src="img/gallery-smithwesson02.jpg" class="portfolio-img-last" alt="Smith & Wesson"></a>
 				</div>
 	
