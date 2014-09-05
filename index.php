@@ -9,18 +9,6 @@
 
 <body>
 
-	<!--
-	<div data-alert class="alert-box alert hire-me-mobile hide-for-medium-up">
- 		Looking for a designer? I'm available for full-time work. Don't hesitate, <a href="/contact">get in touch!</a>
- 		<a href="#" class="close">&times;</a>
-	</div>
-
-	<div data-alert class="alert-box alert hire-me-desktop show-for-medium-up">
- 		<span>Are you looking<br>for a new designer?<br><a href="/contact">Get in touch today!</a></span>
- 		<a href="#" class="close">&times;</a>
-	</div>
-	-->
-
 	<!-- Start Navigation Section -->
 	<?php include 'nav.php'; ?>
 	<!-- End Navigation Section -->

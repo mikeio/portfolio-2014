@@ -6187,18 +6187,7 @@ a.th {
     font-size: 0.875em; }
 
   .broken-pencil {
-    background: url("") no-repeat center bottom, -webkit-gradient(linear, 0% 0%, 0% 100%, from(white), to(whitesmoke)); }
-
-  .hire-me-mobile {
-    display: block;
-    max-width: 100%;
-    z-index: 999;
-    border-radius: 0;
-    width: 100%;
-    text-align: center;
-    margin-bottom: 0; }
-    .hire-me-mobile a {
-      color: white; } }
+    background: url("") no-repeat center bottom, -webkit-gradient(linear, 0% 0%, 0% 100%, from(white), to(whitesmoke)); } }
 @media only screen and (min-width: 768px) {
   a {
     -webkit-transition: 0.3s;
@@ -6363,26 +6352,4 @@ a.th {
     padding-right: 0; }
     .error-right img {
       float: right;
-      display: block; }
-
-  .hire-me-desktop {
-    position: fixed;
-    top: 39px;
-    right: -81px;
-    max-width: 300px;
-    -ms-transform: rotate(45deg);
-    -moz-transform: rotate(45deg);
-    -o-transform: rotate(45deg);
-    -webkit-transform: rotate(45deg);
-    transform: rotate(45deg);
-    z-index: 999;
-    border-radius: 0;
-    width: 100%;
-    text-align: center;
-    margin-bottom: 0; }
-    .hire-me-desktop a {
-      color: white; }
-    .hire-me-desktop .close {
-      position: relative;
-      top: 0px;
-      margin-right: -24px; } }
+      display: block; } }
