@@ -1,0 +1,46 @@
+/* Header */
+.large-header {
+	position: relative;
+	width: 100%;
+	overflow: hidden;
+	z-index: 1;
+}
+
+.space .large-header {
+	background-image: url('../img/stardust.jpg');
+	position: relative;
+}
+
+
+.main-logo {
+	position: absolute;
+	width: 600px;
+	height: 179px;
+  	top: 50%;
+  	left: 50%;
+	margin: -90px -300px;
+
+}
+
+.scaling {
+    -webkit-animation-name: scalex;
+    -webkit-animation-duration:10s;
+    -webkit-animation-iteration-count:infinite;
+    -webkit-animation-timing-function:ease-in-out;
+    -moz-animation-name: scale;
+    -moz-animation-duration:10s;
+    -moz-animation-iteration-count:infinite;
+    -moz-animation-timing-function:ease-in-out;
+}
+    
+ @-webkit-keyframes scalex{
+     from {-webkit-transform: scale(0.9);}
+     65% {-webkit-transform: scale(1.0);}
+     to {-webkit-transform: scale(0.9);}    
+ }
+     
+ @-moz-keyframes scale{
+     from {-moz-transform: scale(0.9);}
+     65% {-moz-transform: scale(1.0);}
+     to {-moz-transform: scale(0.9);}    
+ }
