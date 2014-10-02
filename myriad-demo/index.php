@@ -7,7 +7,7 @@
 			<div class="content">
 				<div id="large-header" class="large-header">
 					<canvas id="demo-canvas"></canvas>
-					<img src="img/myriad.png" class="main-logo scaling">
+					<img src="img/myriad.png" class="main-logo">
 				</div>
 			</div>
 		</div>

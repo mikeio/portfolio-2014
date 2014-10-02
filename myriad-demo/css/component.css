@@ -7,18 +7,20 @@
 }
 
 .space .large-header {
-	background-image: url('../img/stardust.jpg');
-	position: relative;
+	background-image: url('../img/gradient.png');
+    background-size: cover;
+    position: relative;
+    background-color: #fff;
 }
 
 
 .main-logo {
 	position: absolute;
-	width: 600px;
-	height: 179px;
+	width: 350px;
+	height: 329px;
   	top: 50%;
   	left: 50%;
-	margin: -90px -300px;
+	margin: -164px -175px;
 
 }
 
