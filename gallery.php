@@ -201,6 +201,40 @@
 	
 			</div>
 
+			<div class="row">
+
+				<div class="large-6 columns">
+					<ul class="thumbnails cs-style-3">
+						<li>
+							<figure>
+								<a href="capitalcity"><img src="img/gallery-featured-capitalcity.jpg" alt="Capital City Club"></a>
+								<figcaption>
+									<h4>Capital City Club</h4>
+									<span>Brookhaven</span>
+									<a href="capitalcity" class="btn-small inverse hide-for-small">View Project</a>
+								</figcaption>
+							</figure>
+						</li>
+					</ul>
+				</div>
+		
+				<div class="large-6 columns">
+					<ul class="thumbnails cs-style-3">
+						<li>
+							<figure>
+								<a href="#"><img src="img/gallery-featured-codepen.jpg" alt="CodePen"></a>
+								<figcaption>
+									<h4>CodePen</h4>
+									<span>HTML / CSS Experimants</span>
+									<a href="#" class="btn-small inverse hide-for-small">Coming Soon</a>
+								</figcaption>
+							</figure>
+						</li>
+					</ul>
+				</div>
+	
+			</div>
+
 		</div>
 
 		<!-- Start Footer Section -->
