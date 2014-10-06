@@ -85,6 +85,8 @@ $green: #30b911;
 		width: 100px;
 		margin: 0 auto 60px;
 		border: 0;
+		-webkit-animation-delay: 1s;
+		animation-delay: 1s;
 	}
 
 	.header {
@@ -97,8 +99,8 @@ $green: #30b911;
 		h1 {
 			margin: 0;
 			padding: 0;
-			-webkit-animation-delay: 1s;
-			animation-delay: 1s;
+			-webkit-animation-delay: .5s;
+			animation-delay: .5s;
 		}
 
 		hr {
@@ -107,8 +109,6 @@ $green: #30b911;
 			width: 100px;
 			margin: 25px auto 0px;
 			border: 0;
-			-webkit-animation-delay: 1.5s;
-			animation-delay: 1.5s;
 		}
 
 		#intro {
@@ -116,16 +116,14 @@ $green: #30b911;
 			letter-spacing: 3px;
 			font-size: 1em;
 			margin-bottom: 15px;
-			-webkit-animation-delay: 0.5s;
-			animation-delay: 0.5s;
 		}
 	
 		#outro {
 			color: $lightgrey;
 			letter-spacing: 2px;
 			margin-top: 17px;
-			-webkit-animation-delay: 1.5s;
-			animation-delay: 1.5s;
+			-webkit-animation-delay: 1s;
+			animation-delay: 1s;
 		}
 	
 		#sub_header {

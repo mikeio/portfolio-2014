@@ -5460,7 +5460,9 @@ a.th {
     height: 2px;
     width: 100px;
     margin: 0 auto 60px;
-    border: 0; }
+    border: 0;
+    -webkit-animation-delay: 1s;
+    animation-delay: 1s; }
 
   .header {
     background: whitesmoke url("../img/bg_header-sml.jpg") no-repeat center bottom;
@@ -5471,29 +5473,25 @@ a.th {
     .header h1 {
       margin: 0;
       padding: 0;
-      -webkit-animation-delay: 1s;
-      animation-delay: 1s; }
+      -webkit-animation-delay: .5s;
+      animation-delay: .5s; }
     .header hr {
       background-color: #999999;
       height: 2px;
       width: 100px;
       margin: 25px auto 0px;
-      border: 0;
-      -webkit-animation-delay: 1.5s;
-      animation-delay: 1.5s; }
+      border: 0; }
     .header #intro {
       color: #999999;
       letter-spacing: 3px;
       font-size: 1em;
-      margin-bottom: 15px;
-      -webkit-animation-delay: 0.5s;
-      animation-delay: 0.5s; }
+      margin-bottom: 15px; }
     .header #outro {
       color: #cccccc;
       letter-spacing: 2px;
       margin-top: 17px;
-      -webkit-animation-delay: 1.5s;
-      animation-delay: 1.5s; }
+      -webkit-animation-delay: 1s;
+      animation-delay: 1s; }
     .header #sub_header {
       color: #999999;
       letter-spacing: 2px;
