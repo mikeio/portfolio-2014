@@ -666,6 +666,33 @@ $green: #30b911;
 		opacity: 1;
 	}
 
+	.social_codepen {
+		display: inline-block;
+		position: relative;
+		text-indent: -9999px;
+		width: 33px;
+		height: 33px;
+		background: url('../img/social_codepen.png') bottom;
+		background-size: cover;
+		margin: 0 auto;
+	}
+
+	.social_codepen span {
+		position: absolute;
+		top: 0; left: 0; bottom: 0; right: 0;
+		background: url('../img/social_codepen.png') bottom;
+		background-position: center top;
+		background-size: cover;
+		opacity: 0;
+		-webkit-transition: opacity 0.3s;
+		-moz-transition:    opacity 0.3s;
+		-o-transition:      opacity 0.3s;
+	}
+	
+	.social_codepen:hover span {
+		opacity: 1;
+	}
+
 
 	footer {
 		text-align: center;
