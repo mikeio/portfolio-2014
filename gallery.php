@@ -71,40 +71,6 @@
 					<ul class="thumbnails cs-style-3">
 						<li>
 							<figure>
-								<a href="capitalcity"><img src="img/gallery-featured-capitalcity.jpg" alt="Capital City Club"></a>
-								<figcaption>
-									<h4>Capital City Club</h4>
-									<span>Brookhaven</span>
-									<a href="capitalcity" class="btn-small inverse hide-for-small">View Project</a>
-								</figcaption>
-							</figure>
-						</li>
-					</ul>
-				</div>
-		
-				<div class="large-6 columns">
-					<ul class="thumbnails cs-style-3">
-						<li>
-							<figure>
-								<a href="http://codepen.io/papsx/"><img src="img/gallery-featured-experiments.jpg" alt="Experiments"></a>
-								<figcaption>
-									<h4>Codepen.io</h4>
-									<span>CSS / JS Experiments</span>
-									<a href="http://codepen.io/papsx/" class="btn-small inverse hide-for-small">View Projects</a>
-								</figcaption>
-							</figure>
-						</li>
-					</ul>
-				</div>
-	
-			</div>
-
-			<div class="row">
-
-				<div class="large-6 columns">
-					<ul class="thumbnails cs-style-3">
-						<li>
-							<figure>
 								<a href="breederscup"><img src="img/gallery-featured-breederscup.jpg" alt="Breeders Cup"></a>
 								<figcaption>
 									<h4>Breeders Cup</h4>
@@ -193,6 +159,40 @@
 									<h4>Hip Chat</h4>
 									<span>Messaging Service</span>
 									<a href="hipchat" class="btn-small inverse hide-for-small">View Project</a>
+								</figcaption>
+							</figure>
+						</li>
+					</ul>
+				</div>
+	
+			</div>
+
+			<div class="row">
+
+				<div class="large-6 columns">
+					<ul class="thumbnails cs-style-3">
+						<li>
+							<figure>
+								<a href="capitalcity"><img src="img/gallery-featured-capitalcity.jpg" alt="Capital City Club"></a>
+								<figcaption>
+									<h4>Capital City Club</h4>
+									<span>Brookhaven</span>
+									<a href="capitalcity" class="btn-small inverse hide-for-small">View Project</a>
+								</figcaption>
+							</figure>
+						</li>
+					</ul>
+				</div>
+		
+				<div class="large-6 columns">
+					<ul class="thumbnails cs-style-3">
+						<li>
+							<figure>
+								<a href="http://codepen.io/papsx/"><img src="img/gallery-featured-experiments.jpg" alt="Experiments"></a>
+								<figcaption>
+									<h4>Experiments</h4>
+									<span>CodePen.io</span>
+									<a href="http://codepen.io/papsx/" class="btn-small inverse hide-for-small">View Projects</a>
 								</figcaption>
 							</figure>
 						</li>
