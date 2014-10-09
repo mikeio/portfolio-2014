@@ -224,9 +224,9 @@
 							<figure>
 								<a href="http://codepen.io/papsx/"><img src="img/gallery-featured-experiments.jpg" alt="Experiments"></a>
 								<figcaption>
-									<h4>CSS / JS</h4>
-									<span>Experiments</span>
-									<a href="http://codepen.io/papsx/" class="btn-small inverse hide-for-small">Coming Soon</a>
+									<h4>Codepen.io</h4>
+									<span>CSS / JS Experiments</span>
+									<a href="http://codepen.io/papsx/" class="btn-small inverse hide-for-small">View Projects</a>
 								</figcaption>
 							</figure>
 						</li>
