@@ -222,11 +222,11 @@
 					<ul class="thumbnails cs-style-3">
 						<li>
 							<figure>
-								<a href="#"><img src="img/gallery-featured-experiments.jpg" alt="Experiments"></a>
+								<a href="http://codepen.io/papsx/"><img src="img/gallery-featured-experiments.jpg" alt="Experiments"></a>
 								<figcaption>
 									<h4>CSS / JS</h4>
 									<span>Experiments</span>
-									<a href="#" class="btn-small inverse hide-for-small">Coming Soon</a>
+									<a href="http://codepen.io/papsx/" class="btn-small inverse hide-for-small">Coming Soon</a>
 								</figcaption>
 							</figure>
 						</li>
