@@ -23,8 +23,6 @@
 	        	  	<li><a href="https://github.com/papsx/"><div class="social_github"><span></span></div></a></li>
 	        	  	<li><a href="http://codepen.io/papsx/"><div class="social_codepen"><span></span></div></a></li>
 	        	  	<li><a href="https://www.linkedin.com/in/mikepetersio"><div class="social_linkedin"><span></span></div></a></li>
-	        	  	<li><a href="/contact"><div class="social_mail"><span></span></div></a></li>
-
 	    		</ul>
 	    	</div>
 
