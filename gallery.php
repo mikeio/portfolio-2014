@@ -37,26 +37,26 @@
 					<ul class="thumbnails cs-style-3">
 						<li>
 							<figure>
-								<a href="kemp"><img src="img/gallery-featured-kemp.jpg" alt="Kemp Tennis Academy"></a>
-								<figcaption>
-									<h4>Kemp</h4>
-									<span>Tennis Academy</span>
-									<a href="kemp" class="btn-small inverse hide-for-small">View Project</a>
-								</figcaption>
-							</figure>
-						</li>
-					</ul>
-				</div>
-	
-				<div class="large-6 columns">
-					<ul class="thumbnails cs-style-3">
-						<li>
-							<figure>
 								<a href="quark"><img src="img/gallery-featured-quark.jpg" alt="Quark Coin"></a>
 								<figcaption>
 									<h4>Quark Coin</h4>
 									<span>Money Reinvented</span>
 									<a href="quark" class="btn-small inverse hide-for-small">View Project</a>
+								</figcaption>
+							</figure>
+						</li>
+					</ul>
+				</div>
+
+				<div class="large-6 columns">
+					<ul class="thumbnails cs-style-3">
+						<li>
+							<figure>
+								<a href="kemp"><img src="img/gallery-featured-kemp.jpg" alt="Kemp Tennis Academy"></a>
+								<figcaption>
+									<h4>Kemp</h4>
+									<span>Tennis Academy</span>
+									<a href="kemp" class="btn-small inverse hide-for-small">View Project</a>
 								</figcaption>
 							</figure>
 						</li>
