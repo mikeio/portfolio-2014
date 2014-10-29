@@ -79,7 +79,7 @@
 					<ul class="thumbnails cs-style-3">
 						<li>
 							<figure>
-								<a href="quark"><img src="img/gallery-featured-quark.jpg" alt="img04"></a>
+								<a href="quark"><img src="img/gallery-featured-quark.jpg" alt="Quark Coin"></a>
 								<figcaption>
 									<h4>Quark Coin</h4>
 									<span>Money Reinvented</span>
@@ -94,11 +94,11 @@
 					<ul class="thumbnails cs-style-3">
 						<li>
 							<figure>
-								<a href="cupidsprey"><img src="img/gallery-featured-cupidsprey.jpg" alt="img04"></a>
+								<a href="kemp"><img src="img/gallery-featured-kemp.jpg" alt="Kemp Tennis Academy"></a>
 								<figcaption>
-									<h4>Cupid's Prey</h4>
-									<span>Lust List 2012</span>
-									<a href="cupidsprey" class="btn-small inverse hide-for-small">View Project</a>
+									<h4>Kemp</h4>
+									<span>Tennis Academy</span>
+									<a href="kemp" class="btn-small inverse hide-for-small">View Project</a>
 								</figcaption>
 							</figure>
 						</li>
