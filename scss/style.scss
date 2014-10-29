@@ -612,6 +612,87 @@ $green: #30b911;
 		opacity: 1;
 	}
 
+	.social_linkedin {
+		display: inline-block;
+		position: relative;
+		text-indent: -9999px;
+		width: 33px;
+		height: 33px;
+		background: url('../img/social_linkedin.png') bottom;
+		background-size: cover;
+		margin: 0 auto;
+	}
+
+	.social_linkedin span {
+		position: absolute;
+		top: 0; left: 0; bottom: 0; right: 0;
+		background: url('../img/social_linkedin.png') bottom;
+		background-position: center top;
+		background-size: cover;
+		opacity: 0;
+		-webkit-transition: opacity 0.3s;
+		-moz-transition:    opacity 0.3s;
+		-o-transition:      opacity 0.3s;
+	}
+	
+	.social_linkedin:hover span {
+		opacity: 1;
+	}
+
+	.social_mail {
+		display: inline-block;
+		position: relative;
+		text-indent: -9999px;
+		width: 33px;
+		height: 33px;
+		background: url('../img/social_mail.png') bottom;
+		background-size: cover;
+		margin: 0 auto;
+	}
+
+	.social_mail span {
+		position: absolute;
+		top: 0; left: 0; bottom: 0; right: 0;
+		background: url('../img/social_mail.png') bottom;
+		background-position: center top;
+		background-size: cover;
+		opacity: 0;
+		-webkit-transition: opacity 0.3s;
+		-moz-transition:    opacity 0.3s;
+		-o-transition:      opacity 0.3s;
+	}
+	
+	.social_mail:hover span {
+		opacity: 1;
+	}
+
+	.social_codepen {
+		display: inline-block;
+		position: relative;
+		text-indent: -9999px;
+		width: 33px;
+		height: 33px;
+		background: url('../img/social_codepen.png') bottom;
+		background-size: cover;
+		margin: 0 auto;
+	}
+
+	.social_codepen span {
+		position: absolute;
+		top: 0; left: 0; bottom: 0; right: 0;
+		background: url('../img/social_codepen.png') bottom;
+		background-position: center top;
+		background-size: cover;
+		opacity: 0;
+		-webkit-transition: opacity 0.3s;
+		-moz-transition:    opacity 0.3s;
+		-o-transition:      opacity 0.3s;
+	}
+	
+	.social_codepen:hover span {
+		opacity: 1;
+	}
+
 
 	footer {
 		text-align: center;
@@ -985,19 +1066,6 @@ $green: #30b911;
 		-webkit-gradient(linear, 0% 0%, 0% 100%, from($white), to($offwhite));
 	}
 
-	.hire-me {
-		display: block;
-		max-width: 100%;
-		z-index: 999;
-		border-radius: 0;
-		width: 100%;
-		text-align: center;
-		margin-bottom: 0;
-		a {
-			color: $white;
-		}
-	}
-
 }
 
 @media only screen and (min-width: 768px) {
@@ -1233,25 +1301,6 @@ $green: #30b911;
 		}
 	}
 
-	.hire-me {
-		width: 300px;
-		z-index: 999;
-		border-radius: 0;
-		position: fixed;
-		top: 55px;
-		right: -70px;
-		text-align: center;
-		margin-bottom: 0;
-		-ms-transform:rotate(45deg);
-    	-moz-transform: rotate(45deg);
-   		-o-transform: rotate(45deg); 
-    	-webkit-transform: rotate(45deg);
-    	transform: rotate(45deg);
-    	font-size: 0.875em;
-		a {
-			color: $white;
-		}
-	}
 }
 
 

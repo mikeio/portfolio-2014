@@ -38,7 +38,7 @@
 					<div class="sidebar">
 
 						<h6 id="inverse">About:</h6>
-						<p>Myriad is a cryptocurrency that uses five separate algorithms concurrently to create a Blockchain that focuses on technology and innovative usage.</p>
+						<p>Myriadcoin is a decentralized cryptocurrency, a spiritual successor to Bitcoin that seeks to expand and improve upon the underlying technology created by Satoshi Nakamoto.</p>
 						<p>With 30 second block times, Myriad is 20x faster than Bitcoin and one of the fastest cryptocurrencies in existence.</p>
 						<hr>
 						<h6>Services:</h6>
@@ -54,7 +54,7 @@
 	
 				<div class="large-9 pull-3 columns">
 					<a href="img/gallery-myriad01.jpg" class="fancybox" rel="gallery"><img src="img/gallery-myriad01.jpg" class="portfolio-img" alt="Myriad"></a>
-					<a href="img/gallery-myriad02.jpg" class="fancybox" rel="gallery"><img src="img/gallery-myriad02.jpg" class="portfolio-img-last" alt="Myriad"></a>
+					<a href="img/gallery-myriad02.jpg" class="fancybox wow fadeInUp" data-wow-offset="100" rel="gallery"><img src="img/gallery-myriad02.jpg" class="portfolio-img-last" alt="Myriad"></a>
 				</div>
 	
 			</div>

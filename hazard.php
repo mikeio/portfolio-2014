@@ -16,8 +16,8 @@
 	<div class="header header_alt">
 
 		<div class="header-text">
-			<h2>Cupid's Prey</h2>
-			<h6 id="sub_header">Lust List 2012</h6>
+			<h2>Hazard County</h2>
+			<h6 id="sub_header">McDonough, Ga</h6>
 			<hr>
 		</div>
 		
@@ -37,26 +37,26 @@
 
 					<div class="sidebar">
 
-						<h6 id="inverse">About:</h6>
-						<p>Creative Loafing's 10th Annual Lust List Party presented by Cosmo Lava and RSVPATL.</p>
-						<p>Every female gets a lock and every male gets a key. The first 25 people to find their match before midnight receives a complimentary bottle of champagne.</p>
-						<hr>
+						<h6>About:</h6>
+						<p>Housed in a 12,000 ft. warehouse in McDonough (just half an hour South of downtown Atlanta), Hazard County Skatepark has obstacles for skaters of every style and level of experience.</>
 						<h6>Services:</h6>
 						<h4>Design</h4>
 						<h6>Date:</h6>
-						<h4>2012</h4>
+						<h4>2010</h4>
 		
-						<a href="http://clatl.com/atlanta/CLs10thannualLustList/Page" class="btn-medium btn-sidebar">Creative Loafing</a>
+						<a href="http://hazardcountyskatepark.com" class="btn-medium btn-sidebar">Hazard County</a>
 
 					</div>
 	
 				</div>
 	
 				<div class="large-9 pull-3 columns">
-					<a href="img/gallery-cupidsprey01.jpg" class="fancybox" rel="gallery"><img src="img/gallery-cupidsprey01.jpg" class="portfolio-img" alt="Cupids Prey"></a>
-					<a href="img/gallery-cupidsprey02.jpg" class="fancybox wow fadeInUp" data-wow-offset="100" rel="gallery"><img src="img/gallery-cupidsprey02.jpg" class="portfolio-img" alt="Cupids Prey"></a>
-					<a href="img/gallery-cupidsprey03.jpg" class="fancybox wow fadeInUp" data-wow-offset="100" rel="gallery"><img src="img/gallery-cupidsprey03.jpg" class="portfolio-img" alt="Cupids Prey"></a>
-					<a href="img/gallery-cupidsprey04.jpg" class="fancybox wow fadeInUp" data-wow-offset="100" rel="gallery"><img src="img/gallery-cupidsprey04.jpg" class="portfolio-img-last" alt="Cupids Prey"></a>
+					<a href="img/gallery-hazard01.jpg" class="fancybox" rel="gallery"><img src="img/gallery-hazard01.jpg" class="portfolio-img" alt="Hazard County"></a>
+					<a href="img/gallery-hazard02.jpg" class="fancybox" rel="gallery"><img src="img/gallery-hazard02.jpg" class="portfolio-img-last" alt="Hazard County"></a>
+					<!--
+					<a href="img/gallery-hazard03.jpg" class="fancybox" rel="gallery"><img src="img/gallery-hazard03.jpg" class="portfolio-img" alt="Hazard County"></a>
+					<a href="img/gallery-hazard04.jpg" class="fancybox" rel="gallery"><img src="img/gallery-hazard04.jpg" class="portfolio-img-last" alt="Hazard County"></a>
+					-->
 				</div>
 	
 			</div>

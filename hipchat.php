@@ -63,8 +63,8 @@
 	
 				<div class="large-9 pull-3 columns">
 					<a href="img/gallery-hipchat01.jpg" class="fancybox" rel="gallery"><img src="img/gallery-hipchat01.jpg" class="portfolio-img" alt="Hip Chat"></a>
-					<a href="img/gallery-hipchat02.jpg" class="fancybox" rel="gallery"><img src="img/gallery-hipchat02.jpg" class="portfolio-img" alt="Hip Chat"></a>
-					<a href="img/gallery-hipchat03.jpg" class="fancybox" rel="gallery"><img src="img/gallery-hipchat03.jpg" class="portfolio-img-last" alt="Hip Chat"></a>
+					<a href="img/gallery-hipchat02.jpg" class="fancybox wow fadeInUp" data-wow-offset="100" rel="gallery"><img src="img/gallery-hipchat02.jpg" class="portfolio-img" alt="Hip Chat"></a>
+					<a href="img/gallery-hipchat03.jpg" class="fancybox wow fadeInUp" data-wow-offset="100" rel="gallery"><img src="img/gallery-hipchat03.jpg" class="portfolio-img-last" alt="Hip Chat"></a>
 				</div>
 	
 			</div>
