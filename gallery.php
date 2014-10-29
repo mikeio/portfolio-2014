@@ -32,21 +32,6 @@
 		<div class="bg_gradient">
 
 			<div class="row">
-	
-				<div class="large-6 columns">
-					<ul class="thumbnails cs-style-3">
-						<li>
-							<figure>
-								<a href="quark"><img src="img/gallery-featured-quark.jpg" alt="Quark Coin"></a>
-								<figcaption>
-									<h4>Quark Coin</h4>
-									<span>Money Reinvented</span>
-									<a href="quark" class="btn-small inverse hide-for-small">View Project</a>
-								</figcaption>
-							</figure>
-						</li>
-					</ul>
-				</div>
 
 				<div class="large-6 columns">
 					<ul class="thumbnails cs-style-3">
@@ -63,34 +48,15 @@
 					</ul>
 				</div>
 	
-			</div>
-
-			<div class="row">
-
 				<div class="large-6 columns">
 					<ul class="thumbnails cs-style-3">
 						<li>
 							<figure>
-								<a href="tabernacle"><img src="img/gallery-featured-tabernacle.jpg" alt="Tabernacle"></a>
+								<a href="quark"><img src="img/gallery-featured-quark.jpg" alt="Quark Coin"></a>
 								<figcaption>
-									<h4>Tabernacle</h4>
-									<span>Atlanta, Ga</span>
-									<a href="tabernacle" class="btn-small inverse hide-for-small">View Project</a>
-								</figcaption>
-							</figure>
-						</li>
-					</ul>
-				</div>
-		
-				<div class="large-6 columns">
-					<ul class="thumbnails cs-style-3">
-						<li>
-							<figure>
-								<a href="http://codepen.io/papsx/"><img src="img/gallery-featured-experiments.jpg" alt="Experiments"></a>
-								<figcaption>
-									<h4>Codepen.io</h4>
-									<span>CSS / JS Experiments</span>
-									<a href="http://codepen.io/papsx/" class="btn-small inverse hide-for-small">View Projects</a>
+									<h4>Quark Coin</h4>
+									<span>Money Reinvented</span>
+									<a href="quark" class="btn-small inverse hide-for-small">View Project</a>
 								</figcaption>
 							</figure>
 						</li>
@@ -115,7 +81,7 @@
 						</li>
 					</ul>
 				</div>
-		
+
 				<div class="large-6 columns">
 					<ul class="thumbnails cs-style-3">
 						<li>
@@ -129,41 +95,7 @@
 							</figure>
 						</li>
 					</ul>
-				</div>
-	
-			</div>
-
-			<div class="row">
-
-				<div class="large-6 columns">
-					<ul class="thumbnails cs-style-3">
-						<li>
-							<figure>
-								<a href="tedostone"><img src="img/gallery-featured-tedostone.jpg" alt="Tedo Stone"></a>
-								<figcaption>
-									<h4>Tedo Stone</h4>
-									<span>Psychedelic Rocker</span>
-									<a href="tedostone" class="btn-small inverse hide-for-small">View Project</a>
-								</figcaption>
-							</figure>
-						</li>
-					</ul>
-				</div>
-		
-				<div class="large-6 columns">
-					<ul class="thumbnails cs-style-3">
-						<li>
-							<figure>
-								<a href="capitalcity"><img src="img/gallery-featured-capitalcity.jpg" alt="Capital City Club"></a>
-								<figcaption>
-									<h4>Capital City Club</h4>
-									<span>Brookhaven</span>
-									<a href="capitalcity" class="btn-small inverse hide-for-small">View Project</a>
-								</figcaption>
-							</figure>
-						</li>
-					</ul>
-				</div>
+				</div>			
 	
 			</div>
 
@@ -188,6 +120,40 @@
 					<ul class="thumbnails cs-style-3">
 						<li>
 							<figure>
+								<a href="http://codepen.io/papsx/"><img src="img/gallery-featured-experiments.jpg" alt="Experiments"></a>
+								<figcaption>
+									<h4>Codepen.io</h4>
+									<span>CSS / JS Experiments</span>
+									<a href="http://codepen.io/papsx/" class="btn-small inverse hide-for-small">View Projects</a>
+								</figcaption>
+							</figure>
+						</li>
+					</ul>
+				</div>
+		
+			</div>
+
+			<div class="row">
+
+				<div class="large-6 columns">
+					<ul class="thumbnails cs-style-3">
+						<li>
+							<figure>
+								<a href="tedostone"><img src="img/gallery-featured-tedostone.jpg" alt="Tedo Stone"></a>
+								<figcaption>
+									<h4>Tedo Stone</h4>
+									<span>Psychedelic Rocker</span>
+									<a href="tedostone" class="btn-small inverse hide-for-small">View Project</a>
+								</figcaption>
+							</figure>
+						</li>
+					</ul>
+				</div>
+
+				<div class="large-6 columns">
+					<ul class="thumbnails cs-style-3">
+						<li>
+							<figure>
 								<a href="cupidsprey"><img src="img/gallery-featured-cupidsprey.jpg" alt="Cupids Prey"></a>
 								<figcaption>
 									<h4>Cupid's Prey</h4>
@@ -198,6 +164,40 @@
 						</li>
 					</ul>
 				</div>
+
+			</div>
+
+			<div class="row">
+
+				<div class="large-6 columns">
+					<ul class="thumbnails cs-style-3">
+						<li>
+							<figure>
+								<a href="tabernacle"><img src="img/gallery-featured-tabernacle.jpg" alt="Tabernacle"></a>
+								<figcaption>
+									<h4>Tabernacle</h4>
+									<span>Atlanta, Ga</span>
+									<a href="tabernacle" class="btn-small inverse hide-for-small">View Project</a>
+								</figcaption>
+							</figure>
+						</li>
+					</ul>
+				</div>
+
+				<div class="large-6 columns">
+					<ul class="thumbnails cs-style-3">
+						<li>
+							<figure>
+								<a href="capitalcity"><img src="img/gallery-featured-capitalcity.jpg" alt="Capital City Club"></a>
+								<figcaption>
+									<h4>Capital City Club</h4>
+									<span>Brookhaven</span>
+									<a href="capitalcity" class="btn-small inverse hide-for-small">View Project</a>
+								</figcaption>
+							</figure>
+						</li>
+					</ul>
+				</div>				
 	
 			</div>
 
