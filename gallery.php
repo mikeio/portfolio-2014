@@ -47,26 +47,7 @@
 						</li>
 					</ul>
 				</div>
-		
-				<div class="large-6 columns">
-					<ul class="thumbnails cs-style-3">
-						<li>
-							<figure>
-								<a href="cupidsprey"><img src="img/gallery-featured-cupidsprey.jpg" alt="Cupids Prey"></a>
-								<figcaption>
-									<h4>Cupid's Prey</h4>
-									<span>Lust List 2012</span>
-									<a href="cupidsprey" class="btn-small inverse hide-for-small">View Project</a>
-								</figcaption>
-							</figure>
-						</li>
-					</ul>
-				</div>
-	
-			</div>
 
-			<div class="row">
-	
 				<div class="large-6 columns">
 					<ul class="thumbnails cs-style-3">
 						<li>
@@ -76,6 +57,25 @@
 									<h4>Kemp</h4>
 									<span>Tennis Academy</span>
 									<a href="kemp" class="btn-small inverse hide-for-small">View Project</a>
+								</figcaption>
+							</figure>
+						</li>
+					</ul>
+				</div>
+	
+			</div>
+
+			<div class="row">
+
+				<div class="large-6 columns">
+					<ul class="thumbnails cs-style-3">
+						<li>
+							<figure>
+								<a href="tabernacle"><img src="img/gallery-featured-tabernacle.jpg" alt="Tabernacle"></a>
+								<figcaption>
+									<h4>Tabernacle</h4>
+									<span>Atlanta, Ga</span>
+									<a href="tabernacle" class="btn-small inverse hide-for-small">View Project</a>
 								</figcaption>
 							</figure>
 						</li>
@@ -100,8 +100,6 @@
 			</div>
 
 			<div class="row">
-
-				here
 		
 				<div class="large-6 columns">
 					<ul class="thumbnails cs-style-3">
@@ -112,6 +110,21 @@
 									<h4>Myriad</h4>
 									<span>A Coin For Everyone</span>
 									<a href="myriad" class="btn-small inverse hide-for-small">View Project</a>
+								</figcaption>
+							</figure>
+						</li>
+					</ul>
+				</div>
+
+				<div class="large-6 columns">
+					<ul class="thumbnails cs-style-3">
+						<li>
+							<figure>
+								<a href="cupidsprey"><img src="img/gallery-featured-cupidsprey.jpg" alt="Cupids Prey"></a>
+								<figcaption>
+									<h4>Cupid's Prey</h4>
+									<span>Lust List 2012</span>
+									<a href="cupidsprey" class="btn-small inverse hide-for-small">View Project</a>
 								</figcaption>
 							</figure>
 						</li>
@@ -141,11 +154,11 @@
 					<ul class="thumbnails cs-style-3">
 						<li>
 							<figure>
-								<a href="tabernacle"><img src="img/gallery-featured-tabernacle.jpg" alt="Tabernacle"></a>
+								<a href="capitalcity"><img src="img/gallery-featured-capitalcity.jpg" alt="Capital City Club"></a>
 								<figcaption>
-									<h4>Tabernacle</h4>
-									<span>Atlanta, Ga</span>
-									<a href="tabernacle" class="btn-small inverse hide-for-small">View Project</a>
+									<h4>Capital City Club</h4>
+									<span>Brookhaven</span>
+									<a href="capitalcity" class="btn-small inverse hide-for-small">View Project</a>
 								</figcaption>
 							</figure>
 						</li>
@@ -214,25 +227,6 @@
 									<h4>Ladies Night</h4>
 									<span>Cosmo Lava</span>
 									<a href="ladiesnight" class="btn-small inverse hide-for-small">View Project</a>
-								</figcaption>
-							</figure>
-						</li>
-					</ul>
-				</div>
-	
-			</div>
-
-			<div class="row">
-
-				<div class="large-6 large-centered columns">
-					<ul class="thumbnails cs-style-3">
-						<li>
-							<figure>
-								<a href="capitalcity"><img src="img/gallery-featured-capitalcity.jpg" alt="Capital City Club"></a>
-								<figcaption>
-									<h4>Capital City Club</h4>
-									<span>Brookhaven</span>
-									<a href="capitalcity" class="btn-small inverse hide-for-small">View Project</a>
 								</figcaption>
 							</figure>
 						</li>
