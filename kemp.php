@@ -38,7 +38,9 @@
 					<div class="sidebar">
 
 						<h6 id="inverse">About:</h6>
-						<p>Kemp Tennis Academy has the staff and resources to allow any player to reach the level of excellence they desire: high school team, advanced junior competition, collegiate tennis, or the pro circuits.</p>
+						
+						<p>Kemp Tennis Academy is an elite junior tennis training center and academic institution that is geared towards players who are committed to an intensive training schedule in an effort to maximize their potential both on and off the court.</p>
+						<p>Through a daily regimen of technical, tactical, mental, and physical training, Kemp Tennis Academy allows any player to reach the level of excellence they desire.</p>
 						<hr>
 						<h6>Services:</h6>
 						<h4>Logo</h4>
