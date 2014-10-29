@@ -16,8 +16,8 @@
 	<div class="header header_alt">
 
 		<div class="header-text">
-			<h2>Hazard County</h2>
-			<h6 id="sub_header">McDonough, Ga</h6>
+			<h2>Kemp</h2>
+			<h6 id="sub_header">Tennis Academy</h6>
 			<hr>
 		</div>
 		
@@ -37,26 +37,25 @@
 
 					<div class="sidebar">
 
-						<h6>About:</h6>
-						<p>Housed in a 12,000 ft. warehouse in McDonough (just half an hour South of downtown Atlanta), Hazard County Skatepark has obstacles for skaters of every style and level of experience.</>
+						<h6 id="inverse">About:</h6>
+						<p>Yogi Bear is smarter than the average bear, Yogi Bear is always in the ranger's hair. At a picnic table you will find him there, stuffing down more goodies than the average bear. He will sleep till noon but before it's dark, he'll have every picnic basket that's in Jellystone Park. Yogi has it better than a millionaire. That's because he's smarter than the average bear!</p>
+						<hr>
 						<h6>Services:</h6>
-						<h4>Design</h4>
+						<h4>Branding</h4>
 						<h6>Date:</h6>
-						<h4>2010</h4>
+						<h4>2014</h4>
 		
-						<a href="http://hazardcountyskatepark.com" class="btn-medium btn-sidebar">Hazard County</a>
+						<a href="#" class="btn-medium btn-sidebar">Kemp Tennis</a>
 
 					</div>
 	
 				</div>
 	
 				<div class="large-9 pull-3 columns">
-					<a href="img/gallery-hazard01.jpg" class="fancybox" rel="gallery"><img src="img/gallery-hazard01.jpg" class="portfolio-img" alt="Hazard County"></a>
-					<a href="img/gallery-hazard02.jpg" class="fancybox" rel="gallery"><img src="img/gallery-hazard02.jpg" class="portfolio-img-last" alt="Hazard County"></a>
-					<!--
-					<a href="img/gallery-hazard03.jpg" class="fancybox" rel="gallery"><img src="img/gallery-hazard03.jpg" class="portfolio-img" alt="Hazard County"></a>
-					<a href="img/gallery-hazard04.jpg" class="fancybox" rel="gallery"><img src="img/gallery-hazard04.jpg" class="portfolio-img-last" alt="Hazard County"></a>
-					-->
+					<a href="img/gallery-kemp01.jpg" class="fancybox" rel="gallery"><img src="img/gallery-kemp01.jpg" class="portfolio-img" alt="Kemp Tennis Academy"></a>
+					<a href="img/gallery-kemp02.jpg" class="fancybox" rel="gallery"><img src="img/gallery-kemp02.jpg" class="portfolio-img" alt="Kemp Tennis Academy"></a>
+					<a href="img/gallery-kemp03.jpg" class="fancybox" rel="gallery"><img src="img/gallery-kemp03.jpg" class="portfolio-img" alt="Kemp Tennis Academy"></a>
+					<a href="img/gallery-kemp04.jpg" class="fancybox wow fadeInUp" data-wow-offset="100" rel="gallery"><img src="img/gallery-kemp04.jpg" class="portfolio-img-last" alt="Kemp Tennis Academy"></a>
 				</div>
 	
 			</div>

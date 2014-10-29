@@ -66,6 +66,40 @@
 			</div>
 
 			<div class="row">
+	
+				<div class="large-6 columns">
+					<ul class="thumbnails cs-style-3">
+						<li>
+							<figure>
+								<a href="kemp"><img src="img/gallery-featured-kemp.jpg" alt="Kemp Tennis Academy"></a>
+								<figcaption>
+									<h4>Kemp</h4>
+									<span>Tennis Academy</span>
+									<a href="kemp" class="btn-small inverse hide-for-small">View Project</a>
+								</figcaption>
+							</figure>
+						</li>
+					</ul>
+				</div>
+		
+				<div class="large-6 columns">
+					<ul class="thumbnails cs-style-3">
+						<li>
+							<figure>
+								<a href="http://codepen.io/papsx/"><img src="img/gallery-featured-experiments.jpg" alt="Experiments"></a>
+								<figcaption>
+									<h4>Codepen.io</h4>
+									<span>CSS / JS Experiments</span>
+									<a href="http://codepen.io/papsx/" class="btn-small inverse hide-for-small">View Projects</a>
+								</figcaption>
+							</figure>
+						</li>
+					</ul>
+				</div>
+	
+			</div>
+
+			<div class="row">
 
 				<div class="large-6 columns">
 					<ul class="thumbnails cs-style-3">
@@ -168,40 +202,6 @@
 			</div>
 
 			<div class="row">
-
-				<div class="large-6 columns">
-					<ul class="thumbnails cs-style-3">
-						<li>
-							<figure>
-								<a href="capitalcity"><img src="img/gallery-featured-capitalcity.jpg" alt="Capital City Club"></a>
-								<figcaption>
-									<h4>Capital City Club</h4>
-									<span>Brookhaven</span>
-									<a href="capitalcity" class="btn-small inverse hide-for-small">View Project</a>
-								</figcaption>
-							</figure>
-						</li>
-					</ul>
-				</div>
-		
-				<div class="large-6 columns">
-					<ul class="thumbnails cs-style-3">
-						<li>
-							<figure>
-								<a href="http://codepen.io/papsx/"><img src="img/gallery-featured-experiments.jpg" alt="Experiments"></a>
-								<figcaption>
-									<h4>Experiments</h4>
-									<span>CodePen.io</span>
-									<a href="http://codepen.io/papsx/" class="btn-small inverse hide-for-small">View Projects</a>
-								</figcaption>
-							</figure>
-						</li>
-					</ul>
-				</div>
-	
-			</div>
-
-			<div class="row">
 	
 				<div class="large-6 columns">
 					<ul class="thumbnails cs-style-3">
@@ -227,6 +227,25 @@
 									<h4>Ladies Night</h4>
 									<span>Cosmo Lava</span>
 									<a href="ladiesnight" class="btn-small inverse hide-for-small">View Project</a>
+								</figcaption>
+							</figure>
+						</li>
+					</ul>
+				</div>
+	
+			</div>
+
+			<div class="row">
+
+				<div class="large-6 large-centered columns">
+					<ul class="thumbnails cs-style-3">
+						<li>
+							<figure>
+								<a href="capitalcity"><img src="img/gallery-featured-capitalcity.jpg" alt="Capital City Club"></a>
+								<figcaption>
+									<h4>Capital City Club</h4>
+									<span>Brookhaven</span>
+									<a href="capitalcity" class="btn-small inverse hide-for-small">View Project</a>
 								</figcaption>
 							</figure>
 						</li>
