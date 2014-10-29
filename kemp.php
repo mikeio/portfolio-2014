@@ -38,7 +38,7 @@
 					<div class="sidebar">
 
 						<h6 id="inverse">About:</h6>
-						<p>Yogi Bear is smarter than the average bear, Yogi Bear is always in the ranger's hair. At a picnic table you will find him there, stuffing down more goodies than the average bear. He will sleep till noon but before it's dark, he'll have every picnic basket that's in Jellystone Park. Yogi has it better than a millionaire. That's because he's smarter than the average bear!</p>
+						<p>Kemp Tennis Academy has the staff and resources to allow any player to reach the level of excellence they desire: high school team, advanced junior competition, collegiate tennis, or the pro circuits.</p>
 						<hr>
 						<h6>Services:</h6>
 						<h4>Logo</h4>
