@@ -101,20 +101,7 @@
 
 			<div class="row">
 
-				<div class="large-6 columns">
-					<ul class="thumbnails cs-style-3">
-						<li>
-							<figure>
-								<a href="breederscup"><img src="img/gallery-featured-breederscup.jpg" alt="Breeders Cup"></a>
-								<figcaption>
-									<h4>Breeders Cup</h4>
-									<span>Quint Events</span>
-									<a href="breederscup" class="btn-small inverse hide-for-small">View Project</a>
-								</figcaption>
-							</figure>
-						</li>
-					</ul>
-				</div>
+				here
 		
 				<div class="large-6 columns">
 					<ul class="thumbnails cs-style-3">
