@@ -75,7 +75,7 @@
 	
 			<div class="row">
 	
-				<div class="large-6 columns">
+				<div class="large-6 columns wow fadeInLeft" data-wow-offset="100">
 					<ul class="thumbnails cs-style-3">
 						<li>
 							<figure>
@@ -90,7 +90,7 @@
 					</ul>
 				</div>
 		
-				<div class="large-6 columns">
+				<div class="large-6 columns wow fadeInRight" data-wow-offset="100">
 					<ul class="thumbnails cs-style-3">
 						<li>
 							<figure>
@@ -128,19 +128,35 @@
 
 	<!-- End Content Section -->
 
-  <script>
-  document.write('<script src=js/vendor/' +
-  ('__proto__' in {} ? 'zepto' : 'jquery') +
-  '.js><\/script>')
-  </script>
+	<script>
+		document.write('<script src=js/vendor/' +
+		('__proto__' in {} ? 'zepto' : 'jquery') +
+		'.js><\/script>')
+	</script>
 
-  <script src="js/foundation.min.js"></script>
+	<script src="js/foundation.min.js"></script>
 
-  <script>
-    $(document).foundation();
-  </script>
+	<script>
+		$(document).foundation();
+	</script>
 
-  <script src="js/effects.js"></script>
+ 	<script src="js/effects.js"></script>
+
+ 	<script type="text/javascript" src="js/jquery.preload.min.js"></script>
+	<script>
+		$.preload( '/img/bg_header-sml.jpg',
+		  '/img/gallery-breederscup01.jpg',
+		  '/img/gallery-cupidsprey01.jpg',
+		  '/img/gallery-hipchat01.jpg',
+		  '/img/gallery-ladiesnight01.jpg',
+		  '/img/gallery-moneyjam01.jpg',
+		  '/img/gallery-myriad01.jpg',
+		  '/img/gallery-quark01.jpg',
+		  '/img/gallery-smithwesson01.jpg',
+		  '/img/gallery-tabernacle01.jpg',
+		  '/img/gallery-tedostone01.jpg'
+		);
+	</script>
 
 
 </body>

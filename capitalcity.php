@@ -53,9 +53,9 @@
 				</div>
 	
 				<div class="large-9 pull-3 columns">
-					<a href="img/gallery-capitalcity01.jpg" class="fancybox" rel="gallery"><img src="img/gallery-capitalcity01.jpg" class="portfolio-img" alt="Capital City Club"></a>
-					<a href="img/gallery-capitalcity02.jpg" class="fancybox" rel="gallery"><img src="img/gallery-capitalcity02.jpg" class="portfolio-img" alt="Capital City Club"></a>
-					<a href="img/gallery-capitalcity03.jpg" class="fancybox" rel="gallery"><img src="img/gallery-capitalcity03.jpg" class="portfolio-img-last" alt="Capital City Club"></a>
+					<a href="img/gallery-capitalcity01.jpg" class="fancybox wow fadeInUp" rel="gallery"><img src="img/gallery-capitalcity01.jpg" class="portfolio-img" alt="Capital City Club"></a>
+					<a href="img/gallery-capitalcity02.jpg" class="fancybox wow fadeInUp" rel="gallery"><img src="img/gallery-capitalcity02.jpg" class="portfolio-img" alt="Capital City Club"></a>
+					<a href="img/gallery-capitalcity03.jpg" class="fancybox wow fadeInUp" rel="gallery"><img src="img/gallery-capitalcity03.jpg" class="portfolio-img-last" alt="Capital City Club"></a>
 				</div>
 	
 			</div>
