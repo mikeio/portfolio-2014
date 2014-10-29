@@ -145,7 +145,7 @@
  	<script type="text/javascript" src="js/jquery.preload.min.js"></script>
 	<script>
 		$.preload( '/img/bg_header-sml.jpg',
-		  '/img/gallery-breederscup01.jpg',
+		  '/img/gallery-capitalcity01.jpg',
 		  '/img/gallery-cupidsprey01.jpg',
 		  '/img/gallery-hipchat01.jpg',
 		  '/img/gallery-ladiesnight01.jpg',
@@ -154,6 +154,7 @@
 		  '/img/gallery-quark01.jpg',
 		  '/img/gallery-smithwesson01.jpg',
 		  '/img/gallery-tabernacle01.jpg',
+		  '/img/gallery-kemp01.jpg',
 		  '/img/gallery-tedostone01.jpg'
 		);
 	</script>
