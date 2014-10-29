@@ -41,7 +41,7 @@
 						<p>Yogi Bear is smarter than the average bear, Yogi Bear is always in the ranger's hair. At a picnic table you will find him there, stuffing down more goodies than the average bear. He will sleep till noon but before it's dark, he'll have every picnic basket that's in Jellystone Park. Yogi has it better than a millionaire. That's because he's smarter than the average bear!</p>
 						<hr>
 						<h6>Services:</h6>
-						<h4>Branding</h4>
+						<h4>Logo</h4>
 						<h6>Date:</h6>
 						<h4>2014</h4>
 		
