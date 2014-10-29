@@ -100,6 +100,21 @@
 			</div>
 
 			<div class="row">
+
+				<div class="large-6 columns">
+					<ul class="thumbnails cs-style-3">
+						<li>
+							<figure>
+								<a href="hipchat"><img src="img/gallery-featured-hipchat.jpg" alt="Hip Chat"></a>
+								<figcaption>
+									<h4>Hip Chat</h4>
+									<span>Messaging Service</span>
+									<a href="hipchat" class="btn-small inverse hide-for-small">View Project</a>
+								</figcaption>
+							</figure>
+						</li>
+					</ul>
+				</div>
 		
 				<div class="large-6 columns">
 					<ul class="thumbnails cs-style-3">
@@ -110,21 +125,6 @@
 									<h4>Myriad</h4>
 									<span>A Coin For Everyone</span>
 									<a href="myriad" class="btn-small inverse hide-for-small">View Project</a>
-								</figcaption>
-							</figure>
-						</li>
-					</ul>
-				</div>
-
-				<div class="large-6 columns">
-					<ul class="thumbnails cs-style-3">
-						<li>
-							<figure>
-								<a href="cupidsprey"><img src="img/gallery-featured-cupidsprey.jpg" alt="Cupids Prey"></a>
-								<figcaption>
-									<h4>Cupid's Prey</h4>
-									<span>Lust List 2012</span>
-									<a href="cupidsprey" class="btn-small inverse hide-for-small">View Project</a>
 								</figcaption>
 							</figure>
 						</li>
@@ -183,16 +183,16 @@
 						</li>
 					</ul>
 				</div>
-		
+
 				<div class="large-6 columns">
 					<ul class="thumbnails cs-style-3">
 						<li>
 							<figure>
-								<a href="hipchat"><img src="img/gallery-featured-hipchat.jpg" alt="Hip Chat"></a>
+								<a href="cupidsprey"><img src="img/gallery-featured-cupidsprey.jpg" alt="Cupids Prey"></a>
 								<figcaption>
-									<h4>Hip Chat</h4>
-									<span>Messaging Service</span>
-									<a href="hipchat" class="btn-small inverse hide-for-small">View Project</a>
+									<h4>Cupid's Prey</h4>
+									<span>Lust List 2012</span>
+									<a href="cupidsprey" class="btn-small inverse hide-for-small">View Project</a>
 								</figcaption>
 							</figure>
 						</li>
