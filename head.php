@@ -19,11 +19,6 @@
   
   </script>
 
-  <!--
-  <script src="pace/pace.js"></script>
-  <link href="pace/themes/pace-theme-minimal.css" rel="stylesheet" />
-  -->
-
   <link rel="stylesheet" href="css/normalize.css">
   <link rel="stylesheet" href="css/style.css">
   <link rel="stylesheet" href="css/animate.css">
@@ -73,7 +68,7 @@
       {
         boxClass:     'wow',      // animated element css class (default is wow)
         animateClass: 'animated', // animation css class (default is animated)
-        offset:       0,          // distance to the element when triggering the animation (default is 0)
+        offset:       100,          // distance to the element when triggering the animation (default is 0)
         mobile:       false,       // trigger animations on mobile devices (default is true)
         live:         true        // act on asynchronously loaded content (default is true)
       }
