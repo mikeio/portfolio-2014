@@ -985,19 +985,6 @@ $green: #30b911;
 		-webkit-gradient(linear, 0% 0%, 0% 100%, from($white), to($offwhite));
 	}
 
-	.hire-me {
-		display: block;
-		max-width: 100%;
-		z-index: 999;
-		border-radius: 0;
-		width: 100%;
-		text-align: center;
-		margin-bottom: 0;
-		a {
-			color: $white;
-		}
-	}
-
 }
 
 @media only screen and (min-width: 768px) {
@@ -1230,26 +1217,6 @@ $green: #30b911;
 		img {
 			float: right;
 			display: block;
-		}
-	}
-
-	.hire-me {
-		width: 300px;
-		z-index: 999;
-		border-radius: 0;
-		position: fixed;
-		top: 55px;
-		right: -70px;
-		text-align: center;
-		margin-bottom: 0;
-		-ms-transform:rotate(45deg);
-    	-moz-transform: rotate(45deg);
-   		-o-transform: rotate(45deg); 
-    	-webkit-transform: rotate(45deg);
-    	transform: rotate(45deg);
-    	font-size: 0.875em;
-		a {
-			color: $white;
 		}
 	}
 }
