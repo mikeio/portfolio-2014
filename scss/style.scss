@@ -693,6 +693,33 @@ $green: #30b911;
 		opacity: 1;
 	}
 
+	.social_dribbble {
+		display: inline-block;
+		position: relative;
+		text-indent: -9999px;
+		width: 33px;
+		height: 33px;
+		background: url('../img/social_dribbble.png') bottom;
+		background-size: cover;
+		margin: 0 auto;
+	}
+
+	.social_dribbble span {
+		position: absolute;
+		top: 0; left: 0; bottom: 0; right: 0;
+		background: url('../img/social_dribbble.png') bottom;
+		background-position: center top;
+		background-size: cover;
+		opacity: 0;
+		-webkit-transition: opacity 0.3s;
+		-moz-transition:    opacity 0.3s;
+		-o-transition:      opacity 0.3s;
+	}
+	
+	.social_dribbble:hover span {
+		opacity: 1;
+	}
+
 
 	footer {
 		text-align: center;
