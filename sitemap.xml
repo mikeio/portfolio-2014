@@ -7,63 +7,51 @@
 
 <url>
   <loc>http://mikepeters.io/</loc>
-  <changefreq>monthly</changefreq>
 </url>
 <url>
   <loc>http://mikepeters.io/gallery</loc>
-  <changefreq>monthly</changefreq>
 </url>
 <url>
   <loc>http://mikepeters.io/resume</loc>
-  <changefreq>monthly</changefreq>
 </url>
 <url>
   <loc>http://mikepeters.io/contact</loc>
-  <changefreq>monthly</changefreq>
 </url>
 <url>
   <loc>http://mikepeters.io/quark</loc>
-  <changefreq>monthly</changefreq>
 </url>
 <url>
-  <loc>http://mikepeters.io/cupidsprey</loc>
-  <changefreq>monthly</changefreq>
-</url>
-<url>
-  <loc>http://mikepeters.io/breederscup</loc>
-  <changefreq>monthly</changefreq>
-</url>
-<url>
-  <loc>http://mikepeters.io/myriad</loc>
-  <changefreq>monthly</changefreq>
-</url>
-<url>
-  <loc>http://mikepeters.io/tedostone</loc>
-  <changefreq>monthly</changefreq>
-</url>
-<url>
-  <loc>http://mikepeters.io/tabernacle</loc>
-  <changefreq>monthly</changefreq>
-</url>
-<url>
-  <loc>http://mikepeters.io/smithwesson</loc>
-  <changefreq>monthly</changefreq>
+  <loc>http://mikepeters.io/kemp</loc>
 </url>
 <url>
   <loc>http://mikepeters.io/hipchat</loc>
-  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://mikepeters.io/myriad</loc>
+</url>
+<url>
+  <loc>http://mikepeters.io/smithwesson</loc>
+</url>
+<url>
+  <loc>http://mikepeters.io/tedostone</loc>
+</url>
+<url>
+  <loc>http://mikepeters.io/cupidsprey</loc>
+</url>
+<url>
+  <loc>http://mikepeters.io/tabernacle</loc>
+</url>
+<url>
+  <loc>http://mikepeters.io/capitalcity</loc>
 </url>
 <url>
   <loc>http://mikepeters.io/moneyjam</loc>
-  <changefreq>monthly</changefreq>
 </url>
 <url>
   <loc>http://mikepeters.io/ladiesnight</loc>
-  <changefreq>monthly</changefreq>
 </url>
 <url>
   <loc>http://mikepeters.io/pdf/MikePeters_Resume.pdf</loc>
-  <lastmod>2014-07-23T03:37:45+00:00</lastmod>
-  <changefreq>monthly</changefreq>
+  <lastmod>2014-11-12T19:37:24+00:00</lastmod>
 </url>
 </urlset>
