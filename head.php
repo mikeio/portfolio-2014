@@ -19,8 +19,8 @@
   <!-- Set the viewport width to device width for mobile -->
   <meta name="viewport" content="width=device-width" />
 
-  <title>Mike Peters | Visual Designer - Atlanta, Ga</title>
-  <meta name="description" content="The online portfolio of Mike Peters; a visual designer from Atlanta, Georgia.">
+  <title>Mike Peters | Graphic Designer - Atlanta, Ga</title>
+  <meta name="description" content="The online portfolio of Mike Peters; a graphic designer from Atlanta, Georgia.">
   <meta name="author" content="Mike Peters">
 
   <script>
