@@ -20,7 +20,7 @@
   <meta name="viewport" content="width=device-width" />
 
   <title>Mike Peters | Graphic Designer - Atlanta, Ga</title>
-  <meta name="description" content="The online portfolio of Mike Peters; a graphic designer from Atlanta, Georgia.">
+  <meta name="description" content="The online portfolio of Mike Peters; a graphic designer from Atlanta, Georgia who specializes in branding, print design, web design and front-end web development.">
   <meta name="author" content="Mike Peters">
 
   <script>
