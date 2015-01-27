@@ -51,7 +51,7 @@
   				<div class="large-4 columns icon_middle">
   					<div class="icon_print"><a href="gallery"><span></span></a></div>
 					<h4>Design</h4>
-					<p class="expertise_detail">Whether it's digital or in print form, I can help your company make a powerful and lasting first impression.</p>
+					<p class="expertise_detail">Whether it's digital or print design, I can help your company make a powerful and lasting first impression.</p>
   				</div>
 	
   				<div class="large-4 columns">
