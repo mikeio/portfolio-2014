@@ -50,8 +50,8 @@
 	
   				<div class="large-4 columns icon_middle">
   					<div class="icon_print"><a href="gallery"><span></span></a></div>
-					<h4>Print Design</h4>
-					<p class="expertise_detail">Design in print form can help your company make a powerful and lasting first impression.</p>
+					<h4>Design</h4>
+					<p class="expertise_detail">Whether it's digital or in print form, I can help your company make a powerful and lasting first impression.</p>
   				</div>
 	
   				<div class="large-4 columns">
