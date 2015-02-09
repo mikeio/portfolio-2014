@@ -45,7 +45,7 @@
 						<h6>Services:</h6>
 						<h4>Logo</h4>
 		
-						<a href="#" class="btn-medium btn-sidebar">Kemp Tennis</a>
+						<a class="btn-medium-inactive btn-sidebar">Kemp Tennis</a>
 
 					</div>
 	

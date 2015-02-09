@@ -43,7 +43,7 @@
 						<h6>Services:</h6>
 						<h4>Design</h4>
 		
-						<a href="http://hazardcountyskatepark.com" class="btn-medium btn-sidebar">Hazard County</a>
+						<a class="btn-medium-inactive btn-sidebar">Hazard County</a>
 
 					</div>
 	
