@@ -306,6 +306,18 @@ $green: #30b911;
 		color: $white;
 	}
 
+	.btn-medium-inactive {
+		border-radius: 3px;
+		font-family: 'Montserrat', sans-serif;
+		text-transform: uppercase;
+		display: inline-block;
+		padding: 10px 12px;
+		border: 2px solid $lightgrey;
+		font-size: 0.875em;
+		color: darken( $lightgrey, 5% ) !important;
+		margin-bottom: 1.25em;
+	}
+
 	.btn-small {
 		border-radius: 3px;
 		font-family: 'Montserrat', sans-serif;
