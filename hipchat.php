@@ -52,8 +52,6 @@
 						<hr>
 						<h6>Services:</h6>
 						<h4>Design</h4>
-						<h6>Date:</h6>
-						<h4>2013</h4>
 		
 						<a href="https://blog.hipchat.com/2013/07/23/hipchat-t-shirt-contest-winners/" class="btn-medium btn-sidebar">Hip Chat</a>
 

@@ -42,8 +42,6 @@
 						<hr>
 						<h6>Services:</h6>
 						<h4>Logo</h4>
-						<h6>Date:</h6>
-						<h4>2013</h4>
 		
 						<a href="http://www.qrk.cc/" class="btn-medium btn-sidebar">Quark Coin</a>
 

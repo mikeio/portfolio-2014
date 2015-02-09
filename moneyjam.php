@@ -42,8 +42,6 @@
 						<hr>
 						<h6>Services:</h6>
 						<h4>Design</h4>
-						<h6>Date:</h6>
-						<h4>2010</h4>
 		
 						<a href="http://hazardcountyskatepark.com" class="btn-medium btn-sidebar">Hazard County</a>
 

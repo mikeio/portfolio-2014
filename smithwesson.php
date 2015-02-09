@@ -42,11 +42,9 @@
 						<p>The company's latest venture is into the footwear market with three robust duty boots: the Tac, Breach, and Hiker series.</p>
 						<hr>
 						<h6>Services:</h6>
-						<h4>Development</h4>
-						<h6>Date:</h6>
-						<h4>2014</h4>
+						<h4>Design</h4>
 		
-						<a href="http://www.smithandwessonfootwear.com" class="btn-medium btn-sidebar">Launch Site</a>
+						<a class="btn-medium-inactive btn-sidebar">Launch Site</a>
 
 					</div>
 	

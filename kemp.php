@@ -44,8 +44,6 @@
 						<hr>
 						<h6>Services:</h6>
 						<h4>Logo</h4>
-						<h6>Date:</h6>
-						<h4>2014</h4>
 		
 						<a href="#" class="btn-medium btn-sidebar">Kemp Tennis</a>
 
