@@ -19,7 +19,7 @@
 		<div class="header-text">
 			<h6 id="intro" class="animated wow fadeInUp">The online portfolio&nbsp;of</h6>
 			<h1 class="animated wow fadeInUp">Mike Peters</h1>
-			<h6 id="outro" class="animated wow bounceIn">A graphic designer from Atlanta,&nbsp;Ga</h6>
+			<h6 id="outro" class="animated wow bounceIn">A designer from Atlanta,&nbsp;Ga</h6>
 			<hr class="animated wow fadeInUp">
 		</div>
 		
@@ -50,13 +50,13 @@
 	
   				<div class="large-4 columns icon_middle">
   					<div class="icon_print"><a href="gallery"><span></span></a></div>
-					<h4>Design</h4>
-					<p class="expertise_detail">Whether it's digital or print design, I can help your company make a powerful and lasting first impression.</p>
+					<h4>Print Design</h4>
+					<p class="expertise_detail">Design in print form can help your company make a powerful and lasting first impression.</p>
   				</div>
 	
   				<div class="large-4 columns">
   					<div class="icon_web"><a href="gallery"><span></span></a></div>
-					<h4>Development</h4>
+					<h4>Websites</h4>
 					<p class="expertise_detail">I design and develop responsive and easy to use websites that are coded with HTML5 and CSS3.</p>
   				</div>
 	
