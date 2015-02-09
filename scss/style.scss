@@ -119,7 +119,7 @@ $green: #30b911;
 		}
 	
 		#outro {
-			color: $lightgrey;
+			color: darken( $lightgrey, 3% );
 			letter-spacing: 2px;
 			margin-top: 17px;
 			-webkit-animation-delay: 1s;
