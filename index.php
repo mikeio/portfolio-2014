@@ -75,30 +75,30 @@
 	
 			<div class="row">
 	
-				<div class="large-6 columns wow fadeInLeft" data-wow-offset="100">
+				<div class="large-6 columns wow fadeInLeft">
 					<ul class="thumbnails cs-style-3">
 						<li>
 							<figure>
-								<a href="quark"><img src="img/gallery-featured-quark.jpg" alt="Quark Coin"></a>
+								<a href="tedostone"><img src="img/gallery-featured-tedostone.jpg" alt="Tedo Stone"></a>
 								<figcaption>
-									<h4>Quark Coin</h4>
-									<span>Money Reinvented</span>
-									<a href="quark" class="btn-small inverse hide-for-small">View Project</a>
+									<h4>Tedo Stone</h4>
+									<span>Psychedelic Rocker</span>
+									<a href="tedostone" class="btn-small inverse hide-for-small">View Project</a>
 								</figcaption>
 							</figure>
 						</li>
 					</ul>
 				</div>
 		
-				<div class="large-6 columns wow fadeInRight" data-wow-offset="100">
+				<div class="large-6 columns wow fadeInRight">
 					<ul class="thumbnails cs-style-3">
 						<li>
 							<figure>
-								<a href="kemp"><img src="img/gallery-featured-kemp.jpg" alt="Kemp Tennis Academy"></a>
+								<a href="smithwesson"><img src="img/gallery-featured-smithwesson.jpg" alt="Smith & Wesson Footwear"></a>
 								<figcaption>
-									<h4>Kemp</h4>
-									<span>Tennis Academy</span>
-									<a href="kemp" class="btn-small inverse hide-for-small">View Project</a>
+									<h4>Smith & Wesson</h4>
+									<span>End Game Starts Here</span>
+									<a href="smithwesson" class="btn-small inverse hide-for-small">View Project</a>
 								</figcaption>
 							</figure>
 						</li>
