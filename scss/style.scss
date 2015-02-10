@@ -532,6 +532,39 @@ $green: #30b911;
 		margin: 30px 0px;
 	}
 
+	.icon_branding-small {
+		width: 42px;
+		height: 42px;
+		background-image: url('../img/icon_branding-small.png');
+		background-size: 100% 100%;
+		background-repeat: no-repeat;
+		display: inline-block;
+		float: left;
+		margin: 5px 10px 0px 0px;
+	}
+
+	.icon_print-small {
+		width: 42px;
+		height: 42px;
+		background-image: url('../img/icon_print-small.png');
+		background-size: 100% 100%;
+		background-repeat: no-repeat;
+		display: inline-block;
+		float: left;
+		margin: 5px 10px 0px 0px;
+	}
+
+	.icon_web-small {
+		width: 42px;
+		height: 42px;
+		background-image: url('../img/icon_web-small.png');
+		background-size: 100% 100%;
+		background-repeat: no-repeat;
+		display: inline-block;
+		float: left;
+		margin: 5px 10px 0px 0px;
+	}
+
 	.social-links {
 		ul {
 			margin: 0 auto 45px;

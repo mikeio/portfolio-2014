@@ -81,6 +81,7 @@
 							<figure>
 								<a href="tedostone"><img src="img/gallery-featured-tedostone.jpg" alt="Tedo Stone"></a>
 								<figcaption>
+									<div class="icon_web-small show-for-medium-up"></div>
 									<h4>Tedo Stone</h4>
 									<span>Psychedelic Rocker</span>
 									<a href="tedostone" class="btn-small inverse hide-for-small">View Project</a>
@@ -96,6 +97,7 @@
 							<figure>
 								<a href="smithwesson"><img src="img/gallery-featured-smithwesson.jpg" alt="Smith & Wesson Footwear"></a>
 								<figcaption>
+									<div class="icon_web-small show-for-medium-up"></div>
 									<h4>Smith & Wesson</h4>
 									<span>End Game Starts Here</span>
 									<a href="smithwesson" class="btn-small inverse hide-for-small">View Project</a>

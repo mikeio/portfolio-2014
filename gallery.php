@@ -39,6 +39,7 @@
 							<figure>
 								<a href="quark"><img src="img/gallery-featured-quark.jpg" alt="Quark Coin"></a>
 								<figcaption>
+									<div class="icon_branding-small show-for-medium-up"></div>
 									<h4>Quark Coin</h4>
 									<span>Money Reinvented</span>
 									<a href="quark" class="btn-small inverse hide-for-small">View Project</a>
@@ -54,6 +55,7 @@
 							<figure>
 								<a href="kemp"><img src="img/gallery-featured-kemp.jpg" alt="Kemp Tennis Academy"></a>
 								<figcaption>
+									<div class="icon_branding-small show-for-medium-up"></div>
 									<h4>Kemp</h4>
 									<span>Tennis Academy</span>
 									<a href="kemp" class="btn-small inverse hide-for-small">View Project</a>
@@ -73,6 +75,7 @@
 							<figure>
 								<a href="hipchat"><img src="img/gallery-featured-hipchat.jpg" alt="Hip Chat"></a>
 								<figcaption>
+									<div class="icon_print-small show-for-medium-up"></div>
 									<h4>Hip Chat</h4>
 									<span>Messaging Service</span>
 									<a href="hipchat" class="btn-small inverse hide-for-small">View Project</a>
@@ -88,6 +91,7 @@
 							<figure>
 								<a href="myriad"><img src="img/gallery-featured-myriad.jpg" alt="Myriad"></a>
 								<figcaption>
+									<div class="icon_branding-small show-for-medium-up"></div>
 									<h4>Myriad</h4>
 									<span>A Coin For Everyone</span>
 									<a href="myriad" class="btn-small inverse hide-for-small">View Project</a>
@@ -107,6 +111,7 @@
 							<figure>
 								<a href="smithwesson"><img src="img/gallery-featured-smithwesson.jpg" alt="Smith & Wesson Footwear"></a>
 								<figcaption>
+									<div class="icon_web-small show-for-medium-up"></div>
 									<h4>Smith & Wesson</h4>
 									<span>End Game Starts Here</span>
 									<a href="smithwesson" class="btn-small inverse hide-for-small">View Project</a>
@@ -122,6 +127,7 @@
 							<figure>
 								<a href="http://codepen.io/papsx/"><img src="img/gallery-featured-experiments.jpg" alt="Experiments"></a>
 								<figcaption>
+									<div class="icon_web-small show-for-medium-up"></div>
 									<h4>Codepen.io</h4>
 									<span>CSS / JS Experiments</span>
 									<a href="http://codepen.io/papsx/" class="btn-small inverse hide-for-small">View Projects</a>
@@ -141,6 +147,7 @@
 							<figure>
 								<a href="tedostone"><img src="img/gallery-featured-tedostone.jpg" alt="Tedo Stone"></a>
 								<figcaption>
+									<div class="icon_web-small show-for-medium-up"></div>
 									<h4>Tedo Stone</h4>
 									<span>Psychedelic Rocker</span>
 									<a href="tedostone" class="btn-small inverse hide-for-small">View Project</a>
@@ -156,6 +163,7 @@
 							<figure>
 								<a href="cupidsprey"><img src="img/gallery-featured-cupidsprey.jpg" alt="Cupids Prey"></a>
 								<figcaption>
+									<div class="icon_print-small show-for-medium-up"></div>
 									<h4>Cupid's Prey</h4>
 									<span>Lust List 2012</span>
 									<a href="cupidsprey" class="btn-small inverse hide-for-small">View Project</a>
@@ -175,6 +183,7 @@
 							<figure>
 								<a href="tabernacle"><img src="img/gallery-featured-tabernacle.jpg" alt="Tabernacle"></a>
 								<figcaption>
+									<div class="icon_print-small show-for-medium-up"></div>
 									<h4>Tabernacle</h4>
 									<span>Atlanta, Ga</span>
 									<a href="tabernacle" class="btn-small inverse hide-for-small">View Project</a>
@@ -190,6 +199,7 @@
 							<figure>
 								<a href="capitalcity"><img src="img/gallery-featured-capitalcity.jpg" alt="Capital City Club"></a>
 								<figcaption>
+									<div class="icon_print-small show-for-medium-up"></div>
 									<h4>Capital City Club</h4>
 									<span>Brookhaven</span>
 									<a href="capitalcity" class="btn-small inverse hide-for-small">View Project</a>
@@ -209,6 +219,7 @@
 							<figure>
 								<a href="moneyjam"><img src="img/gallery-featured-moneyjam.jpg" alt="Hazard County"></a>
 								<figcaption>
+									<div class="icon_print-small show-for-medium-up"></div>
 									<h4>Hazard County</h4>
 									<span>Money Jam 2010</span>
 									<a href="moneyjam" class="btn-small inverse hide-for-small">View Project</a>
@@ -224,6 +235,7 @@
 							<figure>
 								<a href="ladiesnight"><img src="img/gallery-featured-ladiesnight.jpg" alt="Ladies Night"></a>
 								<figcaption>
+									<div class="icon_print-small show-for-medium-up"></div>
 									<h4>Ladies Night</h4>
 									<span>Cosmo Lava</span>
 									<a href="ladiesnight" class="btn-small inverse hide-for-small">View Project</a>
