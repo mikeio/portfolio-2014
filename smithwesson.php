@@ -42,7 +42,7 @@
 						<p>The company's latest venture is into the footwear market with three robust duty boots: the Tac, Breach, and Hiker series.</p>
 						<hr>
 						<h6>Services:</h6>
-						<h4>Design</h4>
+						<h4>Web Design</h4>
 		
 						<a class="btn-medium-inactive btn-sidebar">Launch Site</a>
 

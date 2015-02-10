@@ -51,7 +51,7 @@
 						<p>They supercharge real-time collaboration with persistent chat rooms, file sharing, and screen sharing.</p>
 						<hr>
 						<h6>Services:</h6>
-						<h4>Design</h4>
+						<h4>Print Design</h4>
 		
 						<a href="https://blog.hipchat.com/2013/07/23/hipchat-t-shirt-contest-winners/" class="btn-medium btn-sidebar">Hip Chat</a>
 

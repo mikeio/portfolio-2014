@@ -42,7 +42,7 @@
 						<p>Capital City Club is one of the oldest private clubs in the South and notable individuals, including several presidents of the United States and royalty from other nations, have been guests at the Capital City Club.</p>
 						<hr>
 						<h6>Services:</h6>
-						<h4>Design</h4>
+						<h4>Print Design</h4>
 		
 						<a href="http://www.capitalcityclub.org/" class="btn-medium btn-sidebar">Capital City Club</a>
 

@@ -41,7 +41,7 @@
 						<p>Housed in a 12,000 ft. warehouse in McDonough (just half an hour South of downtown Atlanta), Hazard County Skatepark has obstacles for skaters of every style and level of experience.</>
 						<hr>
 						<h6>Services:</h6>
-						<h4>Design</h4>
+						<h4>Print Design</h4>
 		
 						<a class="btn-medium-inactive btn-sidebar">Hazard County</a>
 

@@ -42,7 +42,7 @@
 						<p>Breeders Cup has been recognized as the ultimate test of a Thoroughbred’s talent and ability in this powerful year-end championship.</p>
 						<hr>
 						<h6>Services:</h6>
-						<h4>Design</h4>
+						<h4>Print Design</h4>
 		
 						<a href="http://www.quintevents.com/" class="btn-medium btn-sidebar">Quint Events</a>
 

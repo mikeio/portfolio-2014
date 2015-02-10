@@ -42,7 +42,7 @@
 						<p>Every female gets a lock and every male gets a key. The first 25 people to find their match before midnight receives a complimentary bottle of champagne.</p>
 						<hr>
 						<h6>Services:</h6>
-						<h4>Design</h4>
+						<h4>Print Design</h4>
 		
 						<a href="http://clatl.com/atlanta/CLs10thannualLustList/Page" class="btn-medium btn-sidebar">Creative Loafing</a>
 
