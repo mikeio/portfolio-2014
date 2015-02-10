@@ -42,7 +42,7 @@
 						<p>With 30 second block times, Myriad is 20x faster than Bitcoin and one of the fastest cryptocurrencies in existence.</p>
 						<hr>
 						<h6>Services:</h6>
-						<h4>Logo</h4>
+						<h4>Branding</h4>
 		
 						<a href="http://myriadplatform.org/" class="btn-medium btn-sidebar">Myriad Platform</a>
 
@@ -52,7 +52,10 @@
 	
 				<div class="large-9 pull-3 columns">
 					<a href="img/gallery-myriad01.jpg" class="fancybox" rel="gallery"><img src="img/gallery-myriad01.jpg" class="portfolio-img" alt="Myriad"></a>
-					<a href="img/gallery-myriad02.jpg" class="fancybox wow fadeIn" rel="gallery"><img src="img/gallery-myriad02.jpg" class="portfolio-img-last" alt="Myriad"></a>
+
+					<p data-height="517" data-theme-id="9108" data-slug-hash="ztiLC" data-default-tab="result" data-user="papsx" class='codepen'>See the Pen <a href='http://codepen.io/papsx/pen/ztiLC/'>Myriad</a> by Mike Peters (<a href='http://codepen.io/papsx'>@papsx</a>) on <a href='http://codepen.io'>CodePen</a>.</p>
+					<script async src="//assets.codepen.io/assets/embed/ei.js"></script>
+
 				</div>
 	
 			</div>

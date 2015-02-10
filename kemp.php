@@ -43,7 +43,7 @@
 						<p>Through a daily regimen of technical, tactical, mental, and physical training, Kemp Tennis Academy allows any player to reach the level of excellence they desire.</p>
 						<hr>
 						<h6>Services:</h6>
-						<h4>Logo</h4>
+						<h4>Branding</h4>
 		
 						<a class="btn-medium-inactive btn-sidebar">Kemp Tennis</a>
 
