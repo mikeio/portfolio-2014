@@ -59,7 +59,8 @@
 			
 				<div class="large-12 columns">
 					<a href="img/gallery-quark02.jpg" class="fancybox wow fadeIn" rel="gallery"><img src="img/gallery-quark02.jpg" class="portfolio-img" alt="Quark Coin"></a>
-					<a href="img/gallery-quark03.jpg" class="fancybox wow fadeIn" rel="gallery"><img src="img/gallery-quark03.jpg" class="portfolio-img-last" alt="Quark Coin"></a>
+					<a href="img/gallery-quark03.jpg" class="fancybox wow fadeIn" rel="gallery"><img src="img/gallery-quark03.jpg" class="portfolio-img" alt="Quark Coin"></a>
+					<a href="img/gallery-quark04.jpg" class="fancybox wow fadeIn" rel="gallery"><img src="img/gallery-quark04.jpg" class="portfolio-img-last" alt="Quark Coin"></a>
 				</div>
 			
 			</div>
