@@ -52,10 +52,17 @@
 	
 				<div class="large-9 pull-3 columns">
 					<a href="img/gallery-tabernacle01.jpg" class="fancybox" rel="gallery"><img src="img/gallery-tabernacle01.jpg" class="portfolio-img" alt="Tabernacle"></a>
+				</div>
+	
+			</div>
+
+			<div class="row">
+			
+				<div class="large-12 columns">
 					<a href="img/gallery-tabernacle02.jpg" class="fancybox wow fadeIn" rel="gallery"><img src="img/gallery-tabernacle02.jpg" class="portfolio-img" alt="Tabernacle"></a>
 					<a href="img/gallery-tabernacle03.jpg" class="fancybox wow fadeIn" rel="gallery"><img src="img/gallery-tabernacle03.jpg" class="portfolio-img-last" alt="Tabernacle"></a>
 				</div>
-	
+			
 			</div>
 
 		</div>

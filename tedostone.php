@@ -51,11 +51,18 @@
 	
 				<div class="large-9 pull-3 columns">
 					<a href="img/gallery-tedostone01.jpg" class="fancybox" rel="gallery"><img src="img/gallery-tedostone01.jpg" class="portfolio-img" alt="Tedo Stone"></a>
+				</div>
+	
+			</div>
+
+			<div class="row">
+			
+				<div class="large-12 columns">
 					<a href="img/gallery-tedostone02.jpg" class="fancybox wow fadeIn" rel="gallery"><img src="img/gallery-tedostone02.jpg" class="portfolio-img" alt="Tedo Stone"></a>
 					<a href="img/gallery-tedostone03.jpg" class="fancybox wow fadeIn" rel="gallery"><img src="img/gallery-tedostone03.jpg" class="portfolio-img" alt="Tedo Stone"></a>
 					<a href="img/gallery-tedostone04.jpg" class="fancybox wow fadeIn" rel="gallery"><img src="img/gallery-tedostone04.jpg" class="portfolio-img-last" alt="Tedo Stone"></a>
 				</div>
-	
+			
 			</div>
 
 		</div>

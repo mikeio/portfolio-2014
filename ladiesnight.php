@@ -51,10 +51,17 @@
 	
 				<div class="large-9 pull-3 columns">
 					<a href="img/gallery-ladiesnight01.jpg" class="fancybox" rel="gallery"><img src="img/gallery-ladiesnight01.jpg" class="portfolio-img" alt="Ladies Night"></a>
+				</div>
+	
+			</div>
+
+			<div class="row">
+			
+				<div class="large-12 columns">
 					<a href="img/gallery-ladiesnight02.jpg" class="fancybox wow fadeIn" rel="gallery"><img src="img/gallery-ladiesnight02.jpg" class="portfolio-img" alt="Ladies Night"></a>
 					<a href="img/gallery-ladiesnight03.jpg" class="fancybox wow fadeIn" rel="gallery"><img src="img/gallery-ladiesnight03.jpg" class="portfolio-img-last" alt="Ladies Night"></a>
 				</div>
-	
+			
 			</div>
 
 		</div>

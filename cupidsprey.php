@@ -52,11 +52,18 @@
 	
 				<div class="large-9 pull-3 columns">
 					<a href="img/gallery-cupidsprey01.jpg" class="fancybox" rel="gallery"><img src="img/gallery-cupidsprey01.jpg" class="portfolio-img" alt="Cupids Prey"></a>
+				</div>
+	
+			</div>
+
+			<div class="row">
+			
+				<div class="large-12 columns">
 					<a href="img/gallery-cupidsprey02.jpg" class="fancybox wow fadeIn" rel="gallery"><img src="img/gallery-cupidsprey02.jpg" class="portfolio-img" alt="Cupids Prey"></a>
 					<a href="img/gallery-cupidsprey03.jpg" class="fancybox wow fadeIn" rel="gallery"><img src="img/gallery-cupidsprey03.jpg" class="portfolio-img" alt="Cupids Prey"></a>
 					<a href="img/gallery-cupidsprey04.jpg" class="fancybox wow fadeIn" rel="gallery"><img src="img/gallery-cupidsprey04.jpg" class="portfolio-img-last" alt="Cupids Prey"></a>
 				</div>
-	
+			
 			</div>
 
 		</div>

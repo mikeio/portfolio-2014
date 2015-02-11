@@ -52,10 +52,17 @@
 	
 				<div class="large-9 pull-3 columns">
 					<a href="img/gallery-breederscup01.jpg" class="fancybox" rel="gallery"><img src="img/gallery-breederscup01.jpg" class="portfolio-img" alt="Breeders Cup"></a>
+				</div>
+	
+			</div>
+
+			<div class="row">
+			
+				<div class="large-12 columns">
 					<a href="img/gallery-breederscup02.jpg" class="fancybox wow fadeIn" rel="gallery"><img src="img/gallery-breederscup02.jpg" class="portfolio-img" alt="Breeders Cup"></a>
 					<a href="img/gallery-breederscup03.jpg" class="fancybox wow fadeIn" rel="gallery"><img src="img/gallery-breederscup03.jpg" class="portfolio-img-last" alt="Breeders Cup"></a>
 				</div>
-	
+			
 			</div>
 
 		</div>

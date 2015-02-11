@@ -44,7 +44,7 @@
 						<h6>Services:</h6>
 						<h4>Branding</h4>
 		
-						<a href="http://myriadplatform.org/" class="btn-medium btn-sidebar">Myriad Platform</a>
+						<a href="http://myriadplatform.org/" class="btn-medium btn-sidebar">Myriad Coin</a>
 
 					</div>
 	
@@ -52,12 +52,17 @@
 	
 				<div class="large-9 pull-3 columns">
 					<a href="img/gallery-myriad01.jpg" class="fancybox" rel="gallery"><img src="img/gallery-myriad01.jpg" class="portfolio-img" alt="Myriad"></a>
-
-					<p data-height="517" data-theme-id="9108" data-slug-hash="ztiLC" data-default-tab="result" data-user="papsx" class='codepen'>See the Pen <a href='http://codepen.io/papsx/pen/ztiLC/'>Myriad</a> by Mike Peters (<a href='http://codepen.io/papsx'>@papsx</a>) on <a href='http://codepen.io'>CodePen</a>.</p>
-					<script async src="//assets.codepen.io/assets/embed/ei.js"></script>
-
 				</div>
 	
+			</div>
+
+			<div class="row">
+			
+				<div class="large-12 columns">
+					<p data-height="517" data-theme-id="9108" data-slug-hash="ztiLC" data-default-tab="result" data-user="papsx" class='codepen'>See the Pen <a href='http://codepen.io/papsx/pen/ztiLC/'>Myriad</a> by Mike Peters (<a href='http://codepen.io/papsx'>@papsx</a>) on <a href='http://codepen.io'>CodePen</a>.</p>
+					<script async src="//assets.codepen.io/assets/embed/ei.js"></script>
+				</div>
+			
 			</div>
 
 		</div>
