@@ -79,12 +79,12 @@
 					<ul class="thumbnails cs-style-3">
 						<li>
 							<figure>
-								<a href="tedostone"><img src="img/gallery-featured-tedostone.jpg" alt="Tedo Stone"></a>
+								<a href="lacher"><img src="img/gallery-featured-lacher.jpg" alt="Lacher & Associates"></a>
 								<figcaption>
 									<div class="icon_web-small show-for-medium-up"></div>
-									<h4>Tedo Stone</h4>
-									<span>Psychedelic Rocker</span>
-									<a href="tedostone" class="btn-small inverse hide-for-small">View Project</a>
+									<h4 class="longname">Lacher & Associates</h4>
+									<span>We Free People To Enjoy Life</span>
+									<a href="lacher" class="btn-small inverse hide-for-small">View Project</a>
 								</figcaption>
 							</figure>
 						</li>
@@ -95,12 +95,12 @@
 					<ul class="thumbnails cs-style-3">
 						<li>
 							<figure>
-								<a href="smithwesson"><img src="img/gallery-featured-smithwesson.jpg" alt="Smith & Wesson Footwear"></a>
+								<a href="kemp"><img src="img/gallery-featured-kemp.jpg" alt="Kemp Tennis Academy"></a>
 								<figcaption>
-									<div class="icon_web-small show-for-medium-up"></div>
-									<h4>Smith & Wesson</h4>
-									<span>End Game Starts Here</span>
-									<a href="smithwesson" class="btn-small inverse hide-for-small">View Project</a>
+									<div class="icon_branding-small show-for-medium-up"></div>
+									<h4>Kemp</h4>
+									<span>Tennis Academy</span>
+									<a href="kemp" class="btn-small inverse hide-for-small">View Project</a>
 								</figcaption>
 							</figure>
 						</li>

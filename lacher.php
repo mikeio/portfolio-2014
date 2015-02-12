@@ -17,7 +17,7 @@
 
 		<div class="header-text">
 			<h2>Lacher & Associates</h2>
-			<h6 id="sub_header">XXXXXXXXXXXXXXXX</h6>
+			<h6 id="sub_header">We Free People To Enjoy Life</h6>
 			<hr>
 		</div>
 		
@@ -38,7 +38,7 @@
 					<div class="sidebar">
 	
 						<h6 id="inverse">About:</h6>
-						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam iaculis et nulla sit amet dictum. Vestibulum sollicitudin, mauris a gravida lacinia, orci neque mollis dui, in fermentum tortor diam vitae velit. Mauris ut ligula velit. Nullam quis neque quis tellus pulvinar interdum nec at eros. Integer pulvinar augue ut felis vestibulum dictum. Integer pulvinar in justo nec eleifend. Quisque vitae neque id ipsum posuere gravida.</p>
+						<p>Lacher & Associates is a boutique consulting firm specializing in risk management and benefits for individuals and businesses. They've received regional and national recognition for their commitment to innovation and excellence in the insurance industry. </p>
 						<hr>
 						<h6>Services:</h6>
 						<h4>Web Design</h4>
@@ -59,7 +59,8 @@
 			
 				<div class="large-12 columns">
 					<a href="img/gallery-lacher02.jpg" class="fancybox" rel="gallery"><img src="img/gallery-lacher02.jpg" class="portfolio-img" alt="Lacher & Associates"></a>
-					<a href="img/gallery-lacher03.jpg" class="fancybox wow fadeIn" rel="gallery"><img src="img/gallery-lacher03.jpg" class="portfolio-img-last" alt="Lacher & Associates"></a>
+					<a href="img/gallery-lacher03.jpg" class="fancybox" rel="gallery"><img src="img/gallery-lacher03.jpg" class="portfolio-img" alt="Lacher & Associates"></a>
+					<a href="img/gallery-lacher04.jpg" class="fancybox wow fadeIn" rel="gallery"><img src="img/gallery-lacher04.jpg" class="portfolio-img-last" alt="Lacher & Associates"></a>
 				</div>
 			
 			</div>
