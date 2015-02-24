@@ -59,10 +59,22 @@
 
 			<div class="row">
 			
-				<div class="large-12 columns">
+				<div class="large-6 columns">
 					<a href="img/gallery-kemp02.jpg" class="fancybox wow fadeIn" rel="gallery"><img src="img/gallery-kemp02.jpg" class="portfolio-img" alt="Kemp Tennis Academy"></a>
+				</div>
+
+				<div class="large-6 columns">
 					<a href="img/gallery-kemp03.jpg" class="fancybox wow fadeIn" rel="gallery"><img src="img/gallery-kemp03.jpg" class="portfolio-img" alt="Kemp Tennis Academy"></a>
-					<a href="img/gallery-kemp04.jpg" class="fancybox wow fadeIn" rel="gallery"><img src="img/gallery-kemp04.jpg" class="portfolio-img-last" alt="Kemp Tennis Academy"></a>
+				</div>
+			
+			</div>
+
+			<div class="row">
+			
+				<div class="large-12 columns">
+					<a href="img/gallery-kemp04.jpg" class="fancybox wow fadeIn" rel="gallery"><img src="img/gallery-kemp04.jpg" class="portfolio-img" alt="Kemp Tennis Academy"></a>
+					<a href="img/gallery-kemp05.jpg" class="fancybox wow fadeIn" rel="gallery"><img src="img/gallery-kemp05.jpg" class="portfolio-img" alt="Kemp Tennis Academy"></a>
+					<a href="img/gallery-kemp06.jpg" class="fancybox wow fadeIn" rel="gallery"><img src="img/gallery-kemp06.jpg" class="portfolio-img-last" alt="Kemp Tennis Academy"></a>
 				</div>
 			
 			</div>
