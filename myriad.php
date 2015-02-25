@@ -68,6 +68,14 @@
 			
 			</div>
 
+			<div class="row">
+			
+				<div class="large-12 columns">
+					<a href="img/gallery-myriad04.jpg" class="fancybox" rel="gallery"><img src="img/gallery-myriad04.jpg" class="portfolio-img-last" alt="Myriad"></a>
+				</div>
+			
+			</div>
+
 		</div>
 
 		<!-- Start Footer Section -->
