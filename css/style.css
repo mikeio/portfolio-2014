@@ -6285,7 +6285,7 @@ a.th {
     color: #222222; }
 
   .portfolio-img {
-    margin-bottom: 30px;
+    margin-bottom: 60px;
     border: 0px solid #e6e6e6;
     cursor: -webkit-zoom-in;
     cursor: -moz-zoom-in; }
@@ -6295,6 +6295,10 @@ a.th {
     border: 0px solid #e6e6e6;
     cursor: -webkit-zoom-in;
     cursor: -moz-zoom-in; }
+
+  .img-half {
+    margin-top: -30px;
+    margin-bottom: 30px; }
 
   .quote {
     line-height: 1; }

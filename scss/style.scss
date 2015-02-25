@@ -1076,7 +1076,7 @@ $green: #30b911;
 	}
 
 	.portfolio-img {
-		margin-bottom: 30px;
+		margin-bottom: 60px;
 		border: 0px solid lighten( $lightgrey, 10% );
 		cursor: -webkit-zoom-in;
 		cursor: -moz-zoom-in;
@@ -1087,6 +1087,11 @@ $green: #30b911;
 		border: 0px solid lighten( $lightgrey, 10% );
 		cursor: -webkit-zoom-in;
 		cursor: -moz-zoom-in;
+	}
+
+	.img-half {
+		margin-top: -30px;
+		margin-bottom: 30px;
 	}
 
 	.quote {
