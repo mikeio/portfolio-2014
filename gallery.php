@@ -73,12 +73,12 @@
 					<ul class="thumbnails cs-style-3">
 						<li>
 							<figure>
-								<a href="lacher"><img src="img/gallery-featured-lacher.jpg" alt="Lacher & Associates"></a>
+								<a href="quark"><img src="img/gallery-featured-quark.jpg" alt="Quark Coin"></a>
 								<figcaption>
-									<div class="icon_web-small show-for-medium-up"></div>
-									<h4 class="longname">Lacher & Associates</h4>
-									<span>We Free People To Enjoy Life</span>
-									<a href="lacher" class="btn-small inverse hide-for-small">View Project</a>
+									<div class="icon_branding-small show-for-medium-up"></div>
+									<h4>Quark Coin</h4>
+									<span>Money Reinvented</span>
+									<a href="quark" class="btn-small inverse hide-for-small">View Project</a>
 								</figcaption>
 							</figure>
 						</li>
@@ -89,12 +89,12 @@
 					<ul class="thumbnails cs-style-3">
 						<li>
 							<figure>
-								<a href="quark"><img src="img/gallery-featured-quark.jpg" alt="Quark Coin"></a>
+								<a href="lacher"><img src="img/gallery-featured-lacher.jpg" alt="Lacher & Associates"></a>
 								<figcaption>
-									<div class="icon_branding-small show-for-medium-up"></div>
-									<h4>Quark Coin</h4>
-									<span>Money Reinvented</span>
-									<a href="quark" class="btn-small inverse hide-for-small">View Project</a>
+									<div class="icon_web-small show-for-medium-up"></div>
+									<h4 class="longname">Lacher & Associates</h4>
+									<span>We Free People To Enjoy Life</span>
+									<a href="lacher" class="btn-small inverse hide-for-small">View Project</a>
 								</figcaption>
 							</figure>
 						</li>
