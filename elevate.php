@@ -38,9 +38,9 @@
 					<div class="sidebar">
 
 						<h6 id="inverse">About:</h6>
-						
-						<p>Kemp Tennis Academy is an elite junior tennis training center and academic institution that is geared towards players who are committed to an intensive training schedule in an effort to maximize their potential both on and off the court.</p>
-						<p>Through a daily regimen of technical, tactical, mental, and physical training, Kemp Tennis Academy allows any player to reach the level of excellence they desire.</p>
+		
+						<p>Founded in 2014 by Alex Sitzmann and Lauren Malacarne, Elevate Hair Design was born from a strong desire to create.</p>
+						<p>Elevate Hair Design is dedicated to providing a home for skilled stylists who are passionate about expressing their creative talent.</p>					
 						<hr>
 						<h6>Services:</h6>
 						<h4>Web Design</h4>
