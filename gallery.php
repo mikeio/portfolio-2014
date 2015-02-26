@@ -161,12 +161,12 @@
 					<ul class="thumbnails cs-style-3">
 						<li>
 							<figure>
-								<a href="hipchat"><img src="img/gallery-featured-hipchat.jpg" alt="Hip Chat"></a>
+								<a href="tedostone"><img src="img/gallery-featured-tedostone.jpg" alt="Tedo Stone"></a>
 								<figcaption>
-									<div class="icon_print-small show-for-medium-up"></div>
-									<h4>Hip Chat</h4>
-									<span>Messaging Service</span>
-									<a href="hipchat" class="btn-small inverse hide-for-small">View Project</a>
+									<div class="icon_web-small show-for-medium-up"></div>
+									<h4>Tedo Stone</h4>
+									<span>Psychedelic Rocker</span>
+									<a href="tedostone" class="btn-small inverse hide-for-small">View Project</a>
 								</figcaption>
 							</figure>
 						</li>
@@ -181,12 +181,12 @@
 					<ul class="thumbnails cs-style-3">
 						<li>
 							<figure>
-								<a href="tedostone"><img src="img/gallery-featured-tedostone.jpg" alt="Tedo Stone"></a>
+								<a href="hipchat"><img src="img/gallery-featured-hipchat.jpg" alt="Hip Chat"></a>
 								<figcaption>
-									<div class="icon_web-small show-for-medium-up"></div>
-									<h4>Tedo Stone</h4>
-									<span>Psychedelic Rocker</span>
-									<a href="tedostone" class="btn-small inverse hide-for-small">View Project</a>
+									<div class="icon_print-small show-for-medium-up"></div>
+									<h4>Hip Chat</h4>
+									<span>Messaging Service</span>
+									<a href="hipchat" class="btn-small inverse hide-for-small">View Project</a>
 								</figcaption>
 							</figure>
 						</li>
