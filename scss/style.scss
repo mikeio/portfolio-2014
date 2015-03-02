@@ -1151,6 +1151,104 @@ $green: #30b911;
 		margin-bottom: 60px;
 	}
 
+	.smog-container {
+	  width:100%;
+	  text-align: center; 
+	  background: #3498db;
+	}
+	
+	svg.smog {
+	  width: 50%;
+	  height: 50%;
+	  padding: 40px;
+	  max-height: 500px;
+	}
+	
+	#cloud-main {
+		stroke-dasharray: 260;
+		stroke-dashoffset: 260;
+		-webkit-animation: dash 2s linear forwards 1;
+		animation: dash 2s linear forwards 1;
+	  -webkit-animation-delay: 0.5s;
+	   animation-delay: 0.5s;
+	}
+	
+	#mod {
+		stroke-dasharray: 101;
+		stroke-dashoffset: 101;
+		-webkit-animation: dash 2s linear forwards 1;
+		animation: dash 2s linear forwards 1;
+	  -webkit-animation-delay: 0.5s;
+	   animation-delay: 0.5s;
+	}
+	
+	#atty {
+		stroke-dasharray: 32;
+		stroke-dashoffset: 32;
+		-webkit-animation: dash 2s linear forwards 1;
+		animation: dash 2s linear forwards 1;
+	  -webkit-animation-delay: 0.5s;
+	   animation-delay: 0.5s;
+	}
+	
+	#vertical-left {
+		stroke-dasharray: 26;
+		stroke-dashoffset: 26;
+		-webkit-animation: dash 2s linear forwards 1;
+		animation: dash 2s linear forwards 1;
+	  -webkit-animation-delay: 0.5s;
+	  animation-delay: 0.5s;
+	}
+	
+	#vertical-right {
+		stroke-dasharray: 35;
+		stroke-dashoffset: 35;
+		-webkit-animation: dash 2s linear forwards 1;
+		animation: dash 2s linear forwards 1;
+	  -webkit-animation-delay: 0.5s;
+	   animation-delay: 0.5s;
+	}
+	
+	#cloud-top-right, #cloud-bot-left {
+		stroke-dasharray: 21;
+		stroke-dashoffset: 21;
+		-webkit-animation: dash 2s linear forwards 1;
+		animation: dash 2s linear forwards 1;
+	  -webkit-animation-delay: 0.5s;
+	   animation-delay: 0.5s;
+	}
+	
+	#cloud-top-left, #cloud-mid-right, #cloud-bot-right {
+		stroke-dasharray: 28;
+		stroke-dashoffset: 28;
+		-webkit-animation: dash 2s linear forwards 1;
+		animation: dash 2s linear forwards 1;
+	  -webkit-animation-delay: 0.5s;
+	   animation-delay: 0.5s;
+	}
+		
+	@-webkit-keyframes dash {
+		to {
+			stroke-dashoffset: 0;
+		}
+	}
+			
+	@keyframes dash {
+		to {
+			stroke-dashoffset: 0;
+		}
+	}
+	
+	#text {
+	  -webkit-animation-delay: 2.5s;
+	   animation-delay: 2.5s;
+	}
+	
+	#bg-white {
+	  -webkit-animation-delay: 2.5s;
+	   animation-delay: 2.5s;
+	}
+
 }
 
 @media only screen and (min-width: 768px) {
