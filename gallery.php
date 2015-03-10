@@ -115,22 +115,6 @@
 					<ul class="thumbnails cs-style-3">
 						<li>
 							<figure>
-								<a href="smithwesson"><img src="img/gallery-featured-smithwesson.jpg" alt="Smith & Wesson Footwear"></a>
-								<figcaption>
-									<div class="icon_web-small show-for-medium-up"></div>
-									<h4>Smith & Wesson</h4>
-									<span>End Game Starts Here</span>
-									<a href="smithwesson" class="btn-small inverse hide-for-small">View Project</a>
-								</figcaption>
-							</figure>
-						</li>
-					</ul>
-				</div>
-
-				<div class="large-6 columns">
-					<ul class="thumbnails cs-style-3">
-						<li>
-							<figure>
 								<a href="elevate"><img src="img/gallery-featured-elevate.jpg" alt="Elevate Hair Design"></a>
 								<figcaption>
 									<div class="icon_web-small show-for-medium-up"></div>
@@ -141,11 +125,7 @@
 							</figure>
 						</li>
 					</ul>
-				</div>		
-	
-			</div>
-
-			<div class="row">
+				</div>	
 
 				<div class="large-6 columns">
 					<ul class="thumbnails cs-style-3">
@@ -162,6 +142,10 @@
 						</li>
 					</ul>
 				</div>
+	
+			</div>
+
+			<div class="row">
 
 				<div class="large-6 columns">
 					<ul class="thumbnails cs-style-3">
@@ -173,6 +157,22 @@
 									<h4>Tedo Stone</h4>
 									<span>Psychedelic Rocker</span>
 									<a href="tedostone" class="btn-small inverse hide-for-small">View Project</a>
+								</figcaption>
+							</figure>
+						</li>
+					</ul>
+				</div>
+
+				<div class="large-6 columns">
+					<ul class="thumbnails cs-style-3">
+						<li>
+							<figure>
+								<a href="smithwesson"><img src="img/gallery-featured-smithwesson.jpg" alt="Smith & Wesson Footwear"></a>
+								<figcaption>
+									<div class="icon_web-small show-for-medium-up"></div>
+									<h4>Smith & Wesson</h4>
+									<span>End Game Starts Here</span>
+									<a href="smithwesson" class="btn-small inverse hide-for-small">View Project</a>
 								</figcaption>
 							</figure>
 						</li>
@@ -190,6 +190,22 @@
 					<ul class="thumbnails cs-style-3">
 						<li>
 							<figure>
+								<a href="tabernacle"><img src="img/gallery-featured-tabernacle.jpg" alt="Tabernacle"></a>
+								<figcaption>
+									<div class="icon_print-small show-for-medium-up"></div>
+									<h4>Tabernacle</h4>
+									<span>Atlanta, Ga</span>
+									<a href="tabernacle" class="btn-small inverse hide-for-small">View Project</a>
+								</figcaption>
+							</figure>
+						</li>
+					</ul>
+				</div>
+
+				<div class="large-6 columns">
+					<ul class="thumbnails cs-style-3">
+						<li>
+							<figure>
 								<a href="hipchat"><img src="img/gallery-featured-hipchat.jpg" alt="Hip Chat"></a>
 								<figcaption>
 									<div class="icon_print-small show-for-medium-up"></div>
@@ -201,6 +217,11 @@
 						</li>
 					</ul>
 				</div>
+
+			</div>
+
+			
+			<div class="row">
 
 				<div class="large-6 columns">
 					<ul class="thumbnails cs-style-3">
@@ -217,11 +238,6 @@
 						</li>
 					</ul>
 				</div>
-
-			</div>
-
-			
-			<div class="row">
 	
 				<div class="large-6 columns">
 					<ul class="thumbnails cs-style-3">
@@ -239,22 +255,6 @@
 					</ul>
 				</div>
 		
-				<div class="large-6 columns">
-					<ul class="thumbnails cs-style-3">
-						<li>
-							<figure>
-								<a href="tabernacle"><img src="img/gallery-featured-tabernacle.jpg" alt="Tabernacle"></a>
-								<figcaption>
-									<div class="icon_print-small show-for-medium-up"></div>
-									<h4>Tabernacle</h4>
-									<span>Atlanta, Ga</span>
-									<a href="tabernacle" class="btn-small inverse hide-for-small">View Project</a>
-								</figcaption>
-							</figure>
-						</li>
-					</ul>
-				</div>
-	
 			</div>
 
 
