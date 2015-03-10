@@ -51,7 +51,9 @@
 				</div>
 	
 				<div class="large-9 pull-3 columns">
-				<a href="img/gallery-vapecity01.jpg" class="fancybox" rel="gallery"><img src="img/gallery-vapecity01.jpg" class="portfolio-img" alt="Vape City"></a>
+					<div class="vapecity-container">
+						<?php include("img/vapecity.svg"); ?>
+					</div>
 				</div>
 	
 			</div>
