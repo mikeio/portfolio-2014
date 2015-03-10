@@ -6355,7 +6355,101 @@ a.th {
     background: url("") no-repeat center bottom, -webkit-gradient(linear, 0% 0%, 0% 100%, from(white), to(whitesmoke)); }
 
   .cp_embed_iframe {
-    margin-bottom: 60px; } }
+    margin-bottom: 60px; }
+
+  .vapecity-container {
+    width: 100%;
+    padding-top: 60px;
+    padding-bottom: 60px;
+    background-color: #2a2c31;
+    margin-bottom: 40px; }
+    .vapecity-container svg {
+      width: 100%;
+      padding: 30px; }
+
+  #cloud-main {
+    stroke-dasharray: 260;
+    stroke-dashoffset: 260;
+    -webkit-animation: dash 2s linear forwards 1;
+    animation: dash 2s linear forwards 1;
+    -webkit-animation-delay: 0.5s;
+    animation-delay: 0.5s; }
+
+  #circle-top-left, #circle-top-right, #circle-bot-left, #circle-bot-right {
+    stroke-dasharray: 33;
+    stroke-dashoffset: 33;
+    -webkit-animation: dash 1s linear forwards 1;
+    animation: dash 1s linear forwards 1;
+    -webkit-animation-delay: 2.5s;
+    animation-delay: 2.5s; }
+
+  #mod {
+    stroke-dasharray: 101;
+    stroke-dashoffset: 101;
+    -webkit-animation: dash 2s linear forwards 1;
+    animation: dash 2s linear forwards 1;
+    -webkit-animation-delay: 0.5s;
+    animation-delay: 0.5s; }
+
+  #atty {
+    stroke-dasharray: 32;
+    stroke-dashoffset: 32;
+    -webkit-animation: dash 2s linear forwards 1;
+    animation: dash 2s linear forwards 1;
+    -webkit-animation-delay: 0.5s;
+    animation-delay: 0.5s; }
+
+  #bolt {
+    stroke-dasharray: 57;
+    stroke-dashoffset: 57;
+    -webkit-animation: dash 1s linear forwards 1;
+    animation: dash 1s linear forwards 1;
+    -webkit-animation-delay: 4.25s;
+    animation-delay: 4.25s; }
+
+  #vapecity, #austin, #estd, #_x32_012 {
+    -webkit-animation-delay: 3.5s;
+    animation-delay: 3.5s; }
+
+  #vertical-left {
+    stroke-dasharray: 26;
+    stroke-dashoffset: 26;
+    -webkit-animation: dash 2s linear forwards 1;
+    animation: dash 2s linear forwards 1;
+    -webkit-animation-delay: 0.5s;
+    animation-delay: 0.5s; }
+
+  #vertical-right {
+    stroke-dasharray: 35;
+    stroke-dashoffset: 35;
+    -webkit-animation: dash 2s linear forwards 1;
+    animation: dash 2s linear forwards 1;
+    -webkit-animation-delay: 0.5s;
+    animation-delay: 0.5s; }
+
+  #cloud-top-right, #cloud-bottom-left {
+    stroke-dasharray: 21;
+    stroke-dashoffset: 21;
+    -webkit-animation: dash 2s linear forwards 1;
+    animation: dash 2s linear forwards 1;
+    -webkit-animation-delay: 0.5s;
+    animation-delay: 0.5s; }
+
+  #cloud-top-left, #cloud-right, #cloud-bottom {
+    stroke-dasharray: 28;
+    stroke-dashoffset: 28;
+    -webkit-animation: dash 2s linear forwards 1;
+    animation: dash 2s linear forwards 1;
+    -webkit-animation-delay: 0.5s;
+    animation-delay: 0.5s; }
+
+  @-webkit-keyframes dash {
+    to {
+      stroke-dashoffset: 0; } }
+
+  @keyframes dash {
+    to {
+      stroke-dashoffset: 0; } } }
 @media only screen and (min-width: 768px) {
   a {
     -webkit-transition: 0.3s;
