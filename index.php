@@ -95,12 +95,12 @@
 					<ul class="thumbnails cs-style-3">
 						<li>
 							<figure>
-								<a href="elevate"><img src="img/gallery-featured-elevate.jpg" alt="Elevate Hair Design"></a>
+								<a href="vapecity"><img src="img/gallery-featured-vapecity.jpg" alt="VapeCity"></a>
 								<figcaption>
-									<div class="icon_web-small show-for-medium-up"></div>
-									<h4 class="longname">Elevate</h4>
-									<span>Hair Design</span>
-									<a href="elevate" class="btn-small inverse hide-for-small">View Project</a>
+									<div class="icon_branding-small show-for-medium-up"></div>
+									<h4 class="longname">Vape City</h4>
+									<span>Austin, TX</span>
+									<a href="vapecity" class="btn-small inverse hide-for-small">View Project</a>
 								</figcaption>
 							</figure>
 						</li>
