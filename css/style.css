@@ -6378,10 +6378,10 @@ a.th {
   #circle-top-left, #circle-top-right, #circle-bot-left, #circle-bot-right {
     stroke-dasharray: 33;
     stroke-dashoffset: 33;
-    -webkit-animation: dash 1s linear forwards 1;
-    animation: dash 1s linear forwards 1;
-    -webkit-animation-delay: 2.5s;
-    animation-delay: 2.5s; }
+    -webkit-animation: dash 2s linear forwards 1;
+    animation: dash 2s linear forwards 1;
+    -webkit-animation-delay: 0.5s;
+    animation-delay: 0.5s; }
 
   #mod {
     stroke-dasharray: 101;
@@ -6404,12 +6404,12 @@ a.th {
     stroke-dashoffset: 57;
     -webkit-animation: dash 1s linear forwards 1;
     animation: dash 1s linear forwards 1;
-    -webkit-animation-delay: 4.25s;
-    animation-delay: 4.25s; }
+    -webkit-animation-delay: 3s;
+    animation-delay: 3s; }
 
   #vapecity, #austin, #estd, #_x32_012 {
-    -webkit-animation-delay: 3.5s;
-    animation-delay: 3.5s; }
+    -webkit-animation-delay: 2.5s;
+    animation-delay: 2.5s; }
 
   #vertical-left {
     stroke-dasharray: 26;
