@@ -6140,7 +6140,8 @@ a.th {
       margin-bottom: 40px;
       text-align: center; }
     .resume #jobtitle {
-      color: #999999; }
+      color: #999999;
+      font-size: 1.1em; }
     .resume #employer {
       margin-bottom: 0px; }
     .resume #category-hr {
