@@ -31,6 +31,9 @@
 
 		<div class="bg_gradient">
 
+			<h5 class="category">Branding</h5>
+			<hr>
+
 			<div class="row">
 
 				<div class="large-6 columns">
@@ -43,6 +46,42 @@
 									<h4>Kemp</h4>
 									<span>Tennis Academy</span>
 									<a href="kemp" class="btn-small inverse hide-for-small">View Project</a>
+								</figcaption>
+							</figure>
+						</li>
+					</ul>
+				</div>
+
+				<div class="large-6 columns">
+					<ul class="thumbnails cs-style-3">
+						<li>
+							<figure>
+								<a href="quark"><img src="img/gallery-featured-quark.jpg" alt="Quark Coin"></a>
+								<figcaption>
+									<div class="icon_branding-small show-for-medium-up"></div>
+									<h4>Quark Coin</h4>
+									<span>Money Reinvented</span>
+									<a href="quark" class="btn-small inverse hide-for-small">View Project</a>
+								</figcaption>
+							</figure>
+						</li>
+					</ul>
+				</div>
+	
+			</div>
+
+			<div class="row">
+
+				<div class="large-6 columns">
+					<ul class="thumbnails cs-style-3">
+						<li>
+							<figure>
+								<a href="myriad"><img src="img/gallery-featured-myriad.jpg" alt="Myriad"></a>
+								<figcaption>
+									<div class="icon_branding-small show-for-medium-up"></div>
+									<h4>Myriad</h4>
+									<span>A Coin For Everyone</span>
+									<a href="myriad" class="btn-small inverse hide-for-small">View Project</a>
 								</figcaption>
 							</figure>
 						</li>
@@ -67,41 +106,8 @@
 	
 			</div>
 
-			<div class="row">
-
-				<div class="large-6 columns">
-					<ul class="thumbnails cs-style-3">
-						<li>
-							<figure>
-								<a href="quark"><img src="img/gallery-featured-quark.jpg" alt="Quark Coin"></a>
-								<figcaption>
-									<div class="icon_branding-small show-for-medium-up"></div>
-									<h4>Quark Coin</h4>
-									<span>Money Reinvented</span>
-									<a href="quark" class="btn-small inverse hide-for-small">View Project</a>
-								</figcaption>
-							</figure>
-						</li>
-					</ul>
-				</div>
-
-				<div class="large-6 columns">
-					<ul class="thumbnails cs-style-3">
-						<li>
-							<figure>
-								<a href="lacher"><img src="img/gallery-featured-lacher.jpg" alt="Lacher & Associates"></a>
-								<figcaption>
-									<div class="icon_web-small show-for-medium-up"></div>
-									<h4 class="longname">Lacher & Associates</h4>
-									<span>We Free People To Enjoy Life</span>
-									<a href="lacher" class="btn-small inverse hide-for-small">View Project</a>
-								</figcaption>
-							</figure>
-						</li>
-					</ul>
-				</div>
-	
-			</div>
+			<h5 class="category middle">Web Design</h5>
+			<hr>
 
 			<div class="row">
 
@@ -145,12 +151,12 @@
 					<ul class="thumbnails cs-style-3">
 						<li>
 							<figure>
-								<a href="tabernacle"><img src="img/gallery-featured-tabernacle.jpg" alt="Tabernacle"></a>
+								<a href="lacher"><img src="img/gallery-featured-lacher.jpg" alt="Lacher & Associates"></a>
 								<figcaption>
-									<div class="icon_print-small show-for-medium-up"></div>
-									<h4>Tabernacle</h4>
-									<span>Atlanta, Ga</span>
-									<a href="tabernacle" class="btn-small inverse hide-for-small">View Project</a>
+									<div class="icon_web-small show-for-medium-up"></div>
+									<h4 class="longname">Lacher & Associates</h4>
+									<span>We Free People To Enjoy Life</span>
+									<a href="lacher" class="btn-small inverse hide-for-small">View Project</a>
 								</figcaption>
 							</figure>
 						</li>
@@ -174,6 +180,9 @@
 				</div>
 		
 			</div>
+
+			<h5 class="category middle">Print Design</h5>
+			<hr>
 
 			<div class="row">
 
@@ -234,12 +243,12 @@
 					<ul class="thumbnails cs-style-3">
 						<li>
 							<figure>
-								<a href="myriad"><img src="img/gallery-featured-myriad.jpg" alt="Myriad"></a>
+								<a href="tabernacle"><img src="img/gallery-featured-tabernacle.jpg" alt="Tabernacle"></a>
 								<figcaption>
-									<div class="icon_branding-small show-for-medium-up"></div>
-									<h4>Myriad</h4>
-									<span>A Coin For Everyone</span>
-									<a href="myriad" class="btn-small inverse hide-for-small">View Project</a>
+									<div class="icon_print-small show-for-medium-up"></div>
+									<h4>Tabernacle</h4>
+									<span>Atlanta, Ga</span>
+									<a href="tabernacle" class="btn-small inverse hide-for-small">View Project</a>
 								</figcaption>
 							</figure>
 						</li>
