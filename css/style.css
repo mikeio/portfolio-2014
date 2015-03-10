@@ -6404,10 +6404,18 @@ a.th {
     stroke-dashoffset: 57;
     -webkit-animation: dash 1s linear forwards 1;
     animation: dash 1s linear forwards 1;
-    -webkit-animation-delay: 3s;
-    animation-delay: 3s; }
+    -webkit-animation-delay: 3.5s;
+    animation-delay: 3.5s; }
+
+  #bolt-alt {
+    -webkit-animation-duration: 1s;
+    animation-duration: 1s;
+    -webkit-animation-delay: 5.25s;
+    animation-delay: 5.25s; }
 
   #vapecity, #austin, #estd, #_x32_012 {
+    -webkit-animation-duration: 2s;
+    animation-duration: 2s;
     -webkit-animation-delay: 2.5s;
     animation-delay: 2.5s; }
 

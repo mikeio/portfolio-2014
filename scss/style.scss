@@ -1180,8 +1180,8 @@ $green: #30b911;
 		stroke-dashoffset: 260;
 		-webkit-animation: dash 2s linear forwards 1;
 		animation: dash 2s linear forwards 1;
-	  -webkit-animation-delay: 0.5s;
-	   animation-delay: 0.5s;
+		-webkit-animation-delay: 0.5s;
+		animation-delay: 0.5s;
 	}
 	
 	#circle-top-left, #circle-top-right, #circle-bot-left, #circle-bot-right {
@@ -1189,8 +1189,8 @@ $green: #30b911;
 		stroke-dashoffset: 33;
 		-webkit-animation: dash 2s linear forwards 1;
 		animation: dash 2s linear forwards 1;
-	  -webkit-animation-delay: 0.5s;
-	   animation-delay: 0.5s;
+		-webkit-animation-delay: 0.5s;
+		animation-delay: 0.5s;
 	}
 	
 	#mod {
@@ -1198,8 +1198,8 @@ $green: #30b911;
 		stroke-dashoffset: 101;
 		-webkit-animation: dash 2s linear forwards 1;
 		animation: dash 2s linear forwards 1;
-	  -webkit-animation-delay: 0.5s;
-	   animation-delay: 0.5s;
+		-webkit-animation-delay: 0.5s;
+		animation-delay: 0.5s;
 	}
 	
 	#atty {
@@ -1207,8 +1207,8 @@ $green: #30b911;
 		stroke-dashoffset: 32;
 		-webkit-animation: dash 2s linear forwards 1;
 		animation: dash 2s linear forwards 1;
-	  -webkit-animation-delay: 0.5s;
-	   animation-delay: 0.5s;
+		-webkit-animation-delay: 0.5s;
+		animation-delay: 0.5s;
 	}
 	
 	#bolt {
@@ -1216,14 +1216,22 @@ $green: #30b911;
 		stroke-dashoffset: 57;
 		-webkit-animation: dash 1s linear forwards 1;
 		animation: dash 1s linear forwards 1;
-	  -webkit-animation-delay: 3s;
-	   animation-delay: 3s;
+		-webkit-animation-delay: 3.5s;
+		animation-delay: 3.5s;
+	}
+
+	#bolt-alt {
+		-webkit-animation-duration: 1s;
+		animation-duration: 1s;
+		-webkit-animation-delay: 5.25s;
+		animation-delay: 5.25s;
 	}
 	
 	#vapecity, #austin, #estd, #_x32_012 {
+		-webkit-animation-duration: 2s;
+		animation-duration: 2s;
 		-webkit-animation-delay: 2.5s;
-	   animation-delay: 2.5s;
-	}
+		animation-delay: 2.5s; }
 	
 	
 	#vertical-left {
@@ -1231,8 +1239,8 @@ $green: #30b911;
 		stroke-dashoffset: 26;
 		-webkit-animation: dash 2s linear forwards 1;
 		animation: dash 2s linear forwards 1;
-	  -webkit-animation-delay: 0.5s;
-	  animation-delay: 0.5s;
+		-webkit-animation-delay: 0.5s;
+		animation-delay: 0.5s;
 	}
 	
 	#vertical-right {
@@ -1240,8 +1248,8 @@ $green: #30b911;
 		stroke-dashoffset: 35;
 		-webkit-animation: dash 2s linear forwards 1;
 		animation: dash 2s linear forwards 1;
-	  -webkit-animation-delay: 0.5s;
-	   animation-delay: 0.5s;
+		-webkit-animation-delay: 0.5s;
+		animation-delay: 0.5s;
 	}
 	
 	#cloud-top-right, #cloud-bottom-left {
@@ -1249,8 +1257,8 @@ $green: #30b911;
 		stroke-dashoffset: 21;
 		-webkit-animation: dash 2s linear forwards 1;
 		animation: dash 2s linear forwards 1;
-	  -webkit-animation-delay: 0.5s;
-	   animation-delay: 0.5s;
+		-webkit-animation-delay: 0.5s;
+		animation-delay: 0.5s;
 	}
 	
 	#cloud-top-left, #cloud-right, #cloud-bottom {
@@ -1258,8 +1266,8 @@ $green: #30b911;
 		stroke-dashoffset: 28;
 		-webkit-animation: dash 2s linear forwards 1;
 		animation: dash 2s linear forwards 1;
-	  -webkit-animation-delay: 0.5s;
-	   animation-delay: 0.5s;
+		-webkit-animation-delay: 0.5s;
+		animation-delay: 0.5s;
 	}
 	
 	@-webkit-keyframes dash {

@@ -1,5 +1,5 @@
 <svg version="1.1" id="badge" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 width="400px" height="400px" viewBox="0 0 179.667 178" enable-background="new 0 0 179.667 178" xml:space="preserve">
+	 width="500px" height="500px" viewBox="0 0 179.667 178" enable-background="new 0 0 179.667 178" xml:space="preserve">
 <g id="icon">
 	
 		<polyline id="mod" fill="none" stroke="#F4CD7D" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
@@ -219,5 +219,7 @@
 <path id="circle-top-left" fill="none" stroke="#666C70" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10" d="
 	M30.469,30.449c-7.657,7.657-13.826,16.803-18.045,26.96"/>
 <polygon id="bolt" fill="none" stroke="#666C70" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+	86.229,134.614 82.729,144.489 88.604,144.489 88.604,151.74 96.604,139.989 90.604,139.989 92.979,134.614 "/> 
+<polygon id="bolt-alt" class="animated fadeIn" fill="none" stroke="#F4CD7D" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
 	86.229,134.614 82.729,144.489 88.604,144.489 88.604,151.74 96.604,139.989 90.604,139.989 92.979,134.614 "/>
 </svg>
