@@ -79,7 +79,15 @@
 			<div class="row">
 			
 				<div class="large-12 columns">
-					<a href="img/gallery-vapecity05.jpg" class="fancybox" rel="gallery"><img src="img/gallery-vapecity05.jpg" class="portfolio-img-last" alt="Vape City"></a>
+					<a href="img/gallery-vapecity05.jpg" class="fancybox" rel="gallery"><img src="img/gallery-vapecity05.jpg" class="portfolio-img" alt="Vape City"></a>
+				</div>
+			
+			</div>
+
+			<div class="row">
+			
+				<div class="large-12 columns">
+					<a href="img/gallery-vapecity06.jpg" class="fancybox" rel="gallery"><img src="img/gallery-vapecity06.jpg" class="portfolio-img-last" alt="Vape City"></a>
 				</div>
 			
 			</div>
