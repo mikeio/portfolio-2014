@@ -45,7 +45,7 @@
 						<h6>Services:</h6>
 						<h4>Web Design</h4>
 		
-						<a href="demo/elevate" class="btn-medium btn-sidebar">Elevate</a>
+						<a href="http://elevatehairdesign.com" class="btn-medium btn-sidebar">Launch Site</a>
 
 					</div>
 	
