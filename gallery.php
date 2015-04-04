@@ -190,6 +190,22 @@
 					<ul class="thumbnails cs-style-3">
 						<li>
 							<figure>
+								<a href="atlanta"><img src="img/gallery-featured-atlanta.jpg" alt="Atlanta Skyline"></a>
+								<figcaption>
+									<div class="icon_print-small show-for-medium-up"></div>
+									<h4>Atlanta</h4>
+									<span>Personal Project</span>
+									<a href="atlanta" class="btn-small inverse hide-for-small">View Project</a>
+								</figcaption>
+							</figure>
+						</li>
+					</ul>
+				</div>
+
+				<div class="large-6 columns">
+					<ul class="thumbnails cs-style-3">
+						<li>
+							<figure>
 								<a href="tabernacle"><img src="img/gallery-featured-tabernacle.jpg" alt="Tabernacle"></a>
 								<figcaption>
 									<div class="icon_print-small show-for-medium-up"></div>
@@ -201,6 +217,11 @@
 						</li>
 					</ul>
 				</div>
+
+			</div>
+
+			
+			<div class="row">
 
 				<div class="large-6 columns">
 					<ul class="thumbnails cs-style-3">
@@ -217,12 +238,7 @@
 						</li>
 					</ul>
 				</div>
-
-			</div>
-
-			
-			<div class="row">
-
+	
 				<div class="large-6 columns">
 					<ul class="thumbnails cs-style-3">
 						<li>
@@ -233,22 +249,6 @@
 									<h4>Cupid's Prey</h4>
 									<span>Lust List 2012</span>
 									<a href="cupidsprey" class="btn-small inverse hide-for-small">View Project</a>
-								</figcaption>
-							</figure>
-						</li>
-					</ul>
-				</div>
-	
-				<div class="large-6 columns">
-					<ul class="thumbnails cs-style-3">
-						<li>
-							<figure>
-								<a href="moneyjam"><img src="img/gallery-featured-moneyjam.jpg" alt="Hazard County"></a>
-								<figcaption>
-									<div class="icon_print-small show-for-medium-up"></div>
-									<h4>Hazard County</h4>
-									<span>Money Jam 2010</span>
-									<a href="moneyjam" class="btn-small inverse hide-for-small">View Project</a>
 								</figcaption>
 							</figure>
 						</li>

@@ -6075,8 +6075,7 @@ a.th {
       font-family: 'Montserrat', sans-serif;
       text-transform: uppercase;
       color: #999999;
-      font-size: 14px;
-      color: #999999; }
+      font-size: 14px; }
     footer a:visited {
       color: #999999; }
     footer a:hover {
@@ -6291,6 +6290,13 @@ a.th {
   .sidebar hr {
     margin: 15px auto 40px; }
   .sidebar #inverse {
+    color: #222222; }
+  .sidebar a {
+    color: #999999;
+    font-weight: 600; }
+  .sidebar a:visited {
+    color: #999999; }
+  .sidebar a:hover {
     color: #222222; }
 
   .portfolio-img {

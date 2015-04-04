@@ -788,7 +788,6 @@ $green: #30b911;
 			text-transform: uppercase;
 			color: $mediumgrey;
 			font-size: 14px;
-			color: $mediumgrey;
 		}
 
 		a:visited {
@@ -1082,6 +1081,19 @@ $green: #30b911;
 		}
 
 		#inverse {
+			color: $darkgrey;
+		}
+
+		a {
+			color: $mediumgrey;
+			font-weight: 600;
+		}
+
+		a:visited {
+			color: $mediumgrey;
+		}
+
+		a:hover {
 			color: $darkgrey;
 		}
 	}
