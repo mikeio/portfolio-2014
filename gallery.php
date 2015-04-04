@@ -31,7 +31,7 @@
 
 		<div class="bg_gradient">
 
-			<h5 class="category">Branding</h5>
+			<a name="branding"><h5 class="category">Branding</h5></a>
 			<hr>
 
 			<div class="row">
@@ -106,7 +106,7 @@
 	
 			</div>
 
-			<h5 class="category middle">Web Design</h5>
+			<a name="web"><h5 class="category middle">Web Design</h5></a>
 			<hr>
 
 			<div class="row">
@@ -181,7 +181,7 @@
 		
 			</div>
 
-			<h5 class="category middle">Print Design</h5>
+			<a name="print"><h5 class="category middle">Print Design</h5></a>
 			<hr>
 
 			<div class="row">
@@ -281,6 +281,27 @@
   </script>
 
   <script src="js/effects-alt.js"></script>
+
+  <script>
+	  // The function actually applying the offset
+	function offsetAnchor() {
+	    if(location.hash.length !== 0) {
+	        window.scrollTo(window.scrollX, window.scrollY - 150);
+	    }
+	}
+	
+	// This will capture hash changes while on the page
+	$(window).on("hashchange", function () {
+	    offsetAnchor();
+	});
+	
+	// This is here so that when you enter the page with a hash,
+	// it can provide the offset in that case too. Having a timeout
+	// seems necessary to allow the browser to jump to the anchor first.
+	window.setTimeout(function() {
+	    offsetAnchor();
+	}, 1); // The delay of 1 is arbitrary and may not always work right (although it did in my testing).
+</script>
 
 </body>
 

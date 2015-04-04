@@ -43,21 +43,21 @@
 			<div class="row">
 	
 				<div class="large-4 columns">
-					<div class="icon_branding"><a href="gallery"><span></span></a></div>
+					<div class="icon_branding"><a href="gallery#branding"><span></span></a></div>
 					<h4>Branding</h4>
 					<p class="expertise_detail">Make your customers feel confident with a strong brand that stands out in the marketplace.</p>
 				</div>
 	
-  				<div class="large-4 columns icon_middle">
-  					<div class="icon_print"><a href="gallery"><span></span></a></div>
-					<h4>Print Design</h4>
-					<p class="expertise_detail">Design in print form can help your company make a powerful and lasting first impression.</p>
-  				</div>
-	
   				<div class="large-4 columns">
-  					<div class="icon_web"><a href="gallery"><span></span></a></div>
+  					<div class="icon_web"><a href="gallery#web"><span></span></a></div>
 					<h4>Web Design</h4>
 					<p class="expertise_detail">I design and develop responsive and easy to use websites that are coded with HTML5 and CSS3.</p>
+  				</div>
+
+  				<div class="large-4 columns icon_middle">
+  					<div class="icon_print"><a href="gallery#print"><span></span></a></div>
+					<h4>Print Design</h4>
+					<p class="expertise_detail">Design in print form can help your company make a powerful and lasting first impression.</p>
   				</div>
 	
 			</div>
