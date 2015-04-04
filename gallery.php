@@ -31,8 +31,7 @@
 
 		<div class="bg_gradient">
 
-			<a name="branding"><h5 class="category">Branding</h5></a>
-			<hr>
+			<a name="branding"></a>
 
 			<div class="row">
 
@@ -106,8 +105,7 @@
 	
 			</div>
 
-			<a name="web"><h5 class="category middle">Web Design</h5></a>
-			<hr>
+			<a name="web"></a>
 
 			<div class="row">
 
@@ -181,8 +179,7 @@
 		
 			</div>
 
-			<a name="print"><h5 class="category middle">Print Design</h5></a>
-			<hr>
+			<a name="print"></a>
 
 			<div class="row">
 
@@ -286,7 +283,7 @@
 	  // The function actually applying the offset
 	function offsetAnchor() {
 	    if(location.hash.length !== 0) {
-	        window.scrollTo(window.scrollX, window.scrollY - 150);
+	        window.scrollTo(window.scrollX, window.scrollY - 114);
 	    }
 	}
 	
