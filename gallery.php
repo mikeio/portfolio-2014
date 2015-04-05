@@ -190,7 +190,7 @@
 								<a href="atlanta"><img src="img/gallery-featured-atlanta.jpg" alt="Atlanta Skyline"></a>
 								<figcaption>
 									<div class="icon_print-small show-for-medium-up"></div>
-									<h4>Atlanta</h4>
+									<h4>ATL Skyline</h4>
 									<span>Personal Project</span>
 									<a href="atlanta" class="btn-small inverse hide-for-small">View Project</a>
 								</figcaption>

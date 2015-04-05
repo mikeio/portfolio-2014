@@ -29,6 +29,11 @@ jQuery('.header-text').css({
   'top' : -(scrollPos/10)+"px",
 });
 
+// Hero BG
+jQuery('.header').css({
+  'background-position' : "50% " + (120-scrollPos/4)+"px",
+});
+
 // Call To Action
 jQuery('.bg_action').css({
   'background-position' : "50% " + (220+scrollPos/4)+"px",

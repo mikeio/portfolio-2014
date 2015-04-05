@@ -16,7 +16,7 @@
 	<div class="header header_alt">
 
 		<div class="header-text">
-			<h2>Atlanta</h2>
+			<h2>ATL Skyline</h2>
 			<h6 id="sub_header">Personal Project</h6>
 			<hr>
 		</div>

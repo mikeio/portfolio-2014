@@ -29,4 +29,9 @@ jQuery('.header-text').css({
   'top' : -(scrollPos/10)+"px",
 });
 
+// Hero BG
+jQuery('.header_alt').css({
+  'background-position' : "50% " + (-70-scrollPos/4)+"px",
+});
+
 }
