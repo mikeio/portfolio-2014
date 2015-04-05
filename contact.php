@@ -85,7 +85,7 @@
 	
 					<div class="row">
 
-    					<div class="large-6 columns">
+    					<div class="large-4 columns">
 	
 							<div data-alert class="alert-box success animated fadeIn" id="success">Success! Your message has been sent.<a href="#" class="close">&times;</a></div>
 							
