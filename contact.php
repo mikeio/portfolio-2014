@@ -55,8 +55,8 @@
 	
 								<div class="large-12 columns">
 
-						    		<label for="phone" id="phone">Phone</label>
-									<input type="text" name="phone" id="phone" size="30" value="">
+						    		<label for="Answer" id="answer">What is 2+2? <span id="required">*</span></label>
+									<input type="text" name="answer" value="" required="">
 
 								</div>
 
@@ -73,8 +73,7 @@
 	
 								<div class="large-12 columns">
 
-						    		<label for="Answer" id="answer">What is 2+2? <span id="required">*</span></label>
-									<input type="text" name="answer" value="" required="">
+									<input id="submit" type="submit" name="submit" value="Send Message" class="btn-medium btn-last">
 
 								</div>
 	
@@ -92,12 +91,6 @@
 							
 							<div data-alert class="alert-box alert animated fadeIn" id="error">Oops! Something went wrong, go back and try again.<a href="#" class="close">&times;</a></div>
 	
-    					</div>
-	
-    					<div class="large-6 columns">
-
-	       					<input id="submit" type="submit" name="submit" value="Send Message" class="btn-medium btn-last">
-
     					</div>
 	
 					</div>
