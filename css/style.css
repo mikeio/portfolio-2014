@@ -5622,7 +5622,7 @@ a.th {
     padding: 10px 12px;
     border: 2px solid #222222;
     font-size: 0.875em;
-    color: #222222;
+    color: #222222 !important;
     margin-bottom: 1.25em;
     -webkit-transition: all 0.3s ease;
     -moz-transition: all 0.3s ease;
@@ -5632,7 +5632,7 @@ a.th {
   .btn-medium:hover {
     background-color: crimson;
     border: 2px solid crimson;
-    color: white; }
+    color: white !important; }
 
   .btn-medium-inactive {
     border-radius: 3px;
