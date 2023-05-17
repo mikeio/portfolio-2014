@@ -1,29 +1,6 @@
 # portfolio-2014
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas imperdiet odio dui, ut dignissim tortor mollis vel. 
-
-## Installation
-
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
-
-```bash
-pip install foobar
-```
-
-## Usage
-
-```python
-import foobar
-
-foobar.pluralize('word') # returns 'words'
-foobar.pluralize('goose') # returns 'geese'
-foobar.singularize('phenomena') # returns 'phenomenon'
-```
-
-## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-Please make sure to update tests as appropriate.
+<img src="https://mikepeters.io/archive/portfolio-2014/img/thunmb.png">
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
