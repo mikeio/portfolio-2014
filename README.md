@@ -1,6 +1,6 @@
 # portfolio-2014
 
-![portfolio-2014]([image link](https://mikepeters.io/archive/portfolio-2014/img/thunmb.png))
+![image](https://github.com/mikeio/portfolio-2014/assets/7315707/16686035-8d4d-4f5a-8da5-22303a3f9022)
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
